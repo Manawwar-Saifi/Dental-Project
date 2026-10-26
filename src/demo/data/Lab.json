@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "69d2441f0eb50110843a923a",
+    "name": "Precision Dental Lab",
+    "contactPerson": "Rakesh Bansal",
+    "phone": "9315588361",
+    "address": "Plot 17, HSIIDC Industrial Area, Kundli, Sonipat",
+    "status": "active",
+    "procedures": [
+      {
+        "name": "PFM Crown",
+        "price": 600,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2441f42c82e638f3a923b"
+      },
+      {
+        "name": "Zirconia Crown",
+        "price": 1800,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2441f43e85a30fe3a923c"
+      },
+      {
+        "name": "Temporary Crown",
+        "price": 250,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2441f6cb6c7ae833a923d"
+      },
+      {
+        "name": "Night Guard (Hard Acrylic)",
+        "price": 900,
+        "basePrice": 0,
+        "pricingType": "fixed",
+        "_id": "69d2441f7267297cd23a923e"
+      }
+    ],
+    "createdAt": "2026-04-05T11:14:39.997Z",
+    "updatedAt": "2026-04-05T11:14:39.997Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d2460b3cbfeb026e3a923f",
+    "name": "Sonipat Dental Ceramics",
+    "contactPerson": "Manish Goyal",
+    "phone": "9417644787",
+    "address": "23, Old DC Road, Sonipat",
+    "status": "active",
+    "procedures": [
+      {
+        "name": "PFM Crown",
+        "price": 550,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2460bb20170fbfe3a9240"
+      },
+      {
+        "name": "Zirconia 5yr",
+        "price": 1500,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2460bef1e6d918a3a9241"
+      },
+      {
+        "name": "Layered Zirconia",
+        "price": 2400,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2460b03ee46306c3a9242"
+      },
+      {
+        "name": "E-max Veneer",
+        "price": 3500,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2460b29071ade183a9243"
+      }
+    ],
+    "createdAt": "2026-04-05T11:22:51.240Z",
+    "updatedAt": "2026-04-05T11:22:51.240Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d24894fa483ea6713a9244",
+    "name": "Haryana Denture Studio",
+    "contactPerson": "Vijay Panchal",
+    "phone": "7328224093",
+    "address": "Shop 9, Gohana Road Market, Sonipat",
+    "status": "active",
+    "procedures": [
+      {
+        "name": "Complete Denture (per arch)",
+        "price": 1800,
+        "basePrice": 0,
+        "pricingType": "per_arch",
+        "_id": "69d24894a088592e843a9245"
+      },
+      {
+        "name": "Partial Denture",
+        "price": 150,
+        "basePrice": 600,
+        "pricingType": "fixed_plus_per_unit",
+        "notes": "₹600 base + ₹150 per tooth",
+        "_id": "69d24894a42e1c8cd53a9246"
+      },
+      {
+        "name": "Denture Reline",
+        "price": 700,
+        "basePrice": 0,
+        "pricingType": "fixed",
+        "_id": "69d2489415edf487c73a9247"
+      },
+      {
+        "name": "Cast Partial Denture (RPD)",
+        "price": 2500,
+        "basePrice": 0,
+        "pricingType": "fixed",
+        "_id": "69d24894b0c33e93033a9248"
+      }
+    ],
+    "createdAt": "2026-04-05T11:33:40.876Z",
+    "updatedAt": "2026-04-05T11:33:40.876Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d2496f724d4b64a43a9249",
+    "name": "DigiDent Implant Lab",
+    "contactPerson": "Harsh Mittal",
+    "phone": "9321457669",
+    "address": "Unit 4, Sector 37, Gurugram",
+    "status": "active",
+    "procedures": [
+      {
+        "name": "Screw Retained Implant PFM",
+        "price": 1400,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2496f446f2424c43a924a"
+      },
+      {
+        "name": "Cement Retained Implant PFM",
+        "price": 900,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2496fa0f42992723a924b"
+      },
+      {
+        "name": "Implant Zirconia (Monolith)",
+        "price": 2200,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2496fa4c2b898ce3a924c"
+      },
+      {
+        "name": "DMLS Custom Abutment",
+        "price": 2400,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2496f78a3f325d63a924d"
+      },
+      {
+        "name": "Implant Prosthetic Screw",
+        "price": 300,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "69d2496f77f8fc93123a924e"
+      }
+    ],
+    "createdAt": "2026-04-05T11:37:19.093Z",
+    "updatedAt": "2026-04-05T11:37:19.093Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "_id": "6a19955eb72098f8793a94cd",
+    "orderNumber": "LO-2605-0001",
+    "lab": "69d2441f0eb50110843a923a",
+    "patient": "6a02ad6911b51303083a970c",
+    "doctor": "Dr. Arjun Malik",
+    "items": [
+      {
+        "procedure": "PFM Crown",
+        "quantity": 1,
+        "unitPrice": 600,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6a19955e47e3fa5d563a94ce",
+        "totalPrice": 600
+      }
+    ],
+    "totalAmount": 600,
+    "amountPaid": 600,
+    "balanceDue": 0,
+    "paymentStatus": "paid",
+    "paymentHistory": [
+      {
+        "amount": 600,
+        "date": "2026-06-05T10:10:54.912Z",
+        "method": "UPI",
+        "_id": "6a22a0ae2d4c2f8f263a94cf"
+      }
+    ],
+    "deliveryStatus": "delivered",
+    "archived": false,
+    "orderDate": "2026-05-29T13:32:14.193Z",
+    "expectedDelivery": "2026-06-05T00:00:00.000Z",
+    "deliveredDate": "2026-06-05T09:50:07.856Z",
+    "notes": "Shade A2, tooth 36",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-05-29T13:32:14.194Z",
+    "updatedAt": "2026-06-05T10:10:54.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a218f43a37705cb823a94d0",
+    "orderNumber": "LO-2606-0001",
+    "lab": "69d2441f0eb50110843a923a",
+    "patient": "6a0c121145251c2f723a970e",
+    "doctor": "Dr. Arjun Malik",
+    "items": [
+      {
+        "procedure": "PFM Crown",
+        "quantity": 1,
+        "unitPrice": 600,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6a218f431fb273325b3a94d1",
+        "totalPrice": 600
+      }
+    ],
+    "totalAmount": 600,
+    "amountPaid": 600,
+    "balanceDue": 0,
+    "paymentStatus": "paid",
+    "paymentHistory": [
+      {
+        "amount": 600,
+        "date": "2026-06-11T01:44:19.982Z",
+        "method": "Cash",
+        "_id": "6a2a12f37eefc8cefd3a94d2"
+      }
+    ],
+    "deliveryStatus": "delivered",
+    "archived": true,
+    "orderDate": "2026-06-04T14:44:19.976Z",
+    "expectedDelivery": "2026-06-10T00:00:00.000Z",
+    "deliveredDate": "2026-06-10T17:44:19.982Z",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-06-04T14:44:19.982Z",
+    "updatedAt": "2026-06-13T01:44:19.982Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48984ed8ec42cdb93a94d3",
+    "orderNumber": "LO-2607-0001",
+    "lab": "69d2460b3cbfeb026e3a923f",
+    "patient": "6a25a49b24609d8df23a9714",
+    "doctor": "Dr. Arjun Malik",
+    "items": [
+      {
+        "procedure": "PFM Crown",
+        "quantity": 1,
+        "unitPrice": 550,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6a48984edfeed349c83a94d4",
+        "totalPrice": 550
+      }
+    ],
+    "totalAmount": 550,
+    "amountPaid": 0,
+    "balanceDue": 550,
+    "paymentStatus": "unpaid",
+    "paymentHistory": [],
+    "deliveryStatus": "rejected",
+    "archived": false,
+    "orderDate": "2026-07-04T05:21:18.750Z",
+    "expectedDelivery": "2026-07-10T00:00:00.000Z",
+    "notes": "Shade mismatch - remake requested",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-07-04T05:21:18.752Z",
+    "updatedAt": "2026-07-09T09:21:18.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54eadbab67243e9c3a94d6",
+    "orderNumber": "LO-2607-0002",
+    "lab": "69d2496f724d4b64a43a9249",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "doctor": "Dr. Kavita Rathee",
+    "items": [
+      {
+        "procedure": "Screw Retained Implant PFM",
+        "quantity": 1,
+        "unitPrice": 1400,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6a54eadb73d486c5a73a94d7",
+        "totalPrice": 1400
+      },
+      {
+        "procedure": "Implant Prosthetic Screw",
+        "quantity": 1,
+        "unitPrice": 300,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6a54eadb7d86075ae33a94d8",
+        "totalPrice": 300
+      }
+    ],
+    "totalAmount": 1700,
+    "amountPaid": 1700,
+    "balanceDue": 0,
+    "paymentStatus": "paid",
+    "paymentHistory": [
+      {
+        "amount": 1700,
+        "date": "2026-07-23T22:40:43.855Z",
+        "method": "Bank Transfer",
+        "_id": "6a62986b39d504f1ac3a94d9"
+      }
+    ],
+    "deliveryStatus": "delivered",
+    "archived": false,
+    "orderDate": "2026-07-13T13:40:43.854Z",
+    "expectedDelivery": "2026-07-21T00:00:00.000Z",
+    "deliveredDate": "2026-07-23T18:40:43.855Z",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "createdAt": "2026-07-13T13:40:43.855Z",
+    "updatedAt": "2026-07-23T22:40:43.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a734f4841e767086d3a94da",
+    "orderNumber": "LO-2608-0001",
+    "lab": "69d2441f0eb50110843a923a",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "doctor": "Dr. Arjun Malik",
+    "items": [
+      {
+        "procedure": "PFM Crown",
+        "quantity": 1,
+        "unitPrice": 600,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6a734f48a8e9eb3ac43a94db",
+        "totalPrice": 600
+      }
+    ],
+    "totalAmount": 600,
+    "amountPaid": 300,
+    "balanceDue": 300,
+    "paymentStatus": "partially_paid",
+    "paymentHistory": [
+      {
+        "amount": 300,
+        "date": "2026-08-12T05:57:12.273Z",
+        "method": "UPI",
+        "_id": "6a7c0b384015ebae533a94dc"
+      }
+    ],
+    "deliveryStatus": "delivered",
+    "archived": false,
+    "orderDate": "2026-08-05T14:57:12.272Z",
+    "expectedDelivery": "2026-08-11T00:00:00.000Z",
+    "deliveredDate": "2026-08-11T20:57:12.273Z",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-08-05T14:57:12.273Z",
+    "updatedAt": "2026-08-12T05:57:12.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad6322f1bd2eeceb63a94dd",
+    "orderNumber": "LO-2610-0001",
+    "lab": "69d2460b3cbfeb026e3a923f",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "doctor": "Dr. Arjun Malik",
+    "items": [
+      {
+        "procedure": "Zirconia 5yr",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "basePrice": 0,
+        "pricingType": "per_unit",
+        "_id": "6ad6322f3d9bdb22bd3a94de",
+        "totalPrice": 1500
+      }
+    ],
+    "totalAmount": 1500,
+    "amountPaid": 0,
+    "balanceDue": 1500,
+    "paymentStatus": "unpaid",
+    "paymentHistory": [],
+    "deliveryStatus": "in_progress",
+    "archived": false,
+    "orderDate": "2026-10-19T15:07:27.710Z",
+    "expectedDelivery": "2026-10-26T00:00:00.000Z",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-10-19T15:07:27.713Z",
+    "updatedAt": "2026-10-20T15:07:27.713Z",
+    "__v": 0
+  }
+]

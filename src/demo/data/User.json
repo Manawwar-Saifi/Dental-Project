@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "69cc9ff01f6bb4ae063a91c5",
+    "name": "Dr. Arjun Malik",
+    "email": "admin@example.com",
+    "phone": "9812045673",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "admin",
+    "isActive": true,
+    "lastLogin": "2026-10-26T03:34:51.245Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-01T04:32:48.116Z",
+    "updatedAt": "2026-10-26T03:34:51.245Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cca5912aa8103b393a91c6",
+    "name": "Dr. Kavita Rathee",
+    "email": "kavita.rathee@example.com",
+    "phone": "9896012347",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "admin",
+    "isActive": true,
+    "lastLogin": "2026-10-26T04:11:42.140Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-01T04:56:49.639Z",
+    "updatedAt": "2026-10-26T04:11:42.140Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ce028fdacdcdbebd3a91c7",
+    "name": "Sandeep Dahiya",
+    "email": "clinic_manager@example.com",
+    "phone": "9729034518",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "clinic_manager",
+    "isActive": true,
+    "lastLogin": "2026-10-26T03:42:49.781Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-02T05:45:51.920Z",
+    "updatedAt": "2026-10-26T03:42:49.781Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ce06395c660594f03a91c8",
+    "name": "Pooja Kadian",
+    "email": "pooja.kadian@example.com",
+    "phone": "8901234765",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "clinic_manager",
+    "isActive": true,
+    "lastLogin": "2026-10-26T03:56:18.151Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-02T06:01:29.577Z",
+    "updatedAt": "2026-10-26T03:56:18.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf439dc35ff0179e3a91c9",
+    "name": "Ritu Sangwan",
+    "email": "user@example.com",
+    "phone": "7015823946",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "user",
+    "isActive": true,
+    "lastLogin": "2026-10-26T03:38:09.823Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": true,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-03T04:35:41.671Z",
+    "updatedAt": "2026-10-26T03:38:09.823Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf47ab423e51957c3a91ca",
+    "name": "Amit Hooda",
+    "email": "amit.hooda@example.com",
+    "phone": "9467301258",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "user",
+    "isActive": true,
+    "lastLogin": "2026-10-26T03:52:20.888Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-03T04:52:59.169Z",
+    "updatedAt": "2026-10-26T03:52:20.888Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d35c7787b5d2bb243a91cb",
+    "name": "Nisha Antil",
+    "email": "blog_editor@example.com",
+    "phone": "8295607134",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "blog_editor",
+    "isActive": true,
+    "lastLogin": "2026-10-23T10:17:38.324Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-06T07:10:47.636Z",
+    "updatedAt": "2026-10-23T10:17:38.324Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf4d92578ae0b2603a91cc",
+    "name": "Deepak Jangra",
+    "email": "deepak.jangra@example.com",
+    "phone": "9354718206",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "role": "user",
+    "isActive": false,
+    "lastLogin": "2026-08-13T12:32:02.098Z",
+    "notificationPreferences": {
+      "email": {
+        "appointments": true,
+        "payments": true,
+        "systemAlerts": true
+      },
+      "sms": {
+        "appointments": false,
+        "payments": false,
+        "systemAlerts": false
+      }
+    },
+    "createdAt": "2026-04-03T05:18:10.038Z",
+    "updatedAt": "2026-08-14T06:00:42.747Z",
+    "__v": 0
+  }
+]

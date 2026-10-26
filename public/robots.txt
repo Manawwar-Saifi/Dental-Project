@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /verify-otp
+Disallow: /reset-password
+Disallow: /dashboard
+Disallow: /appointments
+Disallow: /payments
+Disallow: /invoices
+Disallow: /reports
+Disallow: /my-treatments
+Disallow: /membership
+Disallow: /profile
+Disallow: /notifications
+
+Sitemap: https://dentalclinic.example.com/sitemap.xml

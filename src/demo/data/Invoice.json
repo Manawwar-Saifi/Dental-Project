@@ -1,0 +1,6745 @@
+[
+  {
+    "_id": "69f41e87eccbc1d2363a9273",
+    "invoiceNumber": "INV-2605-0001",
+    "patient": "69f41dd3d2bed64e653a970d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "69f41e878c9df13daf3a9272",
+    "invoiceDate": "2026-05-01T03:31:19.236Z",
+    "dueDate": "2026-05-08T03:31:19.236Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "69f41e87ce920f85213a9274"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-01T03:31:19.238Z",
+    "updatedAt": "2026-05-01T03:31:19.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f4340285e2432a763a9277",
+    "invoiceNumber": "INV-2605-0002",
+    "patient": "69f41dd3d2bed64e653a970d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "69f43402e649be3f2e3a9276",
+    "invoiceDate": "2026-05-01T05:02:58.251Z",
+    "dueDate": "2026-05-08T05:02:58.250Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 25",
+        "quantity": 1,
+        "unitPrice": 1200,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1200,
+        "taxAmount": 0,
+        "total": 1200,
+        "_id": "69f43402cbf3eddb5c3a9278"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "69f43402e06ba3ae483a9279"
+      }
+    ],
+    "subtotal": 2700,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2700,
+    "amountPaid": 1900,
+    "balanceDue": 800,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "upi",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-01T05:02:58.253Z",
+    "updatedAt": "2026-05-07T05:31:33.757Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a02adf82c34bf8ea93a9250",
+    "invoiceNumber": "INV-2605-0003",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a02adf752e04f34453a924f",
+    "invoiceDate": "2026-05-12T04:35:04.012Z",
+    "dueDate": "2026-05-19T04:35:04.011Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a02adf8ddafccb1953a9251"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-12T04:35:04.013Z",
+    "updatedAt": "2026-05-12T04:35:04.142Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a02bbca131c0557a93a9254",
+    "invoiceNumber": "INV-2605-0004",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a02bbca77ac865c703a9253",
+    "invoiceDate": "2026-05-12T05:34:02.207Z",
+    "dueDate": "2026-05-19T05:34:02.210Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5500,
+        "taxAmount": 0,
+        "total": 5500,
+        "_id": "6a02bbca183a2793203a9255"
+      },
+      {
+        "itemType": "treatment",
+        "description": "PFM Crown - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 6500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 6500,
+        "taxAmount": 0,
+        "total": 6500,
+        "_id": "6a02bbca8b25519b973a9256"
+      }
+    ],
+    "subtotal": 12000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 12000,
+    "amountPaid": 12000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-12T05:34:02.211Z",
+    "updatedAt": "2026-06-10T14:18:41.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c130186db0a7a833a927e",
+    "invoiceNumber": "INV-2605-0005",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a0c130183ec67d1393a927d",
+    "invoiceDate": "2026-05-19T07:36:33.572Z",
+    "dueDate": "2026-05-26T07:36:33.572Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a0c1301d218b29abc3a927f"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-19T07:36:33.573Z",
+    "updatedAt": "2026-05-19T07:36:33.682Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c21c593525f11f33a9281",
+    "invoiceNumber": "INV-2605-0006",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-05-19T08:39:33.893Z",
+    "dueDate": "2026-05-26T08:39:33.894Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6a0c21c504ad45e1883a9282"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-19T08:39:33.896Z",
+    "updatedAt": "2026-05-19T08:39:33.896Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c241df598f293193a9286",
+    "invoiceNumber": "INV-2605-0007",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a0c241d49f0b353133a9285",
+    "invoiceDate": "2026-05-19T08:49:33.876Z",
+    "dueDate": "2026-05-26T08:49:33.875Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 37",
+        "quantity": 1,
+        "unitPrice": 5000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4250,
+        "taxAmount": 0,
+        "total": 4250,
+        "_id": "6a0c241d750555f6703a9287"
+      },
+      {
+        "itemType": "treatment",
+        "description": "PFM Crown - Tooth 37",
+        "quantity": 1,
+        "unitPrice": 6500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5525,
+        "taxAmount": 0,
+        "total": 5525,
+        "_id": "6a0c241daee3e3b9fd3a9288"
+      }
+    ],
+    "subtotal": 9775,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 9775,
+    "amountPaid": 9775,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-19T08:49:33.878Z",
+    "updatedAt": "2026-06-04T14:29:19.977Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a125ee229c08915093a9295",
+    "invoiceNumber": "INV-2605-0008",
+    "patient": "6a125dcb16f85974b83a970f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a125e1945945e46c43a9294",
+    "invoiceDate": "2026-05-24T02:13:54.865Z",
+    "dueDate": "2026-05-31T02:13:54.865Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a125ee25cf5bbcf343a9296"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-24T02:13:54.866Z",
+    "updatedAt": "2026-05-24T02:13:54.866Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1431e9a3b0492ed13a9299",
+    "invoiceNumber": "INV-2605-0009",
+    "patient": "6a125dcb16f85974b83a970f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-05-25T11:26:33.719Z",
+    "dueDate": "2026-06-01T11:26:33.722Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Cosmodentofacial Family Dental Plan",
+        "quantity": 1,
+        "unitPrice": 4999,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4999,
+        "taxAmount": 0,
+        "total": 4999,
+        "_id": "6a1431e9ea3f8f5ab53a929a"
+      }
+    ],
+    "subtotal": 4999,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4999,
+    "amountPaid": 4999,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-25T11:26:33.723Z",
+    "updatedAt": "2026-05-25T11:26:33.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a14356d66f92c9bfd3a929e",
+    "invoiceNumber": "INV-2605-0010",
+    "patient": "6a125dcb16f85974b83a970f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a14356d0e847681113a929d",
+    "invoiceDate": "2026-05-25T11:41:33.705Z",
+    "dueDate": "2026-06-01T11:41:33.703Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "In-office Teeth Whitening",
+        "quantity": 1,
+        "unitPrice": 6500,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5200,
+        "taxAmount": 0,
+        "total": 5200,
+        "_id": "6a14356d7e965ccaf63a929f"
+      }
+    ],
+    "subtotal": 5200,
+    "discount": {
+      "percentage": 5,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4940,
+    "amountPaid": 4940,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-25T11:41:33.706Z",
+    "updatedAt": "2026-05-25T13:28:38.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a143b1f15316e6c503a92ac",
+    "invoiceNumber": "INV-2605-0011",
+    "patient": "6a143ac5ce846a2bee3a9710",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a143b1ff85694acf03a92ab",
+    "invoiceDate": "2026-05-25T12:05:51.623Z",
+    "dueDate": "2026-06-01T12:05:51.622Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a143b1f5b0ee5b18e3a92ad"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cca5912aa8103b393a91c6",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-25T12:05:51.624Z",
+    "updatedAt": "2026-05-25T12:05:51.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a15a46fc2c505ba4b3a9427",
+    "invoiceNumber": "INV-2605-0012",
+    "patient": "6a143ac5ce846a2bee3a9710",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "invoiceDate": "2026-05-26T13:47:26.997Z",
+    "dueDate": "2026-06-02T13:47:26.997Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Cosmodentofacial Family Dental Plan",
+        "quantity": 1,
+        "unitPrice": 4999,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4999,
+        "taxAmount": 0,
+        "total": 4999,
+        "_id": "6a15a46f0f37fa0c913a9428"
+      }
+    ],
+    "subtotal": 4999,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4999,
+    "amountPaid": 4999,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-26T13:47:27.000Z",
+    "updatedAt": "2026-05-26T13:47:27.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a16ae68c0ce78a19c3a92b0",
+    "invoiceNumber": "INV-2605-0013",
+    "patient": "6a16ad786ce8004dff3a9711",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a16ae6801cf1c72793a92af",
+    "invoiceDate": "2026-05-27T08:42:16.231Z",
+    "dueDate": "2026-06-03T08:42:16.232Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a16ae68379ba8949d3a92b1"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-27T08:42:16.233Z",
+    "updatedAt": "2026-05-27T09:35:14.406Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1ab0a8f5c2c46c3c3a92b5",
+    "invoiceNumber": "INV-2605-0014",
+    "patient": "6a1ab082b07dafd7433a9712",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a1ab0a8c1e9ce8a853a92b4",
+    "invoiceDate": "2026-05-30T09:40:56.440Z",
+    "dueDate": "2026-06-06T09:40:56.441Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a1ab0a8a351caca1a3a92b6"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-05-30T09:40:56.444Z",
+    "updatedAt": "2026-06-04T14:00:34.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1ec82934fac371613a9260",
+    "invoiceNumber": "INV-2606-0001",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-06-02T12:10:17.390Z",
+    "dueDate": "2026-06-09T12:10:17.390Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6a1ec829a3c4f58ce83a9261"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-02T12:10:17.392Z",
+    "updatedAt": "2026-06-02T12:10:17.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a218886e4bf12772c3a9422",
+    "invoiceNumber": "INV-2606-0002",
+    "patient": "6a1ab082b07dafd7433a9712",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-06-04T14:15:34.769Z",
+    "dueDate": "2026-06-11T14:15:34.769Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6a218886a1e39df91c3a9423"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-04T14:15:34.770Z",
+    "updatedAt": "2026-06-04T14:15:34.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a25a5512ce0bfe0233a92bd",
+    "invoiceNumber": "INV-2606-0003",
+    "patient": "6a25a49b24609d8df23a9714",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a25a4d52542a768b73a92bc",
+    "invoiceDate": "2026-06-07T17:07:29.321Z",
+    "dueDate": "2026-06-14T17:07:29.322Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a25a551e6ed7d1fe23a92be"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-07T17:07:29.325Z",
+    "updatedAt": "2026-06-07T17:07:29.325Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2796379118e9f44c3a92ba",
+    "invoiceNumber": "INV-2606-0004",
+    "patient": "6a2795e8ffdf4f573d3a9713",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a27963740d39249353a92b9",
+    "invoiceDate": "2026-06-09T04:27:35.986Z",
+    "dueDate": "2026-06-16T04:27:35.987Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a2796371a1500c4e53a92bb"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-09T04:27:35.990Z",
+    "updatedAt": "2026-06-09T04:27:35.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2a5295703d4ecc793a92cf",
+    "invoiceNumber": "INV-2606-0005",
+    "patient": "6a2a525da3831803343a9715",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a2a52957c14a1a1293a92ce",
+    "invoiceDate": "2026-06-11T06:15:49.908Z",
+    "dueDate": "2026-06-18T06:15:49.908Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a2a529555b17e52da3a92d0"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "cancelledAt": "2026-06-15T20:25:48.201Z",
+    "cancelledBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Appointment cancelled",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-11T06:15:49.910Z",
+    "updatedAt": "2026-06-15T20:25:48.201Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2b8c93bbf386ffd53a92c1",
+    "invoiceNumber": "INV-2606-0006",
+    "patient": "6a25a49b24609d8df23a9714",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-06-12T04:35:31.713Z",
+    "dueDate": "2026-06-19T04:35:31.713Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6a2b8c933067883af63a92c2"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf4d92578ae0b2603a91cc",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-12T04:35:31.714Z",
+    "updatedAt": "2026-06-12T04:35:31.714Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2b8eaf6a0d8386763a92c6",
+    "invoiceNumber": "INV-2606-0007",
+    "patient": "6a25a49b24609d8df23a9714",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a2b8eaf86205034643a92c5",
+    "invoiceDate": "2026-06-12T04:44:31.708Z",
+    "dueDate": "2026-06-19T04:44:31.707Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 35",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5100,
+        "taxAmount": 0,
+        "total": 5100,
+        "_id": "6a2b8eaffb611d8e5d3a92c7"
+      },
+      {
+        "itemType": "treatment",
+        "description": "PFM Crown - Tooth 35",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5100,
+        "taxAmount": 0,
+        "total": 5100,
+        "_id": "6a2b8eafe182d6f1be3a92c8"
+      }
+    ],
+    "subtotal": 10200,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 10200,
+    "amountPaid": 10200,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-12T04:44:31.709Z",
+    "updatedAt": "2026-07-13T11:06:18.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a34ca9531283591e23a92d2",
+    "invoiceNumber": "INV-2606-0008",
+    "patient": "6a34ca81484f8bb95d3a9716",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a34ca9500c1e2ee453a92d1",
+    "invoiceDate": "2026-06-19T04:50:29.166Z",
+    "dueDate": "2026-06-26T04:50:29.169Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a34ca95d89547b6593a92d3"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-19T04:50:29.169Z",
+    "updatedAt": "2026-06-22T12:36:30.744Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3930c23e1edbbee43a92d7",
+    "invoiceNumber": "INV-2606-0009",
+    "patient": "6a34ca81484f8bb95d3a9716",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a3930c2c387d0e5ae3a92d6",
+    "invoiceDate": "2026-06-22T12:55:30.834Z",
+    "dueDate": "2026-06-29T12:55:30.835Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "6a3930c27ca84e06723a92d8"
+      }
+    ],
+    "subtotal": 1500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1500,
+    "amountPaid": 1500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-22T12:55:30.835Z",
+    "updatedAt": "2026-06-22T12:55:30.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3f56a66014011a243a9301",
+    "invoiceNumber": "INV-2606-0010",
+    "patient": "6a3f5655eeab07062a3a9719",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a3f56a57dfcb9fa8e3a9300",
+    "invoiceDate": "2026-06-27T04:50:45.999Z",
+    "dueDate": "2026-07-04T04:50:46.002Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a3f56a6f6f7fd8f983a9302"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-27T04:50:46.003Z",
+    "updatedAt": "2026-06-27T04:50:46.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a424495820ea5f6623a92dc",
+    "invoiceNumber": "INV-2606-0011",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a424495766e7209433a92db",
+    "invoiceDate": "2026-06-29T10:10:29.099Z",
+    "dueDate": "2026-07-06T10:10:29.100Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "6a424495c62afd71b83a92dd"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-29T10:10:29.100Z",
+    "updatedAt": "2026-06-29T10:10:29.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a42521892ba8d38ba3a92df",
+    "invoiceNumber": "INV-2606-0012",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "invoiceDate": "2026-06-29T11:08:08.011Z",
+    "dueDate": "2026-07-06T11:08:08.013Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Implant Post Care",
+        "quantity": 1,
+        "unitPrice": 4500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4500,
+        "taxAmount": 0,
+        "total": 4500,
+        "_id": "6a425218fab87853ad3a92e0"
+      }
+    ],
+    "subtotal": 4500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4500,
+    "amountPaid": 4500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cca5912aa8103b393a91c6",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-29T11:08:08.013Z",
+    "updatedAt": "2026-06-29T11:08:08.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a42577b591b860c913a92e4",
+    "invoiceNumber": "INV-2606-0013",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a42577b1f5f3b4f6f3a92e3",
+    "invoiceDate": "2026-06-29T11:31:07.936Z",
+    "dueDate": "2026-07-06T11:31:07.938Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Dental Implant (Osstem) - Tooth 26",
+        "quantity": 1,
+        "unitPrice": 30000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 30000,
+        "taxAmount": 0,
+        "total": 30000,
+        "_id": "6a44dc960855664e463a9478"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Implant Crown (PFM) - Tooth 26",
+        "quantity": 1,
+        "unitPrice": 8000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 8000,
+        "taxAmount": 0,
+        "total": 8000,
+        "_id": "6a44dc9699de47d2573a9479"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Bone Graft (Bio-Oss 0.5g) - Tooth site",
+        "quantity": 1,
+        "unitPrice": 9000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 9000,
+        "taxAmount": 0,
+        "total": 9000,
+        "_id": "6a44dc96ca3bd08a693a947a"
+      }
+    ],
+    "subtotal": 47000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 47000,
+    "amountPaid": 15000,
+    "balanceDue": 32000,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": "2026-07-01T09:23:34.970Z",
+    "lastEditedBy": "69cca5912aa8103b393a91c6",
+    "editHistory": [
+      {
+        "editedAt": "2026-07-01T09:23:34.970Z",
+        "editedBy": "69cca5912aa8103b393a91c6",
+        "reason": "Bone graft added after CBCT review",
+        "changes": {
+          "items": {
+            "from": [
+              {
+                "itemType": "treatment",
+                "description": "Dental Implant (Osstem) - Tooth 26",
+                "quantity": 1,
+                "unitPrice": 30000,
+                "discount": {
+                  "percentage": 30,
+                  "amount": 0
+                },
+                "taxRate": 0,
+                "_id": "6a42577badccad92d63a92e5",
+                "amount": 21000,
+                "taxAmount": 0,
+                "total": 21000
+              },
+              {
+                "itemType": "treatment",
+                "description": "Implant Crown (PFM) - Tooth 26",
+                "quantity": 1,
+                "unitPrice": 8000,
+                "discount": {
+                  "percentage": 30,
+                  "amount": 0
+                },
+                "taxRate": 0,
+                "_id": "6a42577b830f2400223a92e6",
+                "amount": 5600,
+                "taxAmount": 0,
+                "total": 5600
+              }
+            ],
+            "to": [
+              {
+                "itemType": "treatment",
+                "description": "Dental Implant (Osstem) - Tooth 26",
+                "unitPrice": 30000,
+                "quantity": 1,
+                "amount": 30000,
+                "taxAmount": 0,
+                "total": 30000
+              },
+              {
+                "itemType": "treatment",
+                "description": "Implant Crown (PFM) - Tooth 26",
+                "unitPrice": 8000,
+                "quantity": 1,
+                "amount": 8000,
+                "taxAmount": 0,
+                "total": 8000
+              },
+              {
+                "itemType": "treatment",
+                "description": "Bone Graft (Bio-Oss 0.5g) - Tooth site",
+                "unitPrice": 9000,
+                "quantity": 1,
+                "amount": 9000,
+                "taxAmount": 0,
+                "total": 9000
+              }
+            ]
+          },
+          "discount": {
+            "from": {
+              "percentage": 0,
+              "amount": 0
+            },
+            "to": {
+              "percentage": 0,
+              "amount": 0
+            }
+          },
+          "grandTotal": {
+            "from": 26600,
+            "to": 47000
+          }
+        },
+        "_id": "6a44dc967eeabd9e4a3a973e"
+      }
+    ],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-29T11:31:07.939Z",
+    "updatedAt": "2026-07-13T13:11:43.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a43377fd1de315f693a9304",
+    "invoiceNumber": "INV-2606-0014",
+    "patient": "6a4336ef1225f691ba3a971a",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a43372058d1a2121a3a9303",
+    "invoiceDate": "2026-06-30T03:26:55.777Z",
+    "dueDate": "2026-07-07T03:26:55.778Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a43377f4a038012ae3a9305"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-30T03:26:55.781Z",
+    "updatedAt": "2026-06-30T03:26:55.781Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a436b90e2460d556c3a92ed",
+    "invoiceNumber": "INV-2606-0015",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a436b9028bb4ec9d43a92ec",
+    "invoiceDate": "2026-06-30T07:09:04.103Z",
+    "dueDate": "2026-07-07T07:09:04.103Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a436b901be32820b73a92ee"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-30T07:09:04.105Z",
+    "updatedAt": "2026-06-30T07:09:04.186Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a437b0939c48ea99b3a92f0",
+    "invoiceNumber": "INV-2606-0016",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-06-30T08:15:05.439Z",
+    "dueDate": "2026-07-07T08:15:05.441Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Cosmodentofacial Family Dental Plan",
+        "quantity": 1,
+        "unitPrice": 4999,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4999,
+        "taxAmount": 0,
+        "total": 4999,
+        "_id": "6a437b09e0ca5246023a92f1"
+      }
+    ],
+    "subtotal": 4999,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4999,
+    "amountPaid": 4999,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-30T08:15:05.441Z",
+    "updatedAt": "2026-06-30T08:15:05.441Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a437cadaeb82334203a92f5",
+    "invoiceNumber": "INV-2606-0017",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a437cad09ae6a53403a92f4",
+    "invoiceDate": "2026-06-30T08:22:05.398Z",
+    "dueDate": "2026-07-07T08:22:05.399Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1800,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1440,
+        "taxAmount": 0,
+        "total": 1440,
+        "_id": "6a437cad598b2988743a92f6"
+      }
+    ],
+    "subtotal": 1440,
+    "discount": {
+      "percentage": 5,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1368,
+    "amountPaid": 1368,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-06-30T08:22:05.400Z",
+    "updatedAt": "2026-07-03T14:56:14.400Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4e301bcb4e8ad3f73a92a6",
+    "invoiceNumber": "INV-2607-0001",
+    "patient": "6a125dcb16f85974b83a970f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a4e301baf0979f08a3a92a5",
+    "invoiceDate": "2026-07-08T11:10:19.217Z",
+    "dueDate": "2026-07-15T11:10:19.218Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 45",
+        "quantity": 1,
+        "unitPrice": 1000,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 800,
+        "taxAmount": 0,
+        "total": 800,
+        "_id": "6a4e301bf6bd3845ea3a92a7"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 35",
+        "quantity": 1,
+        "unitPrice": 1200,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 960,
+        "taxAmount": 0,
+        "total": 960,
+        "_id": "6a4e301b35477e2fce3a92a8"
+      }
+    ],
+    "subtotal": 1760,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1760,
+    "amountPaid": 900,
+    "balanceDue": 860,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-07-08T11:10:19.219Z",
+    "updatedAt": "2026-07-13T12:10:29.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a571d49e2bb92e1ab3a9309",
+    "invoiceNumber": "INV-2607-0002",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a571d49b9a82c328f3a9308",
+    "invoiceDate": "2026-07-15T05:40:25.495Z",
+    "dueDate": "2026-07-22T05:40:25.499Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a571d498c3c1a4fe33a930a"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-07-15T05:40:25.499Z",
+    "updatedAt": "2026-07-15T06:49:07.458Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a572ff735ddbf2d633a930e",
+    "invoiceNumber": "INV-2607-0003",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a572ff7251ac5b4be3a930d",
+    "invoiceDate": "2026-07-15T07:00:07.517Z",
+    "dueDate": "2026-07-22T07:00:07.520Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 46",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5500,
+        "taxAmount": 0,
+        "total": 5500,
+        "_id": "6a572ff778df4304ff3a930f"
+      },
+      {
+        "itemType": "treatment",
+        "description": "PFM Crown - Tooth 46",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 6000,
+        "taxAmount": 0,
+        "total": 6000,
+        "_id": "6a572ff7662457d9413a9310"
+      }
+    ],
+    "subtotal": 11500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 11500,
+    "amountPaid": 11500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-07-15T07:00:07.520Z",
+    "updatedAt": "2026-08-11T15:14:35.064Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a697b36178e0f852c3a931b",
+    "invoiceNumber": "INV-2607-0004",
+    "patient": "6a697afad41f0db81c3a971c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-07-29T04:01:58.658Z",
+    "dueDate": "2026-08-05T04:01:58.662Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Cosmodentofacial Family Dental Plan",
+        "quantity": 1,
+        "unitPrice": 4999,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4999,
+        "taxAmount": 0,
+        "total": 4999,
+        "_id": "6a697b36e076e8c0a93a931c"
+      }
+    ],
+    "subtotal": 4999,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4999,
+    "amountPaid": 4999,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-07-29T04:01:58.662Z",
+    "updatedAt": "2026-07-29T04:01:58.662Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6d9a6236d1e450e23a9327",
+    "invoiceNumber": "INV-2608-0001",
+    "patient": "6a6d99ad131e2238df3a971d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a6d9a6141a81a85f83a9326",
+    "invoiceDate": "2026-08-01T07:04:02.011Z",
+    "dueDate": "2026-08-08T07:04:02.011Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a6d9a621832be0e333a9328"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-01T07:04:02.013Z",
+    "updatedAt": "2026-08-01T07:04:02.079Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6daaff45fe6786693a9699",
+    "invoiceNumber": "INV-2608-0002",
+    "patient": "6a6d99ad131e2238df3a971d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "invoiceDate": "2026-08-01T08:14:55.244Z",
+    "dueDate": "2026-08-08T08:14:55.246Z",
+    "items": [
+      {
+        "itemType": "test",
+        "description": "OPG (Panoramic X-Ray)",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "6a6daaff6313a8e4733a969a"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 0,
+    "balanceDue": 500,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-01T08:14:55.247Z",
+    "updatedAt": "2026-08-01T08:14:55.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a71b3cc0d3c23a6e93a932d",
+    "invoiceNumber": "INV-2608-0003",
+    "patient": "6a71b3178aa1542a713a971e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-08-04T09:41:32.025Z",
+    "dueDate": "2026-08-11T09:41:32.026Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6a71b3cc50cf8f1a613a932e"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-04T09:41:32.027Z",
+    "updatedAt": "2026-08-04T09:41:32.027Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a71c068fd1b40fb133a9694",
+    "invoiceNumber": "INV-2608-0004",
+    "patient": "6a71b3178aa1542a713a971e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-08-04T10:35:20.337Z",
+    "dueDate": "2026-08-11T10:35:20.336Z",
+    "items": [
+      {
+        "itemType": "other",
+        "description": "Sensitivity toothpaste & soft brush kit",
+        "quantity": 1,
+        "unitPrice": 250,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 212.5,
+        "taxAmount": 0,
+        "total": 212.5,
+        "_id": "6a71c0683bbdfee8a83a9695"
+      },
+      {
+        "itemType": "medicine",
+        "description": "Desensitizing gel",
+        "quantity": 1,
+        "unitPrice": 180,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 153,
+        "taxAmount": 0,
+        "total": 153,
+        "_id": "6a71c0683a360045dd3a9696"
+      }
+    ],
+    "subtotal": 365.5,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 366,
+    "amountPaid": 0,
+    "balanceDue": 366,
+    "status": "sent",
+    "paymentStatus": "unpaid",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-04T10:35:20.338Z",
+    "updatedAt": "2026-08-04T10:38:20.338Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a731ad630ff9bbc583a933a",
+    "invoiceNumber": "INV-2608-0005",
+    "patient": "6a731a8623153d62ac3a971f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a731ad6be513ff0e93a9339",
+    "invoiceDate": "2026-08-05T11:13:26.244Z",
+    "dueDate": "2026-08-12T11:13:26.246Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a731ad66b4edb8d683a933b"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-05T11:13:26.248Z",
+    "updatedAt": "2026-08-05T11:51:48.009Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7d783588276b226f3a933f",
+    "invoiceNumber": "INV-2608-0006",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a7d77519a9175e5a43a933e",
+    "invoiceDate": "2026-08-13T07:54:29.730Z",
+    "dueDate": "2026-08-20T07:54:29.732Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a7d78350b63439e7a3a9340"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-13T07:54:29.734Z",
+    "updatedAt": "2026-08-13T07:54:29.734Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7f2ea9d81495a49b3a9344",
+    "invoiceNumber": "INV-2608-0007",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a7f2ea974ccd409263a9343",
+    "invoiceDate": "2026-08-14T15:05:13.424Z",
+    "dueDate": "2026-08-21T15:05:13.424Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 26",
+        "quantity": 1,
+        "unitPrice": 1000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1000,
+        "taxAmount": 0,
+        "total": 1000,
+        "_id": "6a7f2ea9e9936aee713a9345"
+      }
+    ],
+    "subtotal": 1000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1000,
+    "amountPaid": 1000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-14T15:05:13.425Z",
+    "updatedAt": "2026-08-14T15:05:13.537Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7f375ef4480d7ec03a9355",
+    "invoiceNumber": "INV-2608-0008",
+    "patient": "6a7f36d2d58ebf468f3a9721",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a7f36ea38a763b2733a9354",
+    "invoiceDate": "2026-08-14T15:42:22.954Z",
+    "dueDate": "2026-08-21T15:42:22.954Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a7f375e51e20087173a9356"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-14T15:42:22.955Z",
+    "updatedAt": "2026-08-14T15:42:22.955Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a815566931e8ecda73a9369",
+    "invoiceNumber": "INV-2608-0009",
+    "patient": "6a81551c5f01ee56c63a9723",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a8155669956151ce53a9368",
+    "invoiceDate": "2026-08-16T06:15:02.468Z",
+    "dueDate": "2026-08-23T06:15:02.470Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a815566c7ad3c543f3a936a"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-16T06:15:02.470Z",
+    "updatedAt": "2026-08-18T11:19:17.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a828000c81bcc1dcf3a935f",
+    "invoiceNumber": "INV-2608-0010",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a82800042124f3f5d3a935e",
+    "invoiceDate": "2026-08-17T03:29:04.269Z",
+    "dueDate": "2026-08-24T03:29:04.269Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a828000b3831366ea3a9360"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-17T03:29:04.270Z",
+    "updatedAt": "2026-08-17T04:31:08.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a82c46527d0ad23d23a935a",
+    "invoiceNumber": "INV-2608-0011",
+    "patient": "6a7f36d2d58ebf468f3a9721",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a82c4657ec0c7d8613a9359",
+    "invoiceDate": "2026-08-17T08:20:53.158Z",
+    "dueDate": "2026-08-24T08:20:53.156Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 25",
+        "quantity": 1,
+        "unitPrice": 1200,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1200,
+        "taxAmount": 0,
+        "total": 1200,
+        "_id": "6a82c465b83bf0d9873a935b"
+      }
+    ],
+    "subtotal": 1200,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1200,
+    "amountPaid": 1200,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-17T08:20:53.159Z",
+    "updatedAt": "2026-08-17T08:20:53.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a84514345385caaed3a9266",
+    "invoiceNumber": "INV-2608-0012",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a84514327c7a351043a9265",
+    "invoiceDate": "2026-08-18T12:34:11.727Z",
+    "dueDate": "2026-08-25T12:34:11.728Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1275,
+        "taxAmount": 0,
+        "total": 1275,
+        "_id": "6a845143eb32d26fff3a9267"
+      }
+    ],
+    "subtotal": 1275,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1275,
+    "amountPaid": 1275,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-18T12:34:11.728Z",
+    "updatedAt": "2026-08-18T13:31:57.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8c1ea996b94ad1113a9454",
+    "invoiceNumber": "INV-2608-0013",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a8c1ea953ddaaf41e3a9453",
+    "invoiceDate": "2026-08-24T10:36:25.388Z",
+    "dueDate": "2026-08-31T10:36:25.392Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Metal Braces - Full Mouth",
+        "quantity": 1,
+        "unitPrice": 35000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 29750,
+        "taxAmount": 0,
+        "total": 29750,
+        "_id": "6a8c1ea9e32e9407403a9455"
+      }
+    ],
+    "subtotal": 29750,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 29750,
+    "amountPaid": 15000,
+    "balanceDue": 14750,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "upi",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-24T10:36:25.392Z",
+    "updatedAt": "2026-09-23T15:01:59.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8c4a3a99c3517a213a9322",
+    "invoiceNumber": "INV-2608-0014",
+    "patient": "6a697afad41f0db81c3a971c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a8c4a3ad852fd04753a9321",
+    "invoiceDate": "2026-08-24T13:42:18.085Z",
+    "dueDate": "2026-08-31T13:42:18.087Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1200,
+        "taxAmount": 0,
+        "total": 1200,
+        "_id": "6a8c4a3a26e255f6f43a9323"
+      }
+    ],
+    "subtotal": 1200,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1200,
+    "amountPaid": 1200,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-24T13:42:18.089Z",
+    "updatedAt": "2026-08-24T13:42:18.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9194d3287c2960203a936e",
+    "invoiceNumber": "INV-2608-0015",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a9194d358f56c53e93a936d",
+    "invoiceDate": "2026-08-28T14:01:55.215Z",
+    "dueDate": "2026-09-04T14:01:55.217Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a9194d31c6b5d74a53a936f"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-28T14:01:55.218Z",
+    "updatedAt": "2026-08-28T15:04:44.980Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91a5a98de1b571503a9372",
+    "invoiceNumber": "INV-2608-0016",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-08-28T15:13:45.052Z",
+    "dueDate": "2026-09-04T15:13:45.054Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6a91a5a9ddcdfba3293a9373"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-28T15:13:45.055Z",
+    "updatedAt": "2026-08-28T15:13:45.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91a8f183ac5304e43a9377",
+    "invoiceNumber": "INV-2608-0017",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a91a8f09e47c5b8723a9376",
+    "invoiceDate": "2026-08-28T15:27:45.070Z",
+    "dueDate": "2026-09-04T15:27:45.068Z",
+    "items": [
+      {
+        "itemType": "surgery",
+        "description": "Surgical Extraction - Tooth 38",
+        "quantity": 1,
+        "unitPrice": 4500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 3825,
+        "taxAmount": 0,
+        "total": 3825,
+        "_id": "6a91a8f163f63e2a403a9378"
+      }
+    ],
+    "subtotal": 3825,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 3825,
+    "amountPaid": 1900,
+    "balanceDue": 1925,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-08-28T15:27:45.071Z",
+    "updatedAt": "2026-09-05T12:11:38.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a99629b2bf00181cc3a937d",
+    "invoiceNumber": "INV-2609-0001",
+    "patient": "6a99625a549c9f3fb53a9725",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a99629be25d5735c23a937c",
+    "invoiceDate": "2026-09-03T12:05:47.879Z",
+    "dueDate": "2026-09-10T12:05:47.882Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6a99629b8b12af8bbe3a937e"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "cancelledAt": "2026-09-07T13:59:58.678Z",
+    "cancelledBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Patient did not turn up",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-03T12:05:47.882Z",
+    "updatedAt": "2026-09-07T13:59:58.678Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9e9cf8fa3c2292db3a9687",
+    "invoiceNumber": "INV-2609-0002",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-09-07T11:16:08.257Z",
+    "dueDate": "2026-09-14T11:16:08.256Z",
+    "items": [
+      {
+        "itemType": "other",
+        "description": "Sensitivity toothpaste & soft brush kit",
+        "quantity": 1,
+        "unitPrice": 250,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 200,
+        "taxAmount": 0,
+        "total": 200,
+        "_id": "6a9e9cf8057adf28c23a9688"
+      },
+      {
+        "itemType": "medicine",
+        "description": "Desensitizing gel",
+        "quantity": 1,
+        "unitPrice": 180,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 144,
+        "taxAmount": 0,
+        "total": 144,
+        "_id": "6a9e9cf87c06690af53a9689"
+      }
+    ],
+    "subtotal": 344,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 344,
+    "amountPaid": 344,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-07T11:16:08.259Z",
+    "updatedAt": "2026-09-07T11:18:08.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9e9de8f92b2e209a3a92fc",
+    "invoiceNumber": "INV-2609-0003",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a9e9de871925d84983a92fb",
+    "invoiceDate": "2026-09-07T11:20:08.295Z",
+    "dueDate": "2026-09-14T11:20:08.296Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1200,
+        "discount": {
+          "percentage": 20,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 960,
+        "taxAmount": 0,
+        "total": 960,
+        "_id": "6a9e9de83b5ae232ee3a92fd"
+      }
+    ],
+    "subtotal": 960,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 960,
+    "amountPaid": 960,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-07T11:20:08.299Z",
+    "updatedAt": "2026-09-07T11:20:08.371Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9ff5598a3c6da64d3a941e",
+    "invoiceNumber": "INV-2609-0004",
+    "patient": "6a16ad786ce8004dff3a9711",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-09-08T11:45:29.149Z",
+    "dueDate": "2026-09-15T11:45:29.148Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Women's Smile Care Plan",
+        "quantity": 1,
+        "unitPrice": 2499,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2499,
+        "taxAmount": 0,
+        "total": 2499,
+        "_id": "6a9ff55960a2c992673a941f"
+      }
+    ],
+    "subtotal": 2499,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2499,
+    "amountPaid": 2499,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-08T11:45:29.151Z",
+    "updatedAt": "2026-09-08T11:45:29.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa2a423aa6811f4a63a9380",
+    "invoiceNumber": "INV-2609-0005",
+    "patient": "6aa2a2bb76edb04f9d3a9726",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa2a423cb0dfd87903a937f",
+    "invoiceDate": "2026-09-10T12:35:47.259Z",
+    "dueDate": "2026-09-17T12:35:47.262Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aa2a423bbcdbb86c03a9381"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-10T12:35:47.263Z",
+    "updatedAt": "2026-09-10T13:42:46.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa2b9ef36e53719cd3a9385",
+    "invoiceNumber": "INV-2609-0006",
+    "patient": "6aa2a2bb76edb04f9d3a9726",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa2b9ee5ec1bcbcfe3a9384",
+    "invoiceDate": "2026-09-10T14:08:47.026Z",
+    "dueDate": "2026-09-17T14:08:47.028Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "6aa2b9ef82f04044423a9386"
+      }
+    ],
+    "subtotal": 1500,
+    "discount": {
+      "percentage": 5,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1425,
+    "amountPaid": 1425,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-10T14:08:47.029Z",
+    "updatedAt": "2026-09-14T11:11:23.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa52a6a41587335dc3a938b",
+    "invoiceNumber": "INV-2609-0007",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa52a6ab83bdafbd83a938a",
+    "invoiceDate": "2026-09-12T10:33:14.597Z",
+    "dueDate": "2026-09-19T10:33:14.599Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "6aa52a6a3367b94d0c3a938c"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-12T10:33:14.601Z",
+    "updatedAt": "2026-09-12T10:33:14.685Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa53d8766859d0b7b3a938f",
+    "invoiceNumber": "INV-2609-0008",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa53d87103abbbfb83a938e",
+    "invoiceDate": "2026-09-12T11:54:47.118Z",
+    "dueDate": "2026-09-19T11:54:47.117Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5500,
+        "taxAmount": 0,
+        "total": 5500,
+        "_id": "6aa53d876793ce346f3a9390"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Zirconia Crown - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 11000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 11000,
+        "taxAmount": 0,
+        "total": 11000,
+        "_id": "6aa53d871ae28a968d3a9391"
+      }
+    ],
+    "subtotal": 16500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 16500,
+    "amountPaid": 16500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "notes": "[2026-10-01T07:00:15.937Z] Treatment closed (write_off): Patient shifted to Delhi, will complete treatment there. Outstanding ₹5000 written off.",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-12T11:54:47.120Z",
+    "updatedAt": "2026-10-01T07:00:15.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa55521b84f54a48d3a9397",
+    "invoiceNumber": "INV-2609-0009",
+    "patient": "6aa55502f77d4568363a9728",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa5552130a092de8d3a9396",
+    "invoiceDate": "2026-09-12T13:35:29.085Z",
+    "dueDate": "2026-09-19T13:35:29.083Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aa5552137c10836b03a9398"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "cancelledAt": "2026-09-14T05:42:50.490Z",
+    "cancelledBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Appointment cancelled",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-12T13:35:29.086Z",
+    "updatedAt": "2026-09-14T05:42:50.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa770d9d33030b61b3a939a",
+    "invoiceNumber": "INV-2609-0010",
+    "patient": "6aa77025e37d51b4173a9729",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa770d90684d83eba3a9399",
+    "invoiceDate": "2026-09-14T03:58:17.997Z",
+    "dueDate": "2026-09-21T03:58:17.996Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aa770d9be0a01f54c3a939b"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-14T03:58:17.998Z",
+    "updatedAt": "2026-09-14T05:15:59.991Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa782d4afa9d79c3d3a939e",
+    "invoiceNumber": "INV-2609-0011",
+    "patient": "6aa77025e37d51b4173a9729",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-09-14T05:15:00.054Z",
+    "dueDate": "2026-09-21T05:15:00.057Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6aa782d4faaa144ec03a939f"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-14T05:15:00.058Z",
+    "updatedAt": "2026-09-14T05:15:00.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa78784d09a7defda3a93a3",
+    "invoiceNumber": "INV-2609-0012",
+    "patient": "6aa77025e37d51b4173a9729",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa78783d26aaf259d3a93a2",
+    "invoiceDate": "2026-09-14T05:35:00.084Z",
+    "dueDate": "2026-09-21T05:35:00.083Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1275,
+        "taxAmount": 0,
+        "total": 1275,
+        "_id": "6aa78784d9a9b118e73a93a4"
+      }
+    ],
+    "subtotal": 1275,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1275,
+    "amountPaid": 1275,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-14T05:35:00.086Z",
+    "updatedAt": "2026-09-14T05:35:00.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aad070853d792525e3a93a8",
+    "invoiceNumber": "INV-2609-0013",
+    "patient": "6aad06dd613b38095e3a972a",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6aad07086826c7316b3a93a7",
+    "invoiceDate": "2026-09-18T09:40:24.477Z",
+    "dueDate": "2026-09-25T09:40:24.480Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aad07084d1350be2b3a93a9"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "cancelledAt": "2026-09-23T16:13:02.305Z",
+    "cancelledBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Patient did not turn up",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-18T09:40:24.481Z",
+    "updatedAt": "2026-09-23T16:13:02.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aae7a87cb2c2295513a93b0",
+    "invoiceNumber": "INV-2609-0014",
+    "patient": "6aae7a49185164d7e33a972c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aae7a8745fefb2df03a93af",
+    "invoiceDate": "2026-09-19T12:05:27.550Z",
+    "dueDate": "2026-09-26T12:05:27.554Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aae7a879304110e4c3a93b1"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-19T12:05:27.554Z",
+    "updatedAt": "2026-09-24T14:56:09.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab0d34ae5d16eab603a9364",
+    "invoiceNumber": "INV-2609-0015",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ab0d29df7f36ca7203a9363",
+    "invoiceDate": "2026-09-21T06:48:42.750Z",
+    "dueDate": "2026-09-28T06:48:42.750Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ab0d34ac558458a333a9365"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-21T06:48:42.752Z",
+    "updatedAt": "2026-09-21T06:48:42.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab366fc4807963e333a93aa",
+    "invoiceNumber": "INV-2609-0016",
+    "patient": "6ab36684471f0eb1ed3a972b",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "invoiceDate": "2026-09-23T05:43:24.579Z",
+    "dueDate": "2026-09-30T05:43:24.581Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6ab366fc23b3cdcd303a93ab"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-23T05:43:24.581Z",
+    "updatedAt": "2026-09-23T05:43:24.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab544faa181b416373a93be",
+    "invoiceNumber": "INV-2609-0017",
+    "patient": "6ab5440aceb6cd58793a972f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ab5446262a36fe2403a93bd",
+    "invoiceDate": "2026-09-24T15:42:50.310Z",
+    "dueDate": "2026-10-01T15:42:50.311Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ab544fa9dcdd313b53a93bf"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-24T15:42:50.313Z",
+    "updatedAt": "2026-09-24T15:42:50.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab5fe1592ddf0f7753a93b5",
+    "invoiceNumber": "INV-2609-0018",
+    "patient": "6ab5fe0132b07f20da3a972d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6ab5fe15d9a2b7b1c03a93b4",
+    "invoiceDate": "2026-09-25T04:52:37.426Z",
+    "dueDate": "2026-10-02T04:52:37.424Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ab5fe1592c3deb4b53a93b6"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-25T04:52:37.427Z",
+    "updatedAt": "2026-09-25T04:52:37.524Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab8e491b812e1c7123a93cd",
+    "invoiceNumber": "INV-2609-0019",
+    "patient": "6ab8e457551cc8892e3a9731",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6ab8e491737d9fb0f83a93cc",
+    "invoiceDate": "2026-09-27T09:40:33.519Z",
+    "dueDate": "2026-10-04T09:40:33.518Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ab8e491b57e68c1973a93ce"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "cancelledAt": "2026-10-01T15:18:02.059Z",
+    "cancelledBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Appointment cancelled",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-27T09:40:33.521Z",
+    "updatedAt": "2026-10-01T15:18:02.059Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba09c06ab80867923a93c3",
+    "invoiceNumber": "INV-2609-0020",
+    "patient": "6aba09795b2e6cffaa3a9730",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6aba09c06ec176921d3a93c2",
+    "invoiceDate": "2026-09-28T06:31:28.777Z",
+    "dueDate": "2026-10-05T06:31:28.779Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aba09c07f71ee80fc3a93c4"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-28T06:31:28.781Z",
+    "updatedAt": "2026-09-28T06:31:28.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba1d7455f20b14653a967f",
+    "invoiceNumber": "INV-2609-0021",
+    "patient": "6aba09795b2e6cffaa3a9730",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "invoiceDate": "2026-09-28T07:55:32.090Z",
+    "dueDate": "2026-10-05T07:55:32.089Z",
+    "items": [
+      {
+        "itemType": "medicine",
+        "description": "Post-extraction care kit (antibiotic, analgesic, mouthwash)",
+        "quantity": 1,
+        "unitPrice": 350,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 350,
+        "taxAmount": 0,
+        "total": 350,
+        "_id": "6aba1d74f378f49c523a9680"
+      }
+    ],
+    "subtotal": 350,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 350,
+    "amountPaid": 350,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-28T07:55:32.092Z",
+    "updatedAt": "2026-09-28T07:59:32.087Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba2134edd1354f753a93c7",
+    "invoiceNumber": "INV-2609-0022",
+    "patient": "6aba09795b2e6cffaa3a9730",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6aba21340d1b27b0753a93c6",
+    "invoiceDate": "2026-09-28T08:11:32.161Z",
+    "dueDate": "2026-10-05T08:11:32.164Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 17",
+        "quantity": 1,
+        "unitPrice": 1000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1000,
+        "taxAmount": 0,
+        "total": 1000,
+        "_id": "6aba21349911bbeab43a93c8"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 1000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1000,
+        "taxAmount": 0,
+        "total": 1000,
+        "_id": "6aba2134f1ee0e2a8d3a93c9"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 5,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1900,
+    "amountPaid": 1000,
+    "balanceDue": 900,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-28T08:11:32.165Z",
+    "updatedAt": "2026-09-29T04:45:52.153Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba5afc120bdacafe3a9683",
+    "invoiceNumber": "INV-2609-0023",
+    "patient": "6ab5440aceb6cd58793a972f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-09-28T12:18:04.866Z",
+    "dueDate": "2026-10-05T12:18:04.868Z",
+    "items": [
+      {
+        "itemType": "test",
+        "description": "OPG (Panoramic X-Ray)",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "6aba5afc561cf3e5d33a9684"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-28T12:18:04.870Z",
+    "updatedAt": "2026-09-28T12:21:04.865Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba5ce8398a9dce403a93b9",
+    "invoiceNumber": "INV-2609-0024",
+    "patient": "6aba5bbc2ccb0b87303a972e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aba5ce8623c0d45ca3a93b8",
+    "invoiceDate": "2026-09-28T12:26:16.322Z",
+    "dueDate": "2026-10-05T12:26:16.324Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6aba5ce8628a98bc793a93ba"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-28T12:26:16.325Z",
+    "updatedAt": "2026-09-28T13:45:43.780Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abcaeea50593cd02b3a9475",
+    "invoiceNumber": "INV-2609-0025",
+    "patient": "6a731a8623153d62ac3a971f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6abcaeea3ef79254353a9474",
+    "invoiceDate": "2026-09-30T06:40:42.170Z",
+    "dueDate": "2026-10-07T06:40:42.173Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6abcaeeabff2c134c13a9476"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "upi",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "cancelledAt": "2026-10-02T13:34:02.173Z",
+    "cancelledBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Appointment cancelled, fee refunded",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-09-30T06:40:42.174Z",
+    "updatedAt": "2026-10-02T13:34:02.173Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abdc1ba627288f9693a93d0",
+    "invoiceNumber": "INV-2610-0001",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6abdc12a1a15207f4b3a93cf",
+    "invoiceDate": "2026-10-01T02:13:14.403Z",
+    "dueDate": "2026-10-08T02:13:14.403Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6abdc1babdf5a2bda93a93d1"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-01T02:13:14.405Z",
+    "updatedAt": "2026-10-01T02:13:14.405Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe4e79d1855b83be3a9334",
+    "invoiceNumber": "INV-2610-0002",
+    "patient": "6a71b3178aa1542a713a971e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6abe4e798415d846973a9333",
+    "invoiceDate": "2026-10-01T12:13:45.507Z",
+    "dueDate": "2026-10-08T12:13:45.507Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1275,
+        "taxAmount": 0,
+        "total": 1275,
+        "_id": "6abe4e7917b5d53eb83a9335"
+      }
+    ],
+    "subtotal": 1275,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1275,
+    "amountPaid": 1275,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-01T12:13:45.509Z",
+    "updatedAt": "2026-10-01T15:01:38.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abfbf3262d28cd02f3a93d5",
+    "invoiceNumber": "INV-2610-0003",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6abfbf326ce40d62713a93d4",
+    "invoiceDate": "2026-10-02T14:26:58.245Z",
+    "dueDate": "2026-10-09T14:26:58.249Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 16",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5500,
+        "taxAmount": 0,
+        "total": 5500,
+        "_id": "6abfbf32b32908be103a93d6"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Zirconia Crown - Tooth 16",
+        "quantity": 1,
+        "unitPrice": 12000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 12000,
+        "taxAmount": 0,
+        "total": 12000,
+        "_id": "6abfbf32276e59994d3a93d7"
+      }
+    ],
+    "subtotal": 17500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 17500,
+    "amountPaid": 9500,
+    "balanceDue": 8000,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-02T14:26:58.249Z",
+    "updatedAt": "2026-10-12T11:02:54.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3a16a7b464f2b513a967d",
+    "invoiceNumber": "INV-2610-0004",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-05T13:08:58.788Z",
+    "dueDate": "2026-10-12T13:08:58.791Z",
+    "items": [
+      {
+        "itemType": "test",
+        "itemRef": "6ac39bca023efff9213a9486",
+        "itemRefModel": "Test",
+        "description": "OPG (Panoramic X-Ray)",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 425,
+        "taxAmount": 0,
+        "total": 425,
+        "_id": "6ac3a16a36042252453a967e"
+      }
+    ],
+    "subtotal": 425,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 425,
+    "amountPaid": 0,
+    "balanceDue": 425,
+    "status": "sent",
+    "paymentStatus": "unpaid",
+    "notes": "OPG taken for aligner workup",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-05T13:08:58.791Z",
+    "updatedAt": "2026-10-05T13:10:58.791Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3a1f67981b528f23a926d",
+    "invoiceNumber": "INV-2610-0005",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ac3a1f67b239e660d3a926c",
+    "invoiceDate": "2026-10-05T13:11:18.221Z",
+    "dueDate": "2026-10-12T13:11:18.222Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Clear Aligners - Full Arch (Upper & Lower)",
+        "quantity": 1,
+        "unitPrice": 110000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 93500,
+        "taxAmount": 0,
+        "total": 93500,
+        "_id": "6ac3a1f6fd96de05f63a926e"
+      }
+    ],
+    "subtotal": 93500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 93500,
+    "amountPaid": 30000,
+    "balanceDue": 63500,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-05T13:11:18.222Z",
+    "updatedAt": "2026-10-05T13:11:18.335Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac4b9e7c183a7491d3a93df",
+    "invoiceNumber": "INV-2610-0006",
+    "patient": "6ac4b933b83da90d733a9733",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-06T09:05:43.618Z",
+    "dueDate": "2026-10-13T09:05:43.622Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Cosmodentofacial Family Dental Plan",
+        "quantity": 1,
+        "unitPrice": 4999,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 4999,
+        "taxAmount": 0,
+        "total": 4999,
+        "_id": "6ac4b9e7fb1081114c3a93e0"
+      }
+    ],
+    "subtotal": 4999,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 4999,
+    "amountPaid": 4999,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-06T09:05:43.622Z",
+    "updatedAt": "2026-10-06T09:05:43.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac792b053eac97c633a9349",
+    "invoiceNumber": "INV-2610-0007",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ac792b06213ace3b63a9348",
+    "invoiceDate": "2026-10-08T12:55:12.776Z",
+    "dueDate": "2026-10-15T12:55:12.780Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ac792b007a7cf2d443a934a"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-08T12:55:12.780Z",
+    "updatedAt": "2026-10-12T14:35:12.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac792b2ba230a229e3a969b",
+    "invoiceNumber": "INV-2610-0008",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ac792b06213ace3b63a9348",
+    "invoiceDate": "2026-10-08T12:55:14.078Z",
+    "dueDate": "2026-10-15T12:55:14.077Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ac792b25ffa3b696d3a969c"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": true,
+    "voidedAt": "2026-10-12T15:35:12.733Z",
+    "voidedBy": "69ce028fdacdcdbebd3a91c7",
+    "voidReason": "Duplicate invoice created by a double-click while booking",
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-08T12:55:14.080Z",
+    "updatedAt": "2026-10-12T15:35:12.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac79c357b20d502353a93e5",
+    "invoiceNumber": "INV-2610-0009",
+    "patient": "6ac79bed95531ec7f83a9734",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6ac79c354768725be73a93e4",
+    "invoiceDate": "2026-10-08T13:35:49.958Z",
+    "dueDate": "2026-10-15T13:35:49.958Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ac79c3538502891523a93e6"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-08T13:35:49.960Z",
+    "updatedAt": "2026-10-09T05:30:42.963Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac881df39d956bd513a93ea",
+    "invoiceNumber": "INV-2610-0010",
+    "patient": "6ac79bed95531ec7f83a9734",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6ac881de24c7936ba13a93e9",
+    "invoiceDate": "2026-10-09T05:55:43.051Z",
+    "dueDate": "2026-10-16T05:55:43.050Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 17",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "6ac881df1e5a7076a83a93eb"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 16",
+        "quantity": 1,
+        "unitPrice": 1200,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1200,
+        "taxAmount": 0,
+        "total": 1200,
+        "_id": "6ac881df24227956503a93ec"
+      }
+    ],
+    "subtotal": 2700,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2700,
+    "amountPaid": 1900,
+    "balanceDue": 800,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "upi",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-09T05:55:43.053Z",
+    "updatedAt": "2026-10-12T07:17:15.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc427ce33c2750283a9403",
+    "invoiceNumber": "INV-2610-0011",
+    "patient": "6acc414700b8352fbd3a9736",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6acc418e001e26ba443a9402",
+    "invoiceDate": "2026-10-12T02:14:20.368Z",
+    "dueDate": "2026-10-19T02:14:20.367Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6acc427cd443f102df3a9404"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-12T02:14:20.370Z",
+    "updatedAt": "2026-10-12T02:14:20.370Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc86de9f1866f0553a93f0",
+    "invoiceNumber": "INV-2610-0012",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-12T07:06:06.801Z",
+    "dueDate": "2026-10-19T07:06:06.802Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6acc86de60b634cf683a93f1"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "upi",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-12T07:06:06.803Z",
+    "updatedAt": "2026-10-12T07:06:06.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc8756c7007907473a93f5",
+    "invoiceNumber": "INV-2610-0013",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6acc8756fbb92f831a3a93f4",
+    "invoiceDate": "2026-10-12T07:08:06.801Z",
+    "dueDate": "2026-10-19T07:08:06.802Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 425,
+        "taxAmount": 0,
+        "total": 425,
+        "_id": "6acc875609696fd0d83a93f6"
+      }
+    ],
+    "subtotal": 425,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 425,
+    "amountPaid": 425,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-12T07:08:06.802Z",
+    "updatedAt": "2026-10-12T08:12:28.225Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc9978483cee790f3a93fa",
+    "invoiceNumber": "INV-2610-0014",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6acc997806ce86b1463a93f9",
+    "invoiceDate": "2026-10-12T08:25:28.269Z",
+    "dueDate": "2026-10-19T08:25:28.270Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 36",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5100,
+        "taxAmount": 0,
+        "total": 5100,
+        "_id": "6acc99784012c53a113a93fb"
+      }
+    ],
+    "subtotal": 5100,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 5100,
+    "amountPaid": 3500,
+    "balanceDue": 1600,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-12T08:25:28.271Z",
+    "updatedAt": "2026-10-22T13:31:18.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accf368990669581f3a934e",
+    "invoiceNumber": "INV-2610-0015",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6accf368bf1adf4bf13a934d",
+    "invoiceDate": "2026-10-12T14:49:12.808Z",
+    "dueDate": "2026-10-19T14:49:12.810Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 15",
+        "quantity": 1,
+        "unitPrice": 1200,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1200,
+        "taxAmount": 0,
+        "total": 1200,
+        "_id": "6accf36803e392fc943a934f"
+      },
+      {
+        "itemType": "treatment",
+        "description": "Composite Filling - Tooth 26",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "6accf368376e8c67683a9350"
+      }
+    ],
+    "subtotal": 2700,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2700,
+    "amountPaid": 2700,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-12T14:49:12.812Z",
+    "updatedAt": "2026-10-13T07:08:16.523Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdd9d0aa4865c4843a968c",
+    "invoiceNumber": "INV-2610-0016",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-13T07:12:16.525Z",
+    "dueDate": "2026-10-20T07:12:16.525Z",
+    "items": [
+      {
+        "itemType": "medicine",
+        "description": "Post-extraction care kit (antibiotic, analgesic, mouthwash)",
+        "quantity": 1,
+        "unitPrice": 350,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 350,
+        "taxAmount": 0,
+        "total": 350,
+        "_id": "6acdd9d04b26d8ce2e3a968d"
+      }
+    ],
+    "subtotal": 350,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 350,
+    "amountPaid": 350,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-13T07:12:16.528Z",
+    "updatedAt": "2026-10-13T07:16:16.523Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad23c38e0a2a695de3a9697",
+    "invoiceNumber": "INV-2610-0017",
+    "patient": "6acc414700b8352fbd3a9736",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-16T15:01:12.781Z",
+    "dueDate": "2026-10-23T15:01:12.779Z",
+    "items": [
+      {
+        "itemType": "medicine",
+        "description": "Post-extraction care kit (antibiotic, analgesic, mouthwash)",
+        "quantity": 1,
+        "unitPrice": 350,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 350,
+        "taxAmount": 0,
+        "total": 350,
+        "_id": "6ad23c38b755b42f2f3a9698"
+      }
+    ],
+    "subtotal": 350,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 350,
+    "amountPaid": 0,
+    "balanceDue": 350,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-16T15:01:12.782Z",
+    "updatedAt": "2026-10-16T15:01:12.782Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad23e9099ed154d3f3a9408",
+    "invoiceNumber": "INV-2610-0018",
+    "patient": "6acc414700b8352fbd3a9736",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad23e9051194638ba3a9407",
+    "invoiceDate": "2026-10-16T15:11:12.844Z",
+    "dueDate": "2026-10-23T15:11:12.847Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "6ad23e90c9ad1245963a9409"
+      }
+    ],
+    "subtotal": 1500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1500,
+    "amountPaid": 1500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-16T15:11:12.848Z",
+    "updatedAt": "2026-10-19T10:13:06.626Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad313ca7069f983573a9434",
+    "invoiceNumber": "INV-2610-0019",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad313ca85ae62d86a3a9433",
+    "invoiceDate": "2026-10-17T06:20:58.421Z",
+    "dueDate": "2026-10-24T06:20:58.424Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ad313ca4e3065f9823a9435"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-17T06:20:58.424Z",
+    "updatedAt": "2026-10-19T06:00:06.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5b312a4b85837ad3a9439",
+    "invoiceNumber": "INV-2610-0020",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad5b3124f4e821df53a9438",
+    "invoiceDate": "2026-10-19T06:05:06.468Z",
+    "dueDate": "2026-10-26T06:05:06.470Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Root Canal Treatment - Tooth 46",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5500,
+        "taxAmount": 0,
+        "total": 5500,
+        "_id": "6ad5b312d3257bbf103a943a"
+      },
+      {
+        "itemType": "treatment",
+        "description": "PFM Crown - Tooth 46",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 6000,
+        "taxAmount": 0,
+        "total": 6000,
+        "_id": "6ad5b3123e21e440df3a943b"
+      }
+    ],
+    "subtotal": 11500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 11500,
+    "amountPaid": 5000,
+    "balanceDue": 6500,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "upi",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-19T06:05:06.470Z",
+    "updatedAt": "2026-10-26T05:07:43.725Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5b38a821f49dd513a9690",
+    "invoiceNumber": "INV-2610-0021",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-19T06:07:06.388Z",
+    "dueDate": "2026-10-26T06:07:06.390Z",
+    "items": [
+      {
+        "itemType": "test",
+        "description": "OPG (Panoramic X-Ray)",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "6ad5b38a41daba2d753a9691"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 500,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-19T06:07:06.390Z",
+    "updatedAt": "2026-10-19T06:12:06.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5f2ec6f8cd319f53a9417",
+    "invoiceNumber": "INV-2610-0022",
+    "patient": "6ad5f1ffc03a7052003a9738",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad5f256009465d6de3a9416",
+    "invoiceDate": "2026-10-19T10:37:32.351Z",
+    "dueDate": "2026-10-26T10:37:32.352Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ad5f2ece7a03eb9cf3a9418"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-19T10:37:32.353Z",
+    "updatedAt": "2026-10-19T10:37:32.353Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad99e04c762467ffe3a9462",
+    "invoiceNumber": "INV-2610-0023",
+    "patient": "6ad99d184ea8535e733a973b",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad99d3841110c05613a9461",
+    "invoiceDate": "2026-10-22T05:24:20.837Z",
+    "dueDate": "2026-10-29T05:24:20.839Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6ad99e048eff5468973a9463"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-22T05:24:20.839Z",
+    "updatedAt": "2026-10-22T05:24:20.839Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9d16d87971055d43a940d",
+    "invoiceNumber": "INV-2610-0024",
+    "patient": "6ad9d1a9986052ef993a9737",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "invoiceDate": "2026-10-22T09:03:41.476Z",
+    "dueDate": "2026-10-29T09:03:41.478Z",
+    "items": [
+      {
+        "itemType": "membership",
+        "description": "Individuals Plan",
+        "quantity": 1,
+        "unitPrice": 2000,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 2000,
+        "taxAmount": 0,
+        "total": 2000,
+        "_id": "6ad9d16d3268c771f23a940e"
+      }
+    ],
+    "subtotal": 2000,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 2000,
+    "amountPaid": 2000,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-22T09:03:41.480Z",
+    "updatedAt": "2026-10-22T09:03:41.480Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9e6a69661bab3273a9413",
+    "invoiceNumber": "INV-2610-0025",
+    "patient": "6ad9d1a9986052ef993a9737",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad9e6a6aa9d91d3f33a9412",
+    "invoiceDate": "2026-10-22T10:34:14.356Z",
+    "dueDate": "2026-10-29T10:34:14.357Z",
+    "items": [
+      {
+        "itemType": "surgery",
+        "description": "Surgical Extraction - Tooth 48",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "discount": {
+          "percentage": 15,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 5100,
+        "taxAmount": 0,
+        "total": 5100,
+        "_id": "6ad9e6a6620a5c3a293a9414"
+      }
+    ],
+    "subtotal": 5100,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 5100,
+    "amountPaid": 1000,
+    "balanceDue": 4100,
+    "status": "partially_paid",
+    "paymentStatus": "partial",
+    "paymentMethod": "upi",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-22T10:34:14.359Z",
+    "updatedAt": "2026-10-22T10:34:14.431Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adaeea9e54fa5c39b3a945f",
+    "invoiceNumber": "INV-2610-0026",
+    "patient": "6ab8e457551cc8892e3a9731",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adaeea9e7f30ddeb13a945e",
+    "invoiceDate": "2026-10-23T05:20:41.754Z",
+    "dueDate": "2026-10-30T05:20:41.753Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adaeea96cd55c6dfc3a9460"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-23T05:20:41.755Z",
+    "updatedAt": "2026-10-23T05:20:41.755Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adaef928e876ff41a3a9470",
+    "invoiceNumber": "INV-2610-0027",
+    "patient": "6adaee58dab6bee6cd3a973d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adaeea2fd95df8b1b3a946f",
+    "invoiceDate": "2026-10-23T05:24:34.747Z",
+    "dueDate": "2026-10-30T05:24:34.746Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adaef92b99771cc093a9471"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-23T05:24:34.749Z",
+    "updatedAt": "2026-10-23T05:24:34.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb0851a0f1f4cef93a9450",
+    "invoiceNumber": "INV-2610-0028",
+    "patient": "6acc414700b8352fbd3a9736",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6adb08512ee30d75dc3a944f",
+    "invoiceDate": "2026-10-23T07:10:09.196Z",
+    "dueDate": "2026-10-30T07:10:09.200Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adb08516a892435733a9451"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "cancelled",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "cancelledAt": "2026-10-26T05:42:19.665Z",
+    "cancelledBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "cancellationReason": "Appointment cancelled",
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-23T07:10:09.200Z",
+    "updatedAt": "2026-10-26T05:42:19.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb895bc4fa9b00c83a9442",
+    "invoiceNumber": "INV-2610-0029",
+    "patient": "6a2a525da3831803343a9715",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adb88a69d3ffdd5de3a9441",
+    "invoiceDate": "2026-10-23T16:20:43.948Z",
+    "dueDate": "2026-10-30T16:20:43.950Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adb895b2b1496d82d3a9443"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "online",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-23T16:20:43.951Z",
+    "updatedAt": "2026-10-23T16:20:43.951Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adc1a94ceb76c6b913a945c",
+    "invoiceNumber": "INV-2610-0030",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adc1a945ee1e4dca43a945b",
+    "invoiceDate": "2026-10-24T02:40:20.549Z",
+    "dueDate": "2026-10-31T02:40:20.552Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adc1a943a679daf483a945d"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-24T02:40:20.553Z",
+    "updatedAt": "2026-10-24T02:40:20.553Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adc4bed4a9468cac03a946b",
+    "invoiceNumber": "INV-2610-0031",
+    "patient": "6adc4bb2a617791bb43a973c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6adc4bedd0faa299413a946a",
+    "invoiceDate": "2026-10-24T06:10:53.138Z",
+    "dueDate": "2026-10-31T06:10:53.139Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adc4bed32f1031ce93a946c"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-24T06:10:53.139Z",
+    "updatedAt": "2026-10-24T06:10:53.139Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adc9ca45dd865fd5c3a944a",
+    "invoiceNumber": "INV-2610-0032",
+    "patient": "6aad06dd613b38095e3a972a",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adc9ca40b69cda3133a9449",
+    "invoiceDate": "2026-10-24T11:55:16.249Z",
+    "dueDate": "2026-10-31T11:55:16.250Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adc9ca493d745afaa3a944b"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-24T11:55:16.252Z",
+    "updatedAt": "2026-10-24T11:55:16.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "6add9d45064848052a3a9468",
+    "invoiceNumber": "INV-2610-0033",
+    "patient": "6ab5440aceb6cd58793a972f",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6add9d4521159581c23a9467",
+    "invoiceDate": "2026-10-25T06:10:13.696Z",
+    "dueDate": "2026-11-01T06:10:13.699Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6add9d452de016d8263a9469"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-25T06:10:13.699Z",
+    "updatedAt": "2026-10-25T06:10:13.699Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adde5e7785d2558cc3a932b",
+    "invoiceNumber": "INV-2610-0034",
+    "patient": "6a6d99ad131e2238df3a971d",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adde5e7530156fe2c3a932a",
+    "invoiceDate": "2026-10-25T11:20:07.662Z",
+    "dueDate": "2026-11-01T11:20:07.662Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adde5e7034fb4cc493a932c"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69ce06395c660594f03a91c8",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-25T11:20:07.665Z",
+    "updatedAt": "2026-10-25T11:20:07.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeccb524f97a3f4f3a942d",
+    "invoiceNumber": "INV-2610-0035",
+    "patient": "6adecc0192e5a76ffa3a9739",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6adeccb584d43bf28a3a942c",
+    "invoiceDate": "2026-10-26T03:44:53.185Z",
+    "dueDate": "2026-11-02T03:44:53.186Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adeccb58b509c92be3a942e"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 300,
+    "balanceDue": 0,
+    "status": "paid",
+    "paymentStatus": "paid",
+    "paymentMethod": "cash",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-26T03:44:53.186Z",
+    "updatedAt": "2026-10-26T03:44:53.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aded8e669ffcc595a3a9431",
+    "invoiceNumber": "INV-2610-0036",
+    "patient": "6adecc0192e5a76ffa3a9739",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aded8e65bec89ac0c3a9430",
+    "invoiceDate": "2026-10-26T04:36:54.915Z",
+    "dueDate": "2026-11-02T04:36:54.916Z",
+    "items": [
+      {
+        "itemType": "treatment",
+        "description": "Scaling & Polishing (full mouth)",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 1500,
+        "taxAmount": 0,
+        "total": 1500,
+        "_id": "6aded8e6ea7bda5cde3a9432"
+      }
+    ],
+    "subtotal": 1500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 1500,
+    "amountPaid": 0,
+    "balanceDue": 1500,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-26T04:36:54.917Z",
+    "updatedAt": "2026-10-26T04:36:54.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeda43b4212b4d813a944d",
+    "invoiceNumber": "INV-2610-0037",
+    "patient": "6a3f5655eeab07062a3a9719",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adeda43960f141d343a944c",
+    "invoiceDate": "2026-10-26T04:42:43.914Z",
+    "dueDate": "2026-11-02T04:42:43.916Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 500,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 500,
+        "taxAmount": 0,
+        "total": 500,
+        "_id": "6adeda431391dd45a93a944e"
+      }
+    ],
+    "subtotal": 500,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 500,
+    "amountPaid": 0,
+    "balanceDue": 500,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-26T04:42:43.916Z",
+    "updatedAt": "2026-10-26T04:42:43.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeef074a6ff114173a9447",
+    "invoiceNumber": "INV-2610-0038",
+    "patient": "6adeeed5355cf700eb3a973a",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6adeef078b646b4a283a9446",
+    "invoiceDate": "2026-10-26T06:11:19.636Z",
+    "dueDate": "2026-11-02T06:11:19.639Z",
+    "items": [
+      {
+        "itemType": "opd_fee",
+        "description": "OPD Consultation",
+        "quantity": 1,
+        "unitPrice": 300,
+        "discount": {
+          "percentage": 0,
+          "amount": 0
+        },
+        "taxRate": 0,
+        "amount": 300,
+        "taxAmount": 0,
+        "total": 300,
+        "_id": "6adeef07b4b8a137c63a9448"
+      }
+    ],
+    "subtotal": 300,
+    "discount": {
+      "percentage": 0,
+      "amount": 0
+    },
+    "totalTax": 0,
+    "grandTotal": 300,
+    "amountPaid": 0,
+    "balanceDue": 300,
+    "status": "draft",
+    "paymentStatus": "unpaid",
+    "paymentMethod": "pay-at-clinic",
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "isVoided": false,
+    "voidedAt": null,
+    "voidedBy": null,
+    "voidReason": null,
+    "lastEditedAt": null,
+    "lastEditedBy": null,
+    "editHistory": [],
+    "paymentLink": {
+      "id": null,
+      "shortUrl": null,
+      "status": null,
+      "createdAt": null,
+      "paidAt": null
+    },
+    "createdAt": "2026-10-26T06:11:19.639Z",
+    "updatedAt": "2026-10-26T06:11:19.639Z",
+    "__v": 0
+  }
+]

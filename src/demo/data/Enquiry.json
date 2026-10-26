@@ -1,0 +1,3042 @@
+[
+  {
+    "_id": "69f348fb94d9d693a63a94f6",
+    "enquiryNumber": "ENQ-260430-0001",
+    "name": "Rekha Panchal",
+    "phone": "9895296409",
+    "treatmentName": "Teeth Whitening",
+    "source": {
+      "page": "/treatments/teeth-whitening",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-04-30T12:20:11.874Z",
+        "note": "Enquiry created",
+        "_id": "69f348fb5f33056b203a94f7"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-05-01T06:35:25.831Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "69f449ad0ef1a089e93a94f8"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-05-05T13:23:18.360Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Will think about it later",
+        "_id": "69f9ef46612d47c7a53a94f9"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-05-01T06:57:25.831Z",
+        "_id": "69f44ed5b27891d81f3a94fa"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-05-01T06:35:25.831Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-04-30T12:20:11.871Z",
+    "updatedAt": "2026-05-05T13:23:18.360Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2308e0262e75d6963a94fb",
+    "enquiryNumber": "ENQ-260605-0001",
+    "name": "Gaurav Yadav",
+    "phone": "9524147139",
+    "email": "gaurav.yadav@example.com",
+    "treatmentName": "Membership Plans",
+    "source": {
+      "page": "/plans",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-05T17:35:28.068Z",
+        "note": "Enquiry created",
+        "_id": "6a2308e0f508e073043a94fc"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-05T19:16:42.035Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a23209a9fea2b631d3a94fd"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Asked for EMI options",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-06-05T19:28:42.035Z",
+        "_id": "6a23236a40f367d3093a94fe"
+      }
+    ],
+    "nextFollowUp": "2026-10-28T05:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-05T19:16:42.035Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-05T17:35:28.065Z",
+    "updatedAt": "2026-06-06T01:35:28.065Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a24108c9503f846db3a9505",
+    "enquiryNumber": "ENQ-260606-0001",
+    "name": "Savita Khatri",
+    "phone": "9023901192",
+    "email": "savita.khatri@example.com",
+    "treatmentName": "General Enquiry",
+    "message": "Is the family plan valid for my parents also?",
+    "source": {
+      "page": "/",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-06T12:20:28.718Z",
+        "note": "Enquiry created",
+        "_id": "6a24108cb7e9c17ea93a9506"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-06T23:17:57.448Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a24aaa52a9552b14c3a9507"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Comparing quotes from two clinics",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-06-06T23:32:57.448Z",
+        "_id": "6a24ae29b51e3e246d3a9508"
+      }
+    ],
+    "nextFollowUp": "2026-10-30T07:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-06T23:17:57.448Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-06T12:20:28.715Z",
+    "updatedAt": "2026-06-06T23:32:57.448Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a245217b9cef54ce93a94ff",
+    "enquiryNumber": "ENQ-260606-0002",
+    "name": "Tarun Sharma",
+    "phone": "9445990829",
+    "email": "tarun.sharma@example.com",
+    "treatmentName": "Root Canal Treatment (RCT)",
+    "source": {
+      "page": "/treatments/root-canal-treatment-rct",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-06T17:00:07.918Z",
+        "note": "Enquiry created",
+        "_id": "6a2452178f794ebf1e3a9500"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-07T02:38:43.990Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a24d9b3af53ed53fa3a9501"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-06-07T21:23:13.018Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6a25e14165767732103a9502"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-06-09T17:04:42.315Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Patient visited the clinic",
+        "_id": "6a2847aa9c0c0b99e53a9503"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-06-11T09:14:53.875Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Converted to patient",
+        "_id": "6a2a7c8d5eb98d288c3a9504"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-07T02:38:43.990Z",
+    "convertedToPatient": "6a2a525da3831803343a9715",
+    "convertedAt": "2026-06-11T09:14:53.875Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-06T17:00:07.915Z",
+    "updatedAt": "2026-06-11T09:14:53.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a24db3b5c3a9b10633a9510",
+    "enquiryNumber": "ENQ-260607-0001",
+    "name": "Poonam Arora",
+    "phone": "9763651993",
+    "email": "poonam.arora@example.com",
+    "treatmentName": "Root Canal Treatment (RCT)",
+    "source": {
+      "page": "/treatments/root-canal-treatment-rct",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-07T02:45:15.055Z",
+        "note": "Enquiry created",
+        "_id": "6a24db3bbca86337753a9511"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-07T12:59:55.284Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a256b4bc58c20ad583a9512"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-06-08T19:17:28.375Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6a271548a37a4ebbde3a9513"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-06-11T11:24:37.824Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Patient visited the clinic",
+        "_id": "6a2a9af5650e2efb913a9514"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-07T12:59:55.284Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-07T02:45:15.052Z",
+    "updatedAt": "2026-06-11T11:24:37.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a24f4f6d2a01b34fd3a9509",
+    "enquiryNumber": "ENQ-260607-0002",
+    "name": "Surender Narwal",
+    "phone": "9941943774",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "I want teeth whitening before my sister's wedding next month.",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-07T04:35:02.066Z",
+        "note": "Enquiry created",
+        "_id": "6a24f4f6ceae435cc13a950a"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-07T12:45:46.575Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a2567fad346ec147a3a950b"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-06-08T09:59:57.234Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6a26929d21010473053a950c"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-06-11T13:16:31.426Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Patient visited the clinic",
+        "_id": "6a2ab52f22c04eb81f3a950d"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-06-11T13:16:31.426Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Converted to patient",
+        "_id": "6a2ab52f81659c372d3a950e"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Interested in the family membership plan",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-06-07T13:02:46.575Z",
+        "_id": "6a256bf6e0459b69e63a950f"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-07T12:45:46.575Z",
+    "convertedToPatient": "6a25a49b24609d8df23a9714",
+    "convertedAt": "2026-06-11T13:16:31.426Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-07T04:35:02.063Z",
+    "updatedAt": "2026-06-11T13:16:31.426Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2825f289176f86753a9515",
+    "enquiryNumber": "ENQ-260609-0001",
+    "name": "Surender Rathee",
+    "phone": "9768450438",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "Do you accept card payments and is there EMI for aligners?",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-09T14:40:50.221Z",
+        "note": "Enquiry created",
+        "_id": "6a2825f2b4299ee86b3a9516"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-10T06:04:00.471Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a28fe50845cab390f3a9517"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-06-11T06:23:23.439Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6a2a545b3a50b49a2f3a9518"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-06-13T19:27:20.499Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Patient visited the clinic",
+        "_id": "6a2daf181ddc60d60a3a9519"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [
+      {
+        "text": "Asked for EMI options",
+        "addedBy": "69cf47ab423e51957c3a91ca",
+        "addedAt": "2026-06-10T06:12:00.471Z",
+        "_id": "6a2900300e59672cb93a951a"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-10T06:04:00.471Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-09T14:40:50.218Z",
+    "updatedAt": "2026-06-13T19:27:20.499Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a28cfb86733a49bce3a951b",
+    "enquiryNumber": "ENQ-260610-0001",
+    "name": "Lokesh Rohilla",
+    "phone": "8197516378",
+    "email": "lokesh.rohilla@example.com",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-10T02:45:12.779Z",
+        "note": "Enquiry created",
+        "_id": "6a28cfb8cd6f6f1b5a3a951c"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-10T21:07:23.084Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a29d20bd50bfbb7de3a951d"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-06-14T05:53:51.335Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Will think about it later",
+        "_id": "6a2e41efe426eaa9d13a951e"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-10T21:07:23.084Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-10T02:45:12.776Z",
+    "updatedAt": "2026-06-14T05:53:51.335Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2d4afa0930b5c6243a951f",
+    "enquiryNumber": "ENQ-260613-0001",
+    "name": "Shalini Saini",
+    "phone": "8801577287",
+    "email": "shalini.saini@example.com",
+    "treatmentName": "Wisdom Teeth",
+    "message": "Do you accept card payments and is there EMI for aligners?",
+    "source": {
+      "page": "/treatments/wisdom-teeth",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-13T12:20:10.654Z",
+        "note": "Enquiry created",
+        "_id": "6a2d4afa77fa9ed74d3a9520"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-13T15:05:20.006Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6a2d71b085eb031e743a9521"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-06-13T22:04:35.351Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6a2dd3f3fa3ac7efbc3a9522"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-06-17T07:22:30.124Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Patient visited the clinic",
+        "_id": "6a324b36b406c702f43a9523"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-13T15:05:20.006Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-13T12:20:10.651Z",
+    "updatedAt": "2026-06-17T07:22:30.124Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d701052536ceb43a9524",
+    "enquiryNumber": "ENQ-260621-0001",
+    "name": "Tarun Dahiya",
+    "phone": "8804383403",
+    "treatmentName": "Braces",
+    "message": "What is the cost of a single implant? I have a missing lower molar.",
+    "source": {
+      "page": "/treatments/braces",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-21T12:20:17.584Z",
+        "note": "Enquiry created",
+        "_id": "6a37d7016bbd6cad553a9525"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-21T15:32:12.784Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a3803fc1404f2813d3a9526"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-06-21T18:35:00.961Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6a382ed48ac02ea45b3a9527"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-06-24T12:09:02.581Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Patient visited the clinic",
+        "_id": "6a3bc8de17b5a880943a9528"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-06-30T08:24:31.661Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Converted to patient",
+        "_id": "6a437d3fe84ecf179c3a9529"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-21T15:32:12.784Z",
+    "convertedToPatient": "6a4336ef1225f691ba3a971a",
+    "convertedAt": "2026-06-30T08:24:31.661Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-21T12:20:17.581Z",
+    "updatedAt": "2026-06-30T08:24:31.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3cb0114034811e203a952a",
+    "enquiryNumber": "ENQ-260625-0001",
+    "name": "Harish Nandal",
+    "phone": "7303845926",
+    "email": "harish.nandal@example.com",
+    "treatmentName": "Dental Implant",
+    "source": {
+      "page": "/treatments/dental-implant",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-06-25T04:35:29.927Z",
+        "note": "Enquiry created",
+        "_id": "6a3cb011757dba2a583a952b"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-06-25T10:00:29.602Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a3cfc3dfb693bb8d33a952c"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-06-27T05:55:59.789Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Already getting treated elsewhere",
+        "_id": "6a3f65ef7dc3db68af3a952d"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-06-25T10:00:29.602Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-06-25T04:35:29.924Z",
+    "updatedAt": "2026-06-27T05:55:59.789Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4c682fc3b637d1133a952e",
+    "enquiryNumber": "ENQ-260707-0001",
+    "name": "Shalini Mittal",
+    "phone": "9675136376",
+    "email": "shalini.mittal@example.com",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-07T02:45:03.361Z",
+        "note": "Enquiry created",
+        "_id": "6a4c682ffd9178f0183a952f"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-07T09:25:22.198Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a4cc602b50b8d0ac73a9530"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Asked for EMI options",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-07-07T09:34:22.198Z",
+        "_id": "6a4cc81e37daa4a9a73a9531"
+      }
+    ],
+    "nextFollowUp": "2026-10-21T05:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-07T09:25:22.198Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-07T02:45:03.358Z",
+    "updatedAt": "2026-07-07T09:34:22.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5255e4766ce5fea83a9532",
+    "enquiryNumber": "ENQ-260711-0001",
+    "name": "Yogesh Rohilla",
+    "phone": "9814656825",
+    "email": "yogesh.rohilla@example.com",
+    "treatmentName": "Dental Implant",
+    "message": "I want teeth whitening before my sister's wedding next month.",
+    "source": {
+      "page": "/treatments/dental-implant",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-11T14:40:36.841Z",
+        "note": "Enquiry created",
+        "_id": "6a5255e4dd3e75209e3a9533"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-12T05:45:46.401Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a532a0ac896a152d03a9534"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-07-12T23:45:58.928Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6a54273675d8e88ed63a9535"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-07-15T02:34:39.670Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Patient visited the clinic",
+        "_id": "6a56f1bfa014f588063a9536"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-07-12T05:56:46.401Z",
+        "_id": "6a532c9eb181e74a493a9537"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-12T05:45:46.401Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-11T14:40:36.838Z",
+    "updatedAt": "2026-07-15T02:34:39.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a533dee2b28dcb4e83a9538",
+    "enquiryNumber": "ENQ-260712-0001",
+    "name": "Neha Bansal",
+    "phone": "9544920056",
+    "email": "neha.bansal@example.com",
+    "treatmentName": "Kids Dentistry",
+    "source": {
+      "page": "/treatments/kids-dentistry",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-12T07:10:38.173Z",
+        "note": "Enquiry created",
+        "_id": "6a533deef38815e7ce3a9539"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-12T12:00:06.984Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a5381c659afb6e4c83a953a"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-07-13T12:06:35.838Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6a54d4cb7bb46397bc3a953b"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-07-17T08:03:46.276Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Patient visited the clinic",
+        "_id": "6a59e1e21fd50db1133a953c"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-07-17T08:03:46.276Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Converted to patient",
+        "_id": "6a59e1e269d168eb963a953d"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69cf47ab423e51957c3a91ca",
+        "addedAt": "2026-07-12T12:22:06.984Z",
+        "_id": "6a5386ee1e5f3ae7f83a953e"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-12T12:00:06.984Z",
+    "convertedToPatient": "6a571cd199dc08e1dc3a971b",
+    "convertedAt": "2026-07-17T08:03:46.276Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-12T07:10:38.170Z",
+    "updatedAt": "2026-07-17T08:03:46.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a570e219fd2c5dd1b3a953f",
+    "enquiryNumber": "ENQ-260715-0001",
+    "name": "Surender Bansal",
+    "phone": "8025924419",
+    "treatmentName": "Wisdom Teeth",
+    "message": "Please call me back after 5 PM.",
+    "source": {
+      "page": "/treatments/wisdom-teeth",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-15T04:35:45.968Z",
+        "note": "Enquiry created",
+        "_id": "6a570e218b38ead2b53a9540"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-15T15:43:09.970Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a57aa8ddb57f08bd83a9541"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69cf47ab423e51957c3a91ca",
+        "addedAt": "2026-07-15T15:50:09.970Z",
+        "_id": "6a57ac315829909d993a9542"
+      }
+    ],
+    "nextFollowUp": "2026-10-31T10:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-15T15:43:09.970Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-15T04:35:45.965Z",
+    "updatedAt": "2026-07-15T15:50:09.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a60ff4633341659603a9543",
+    "enquiryNumber": "ENQ-260722-0001",
+    "name": "Jitender Verma",
+    "phone": "8904823216",
+    "treatmentName": "Clear Aligners",
+    "source": {
+      "page": "/treatments/clear-aligners",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-22T17:35:02.443Z",
+        "note": "Enquiry created",
+        "_id": "6a60ff469fecd631923a9544"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-23T02:25:14.783Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a617b8a778a8462b43a9545"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Shared clinic location on WhatsApp",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-07-23T02:29:14.783Z",
+        "_id": "6a617c7a1733c452153a9546"
+      }
+    ],
+    "nextFollowUp": "2026-10-28T10:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-23T02:25:14.783Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-22T17:35:02.440Z",
+    "updatedAt": "2026-07-23T02:30:14.783Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6227e550109e1f273a9547",
+    "enquiryNumber": "ENQ-260723-0001",
+    "name": "Mohit Malik",
+    "phone": "9731533045",
+    "email": "mohit.malik@example.com",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "appointment_scheduled",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-23T14:40:37.098Z",
+        "note": "Enquiry created",
+        "_id": "6a6227e5346fbeb71d3a9548"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-23T22:01:24.138Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a628f345acad21a553a9549"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-07-24T01:47:31.061Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6a62c43359c22b0cfb3a954a"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [],
+    "nextFollowUp": "2026-10-20T05:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-23T22:01:24.138Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-23T14:40:37.095Z",
+    "updatedAt": "2026-07-24T01:47:31.061Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a630feda80fb51ca63a954b",
+    "enquiryNumber": "ENQ-260724-0001",
+    "name": "Manisha Punia",
+    "phone": "8824871576",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-24T07:10:37.742Z",
+        "note": "Enquiry created",
+        "_id": "6a630fed2b9f6d4a153a954c"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-24T17:09:49.262Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a639c5df918bef42e3a954d"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-07-27T22:51:21.874Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Already getting treated elsewhere",
+        "_id": "6a67e0e9928cdb81ec3a954e"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-07-24T17:25:49.262Z",
+        "_id": "6a63a01d58990af1cd3a954f"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-24T17:09:49.262Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-24T07:10:37.739Z",
+    "updatedAt": "2026-07-27T22:51:21.874Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a69c016bb781b820a3a9550",
+    "enquiryNumber": "ENQ-260729-0001",
+    "name": "Jyoti Dahiya",
+    "phone": "8048336766",
+    "email": "jyoti.dahiya@example.com",
+    "treatmentName": "Root Canal Treatment (RCT)",
+    "message": "Is RCT painful? I have pain in my upper tooth since 3 days.",
+    "source": {
+      "page": "/treatments/root-canal-treatment-rct",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-29T08:55:50.316Z",
+        "note": "Enquiry created",
+        "_id": "6a69c01678b9d8d63a3a9551"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-29T11:09:34.603Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a69df6e0e2f86798d3a9552"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Comparing quotes from two clinics",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-07-29T11:37:34.603Z",
+        "_id": "6a69e5fe64bd233fdb3a9553"
+      }
+    ],
+    "nextFollowUp": "2026-10-31T12:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-29T11:09:34.603Z",
+    "isUrgent": true,
+    "isSpam": false,
+    "createdAt": "2026-07-29T08:55:50.313Z",
+    "updatedAt": "2026-07-29T15:55:50.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6a39e33253c8d8893a9554",
+    "enquiryNumber": "ENQ-260729-0002",
+    "name": "Naveen Khatri",
+    "phone": "8981249976",
+    "email": "naveen.khatri@example.com",
+    "treatmentName": "Teeth Whitening",
+    "message": "Need a second opinion on an implant quote I received.",
+    "source": {
+      "page": "/treatments/teeth-whitening",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-29T17:35:31.328Z",
+        "note": "Enquiry created",
+        "_id": "6a6a39e362e6e2f6e43a9555"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-30T03:12:44.114Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a6ac12cbe2c4980213a9556"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-08-03T11:10:18.403Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Already getting treated elsewhere",
+        "_id": "6a70771af399424d703a9557"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-30T03:12:44.114Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-29T17:35:31.325Z",
+    "updatedAt": "2026-08-03T11:10:18.403Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6c262a444294ab673a9558",
+    "enquiryNumber": "ENQ-260731-0001",
+    "name": "Naveen Chhikara",
+    "phone": "7391211534",
+    "treatmentName": "Kids Dentistry",
+    "source": {
+      "page": "/treatments/kids-dentistry",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "appointment_scheduled",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-31T04:35:54.126Z",
+        "note": "Enquiry created",
+        "_id": "6a6c262a0380e05b483a9559"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-31T07:41:01.682Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a6c518d9901bfba6e3a955a"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-07-31T21:20:47.810Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6a6d11af97c3cf61783a955b"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [
+      {
+        "text": "Shared clinic location on WhatsApp",
+        "addedBy": "69cf47ab423e51957c3a91ca",
+        "addedAt": "2026-07-31T08:08:01.682Z",
+        "_id": "6a6c57e1ed97c180ba3a955c"
+      }
+    ],
+    "nextFollowUp": "2026-11-01T05:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-31T07:41:01.682Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-31T04:35:54.123Z",
+    "updatedAt": "2026-07-31T21:20:47.810Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6cdcf29ef97b17bb3a955d",
+    "enquiryNumber": "ENQ-260731-0002",
+    "name": "Neha Verma",
+    "phone": "7372528856",
+    "email": "neha.verma@example.com",
+    "treatmentName": "General Enquiry",
+    "source": {
+      "page": "/sonipat",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-07-31T17:35:46.530Z",
+        "note": "Enquiry created",
+        "_id": "6a6cdcf2b782cc8d323a955e"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-07-31T21:54:27.258Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a6d19939d83265de53a955f"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Shared clinic location on WhatsApp",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-07-31T22:04:27.258Z",
+        "_id": "6a6d1beb4ffa8d53493a9560"
+      }
+    ],
+    "nextFollowUp": "2026-10-31T12:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-07-31T21:54:27.258Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-07-31T17:35:46.527Z",
+    "updatedAt": "2026-07-31T22:04:27.258Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a734b643baf9c1ea03a9561",
+    "enquiryNumber": "ENQ-260805-0001",
+    "name": "Sonia Sharma",
+    "phone": "8993727362",
+    "email": "sonia.sharma@example.com",
+    "treatmentName": "Membership Plans",
+    "message": "Can I get an appointment this Saturday evening?",
+    "source": {
+      "page": "/plans",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-05T14:40:36.467Z",
+        "note": "Enquiry created",
+        "_id": "6a734b646b64e1f7f23a9562"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-06T09:05:40.558Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a744e644fe658b84d3a9563"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Comparing quotes from two clinics",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-08-06T09:15:40.558Z",
+        "_id": "6a7450bc55b78cf9073a9564"
+      }
+    ],
+    "nextFollowUp": "2026-10-28T12:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-06T09:05:40.558Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-08-05T14:40:36.464Z",
+    "updatedAt": "2026-08-06T09:15:40.558Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a77e9bb4b1b0507c63a9565",
+    "enquiryNumber": "ENQ-260809-0001",
+    "name": "Rachna Sharma",
+    "phone": "9015569678",
+    "treatmentName": "Kids Dentistry",
+    "source": {
+      "page": "/treatments/kids-dentistry",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-09T02:45:15.967Z",
+        "note": "Enquiry created",
+        "_id": "6a77e9bb6b4db11fa23a9566"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-09T09:07:01.648Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6a78433509d998c3d93a9567"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-08-10T10:18:02.191Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6a79a55ab89976f3033a9568"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-08-11T20:43:49.498Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Patient visited the clinic",
+        "_id": "6a7b89858974e8390b3a9569"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-09T09:07:01.648Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-08-09T02:45:15.964Z",
+    "updatedAt": "2026-08-11T20:43:49.498Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7d2fc8f1b8b4423f3a956a",
+    "enquiryNumber": "ENQ-260813-0001",
+    "name": "Priya Panchal",
+    "phone": "9635173453",
+    "email": "priya.panchal@example.com",
+    "treatmentName": "Wisdom Teeth",
+    "message": "Do you accept card payments and is there EMI for aligners?",
+    "source": {
+      "page": "/treatments/wisdom-teeth",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-13T02:45:28.419Z",
+        "note": "Enquiry created",
+        "_id": "6a7d2fc8bb126e93d13a956b"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-13T13:48:32.051Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6a7dcb30c58b6825423a956c"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-08-14T07:48:06.001Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Appointment booked",
+        "_id": "6a7ec836958c33a9f13a956d"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-08-17T12:08:37.275Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Patient visited the clinic",
+        "_id": "6a82f9c539996a22383a956e"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-08-17T12:08:37.275Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Converted to patient",
+        "_id": "6a82f9c56542eb5a6d3a956f"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-08-13T13:59:32.051Z",
+        "_id": "6a7dcdc40fcec22c873a9570"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-13T13:48:32.051Z",
+    "convertedToPatient": "6a827fc2fe6cbcead63a9722",
+    "convertedAt": "2026-08-17T12:08:37.275Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-08-13T02:45:28.416Z",
+    "updatedAt": "2026-08-17T12:08:37.275Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a807a79cd4fcd71fa3a9571",
+    "enquiryNumber": "ENQ-260815-0001",
+    "name": "Naveen Lather",
+    "phone": "7027073429",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "Is RCT painful? I have pain in my upper tooth since 3 days.",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-15T14:40:57.100Z",
+        "note": "Enquiry created",
+        "_id": "6a807a796eabc4a1753a9572"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-15T22:53:49.348Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a80edfdf59b1813593a9573"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Comparing quotes from two clinics",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-08-15T23:21:49.348Z",
+        "_id": "6a80f48d361e91769f3a9574"
+      }
+    ],
+    "nextFollowUp": "2026-10-22T05:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-15T22:53:49.348Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-08-15T14:40:57.097Z",
+    "updatedAt": "2026-08-15T23:21:49.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a848f98b0d82446693a9575",
+    "enquiryNumber": "ENQ-260818-0001",
+    "name": "Nitin Rana",
+    "phone": "7855876527",
+    "treatmentName": "Teeth Whitening",
+    "source": {
+      "page": "/treatments/teeth-whitening",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-18T17:00:08.659Z",
+        "note": "Enquiry created",
+        "_id": "6a848f9800616def243a9576"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-19T01:17:34.878Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6a85042e1d8954fd803a9577"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-08-20T06:40:57.527Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6a86a17935da6f568e3a9578"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-08-23T16:43:31.790Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Patient visited the clinic",
+        "_id": "6a8b2333b2d0a699233a9579"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-08-28T15:58:55.152Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Converted to patient",
+        "_id": "6a91b03fb3dc9b3ec93a957a"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-08-19T01:35:34.878Z",
+        "_id": "6a850866be6c6a6c503a957b"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-19T01:17:34.878Z",
+    "convertedToPatient": "6a91941f98d32b58ee3a9724",
+    "convertedAt": "2026-08-28T15:58:55.152Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-08-18T17:00:08.656Z",
+    "updatedAt": "2026-08-28T15:58:55.152Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a85570325bd62fd973a9580",
+    "enquiryNumber": "ENQ-260819-0001",
+    "name": "Payal Saini",
+    "phone": "9520434667",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "Is RCT painful? I have pain in my upper tooth since 3 days.",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-19T07:10:59.113Z",
+        "note": "Enquiry created",
+        "_id": "6a8557038218f80c3e3a9581"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-19T12:26:27.428Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a85a0f353091f904d3a9582"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-08-20T01:17:43.731Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6a8655b7c1afe5ffae3a9583"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-08-21T05:53:55.509Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Patient visited the clinic",
+        "_id": "6a87e7f3c7d9bc7bdf3a9584"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Comparing quotes from two clinics",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-08-19T12:44:27.428Z",
+        "_id": "6a85a52ba4eefb74203a9585"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-19T12:26:27.428Z",
+    "isUrgent": true,
+    "isSpam": false,
+    "createdAt": "2026-08-19T07:10:59.110Z",
+    "updatedAt": "2026-08-21T05:53:55.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a85e113c9bc1d59053a957c",
+    "enquiryNumber": "ENQ-260819-0002",
+    "name": "Sandeep Goyal",
+    "phone": "9698580701",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "Need a second opinion on an implant quote I received.",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "invalid",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-08-19T17:00:03.310Z",
+        "note": "Enquiry created",
+        "_id": "6a85e11368dd7fd9713a957d"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-08-20T00:57:54.222Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a865112cf32cdcde13a957e"
+      },
+      {
+        "status": "invalid",
+        "changedAt": "2026-08-20T13:30:58.723Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Wrong number",
+        "_id": "6a870192367141d5aa3a957f"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-08-20T00:57:54.222Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-08-19T17:00:03.307Z",
+    "updatedAt": "2026-08-20T13:30:58.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9935fa6bcfe0dadb3a958b",
+    "enquiryNumber": "ENQ-260903-0001",
+    "name": "Payal Goyal",
+    "phone": "8920451379",
+    "treatmentName": "Appointment Enquiry",
+    "message": "Do you accept card payments and is there EMI for aligners?",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-03T08:55:22.167Z",
+        "note": "Enquiry created",
+        "_id": "6a9935fa0a8c9985d33a958c"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-03T17:45:51.036Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called, explained treatment and cost",
+        "_id": "6a99b24ffcbcb468e93a958d"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-09-06T03:17:18.356Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Found the cost too high",
+        "_id": "6a9cdb3ec8423a44233a958e"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-03T17:45:51.036Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-03T08:55:22.164Z",
+    "updatedAt": "2026-09-06T03:17:18.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a993610376c7d14643a9586",
+    "enquiryNumber": "ENQ-260903-0002",
+    "name": "Poonam Gahlawat",
+    "phone": "7897756682",
+    "treatmentName": "Root Canal Treatment (RCT)",
+    "source": {
+      "page": "/treatments/root-canal-treatment-rct",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-03T08:55:44.342Z",
+        "note": "Enquiry created",
+        "_id": "6a9936106dfbef5a103a9587"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-03T20:23:26.614Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6a99d73e9b32804b1b3a9588"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-09-07T18:29:52.243Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Found the cost too high",
+        "_id": "6a9f02a03e3b478d6f3a9589"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Interested in the family membership plan",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-09-03T20:45:26.614Z",
+        "_id": "6a99dc6662f4fc99113a958a"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-03T20:23:26.614Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-03T08:55:44.339Z",
+    "updatedAt": "2026-09-07T18:29:52.243Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9ef5d74feddf9e1f3a958f",
+    "enquiryNumber": "ENQ-260907-0001",
+    "name": "Rajesh Lather",
+    "phone": "9798590866",
+    "treatmentName": "Clear Aligners",
+    "source": {
+      "page": "/treatments/clear-aligners",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-07T17:35:19.935Z",
+        "note": "Enquiry created",
+        "_id": "6a9ef5d7551305128b3a9590"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-08T10:39:19.974Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6a9fe5d75ecea09cce3a9591"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-09-08T10:58:19.974Z",
+        "_id": "6a9fea4b5ce6e92cdb3a9592"
+      }
+    ],
+    "nextFollowUp": "2026-10-31T07:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-08T10:39:19.974Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-07T17:35:19.932Z",
+    "updatedAt": "2026-09-08T10:58:19.974Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa3a95727a60da09c3a9593",
+    "enquiryNumber": "ENQ-260911-0001",
+    "name": "Sunita Jangra",
+    "phone": "7852606262",
+    "email": "sunita.jangra@example.com",
+    "treatmentName": "Dental Implant",
+    "message": "Need a second opinion on an implant quote I received.",
+    "source": {
+      "page": "/treatments/dental-implant",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-11T07:10:15.184Z",
+        "note": "Enquiry created",
+        "_id": "6aa3a95785fac5e3593a9594"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-11T19:20:30.255Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6aa4547ec67d44cef93a9595"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Asked for EMI options",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-09-11T19:47:30.255Z",
+        "_id": "6aa45ad2f67d6e06523a9596"
+      }
+    ],
+    "nextFollowUp": "2026-10-31T10:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-11T19:20:30.255Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-11T07:10:15.181Z",
+    "updatedAt": "2026-09-11T19:47:30.255Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa3f1fd0fa4026f143a959c",
+    "enquiryNumber": "ENQ-260911-0002",
+    "name": "Harish Panchal",
+    "phone": "8106605521",
+    "email": "harish.panchal@example.com",
+    "treatmentName": "Membership Plans",
+    "source": {
+      "page": "/plans",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-11T12:20:13.380Z",
+        "note": "Enquiry created",
+        "_id": "6aa3f1fdff7dbd0d3e3a959d"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-12T01:56:17.827Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6aa4b141fe107cc7443a959e"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-09-15T16:54:56.972Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Will think about it later",
+        "_id": "6aa97860c4c5d469e73a959f"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-09-12T02:18:17.827Z",
+        "_id": "6aa4b66977d648c05c3a95a0"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-12T01:56:17.827Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-11T12:20:13.377Z",
+    "updatedAt": "2026-09-15T16:54:56.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa3f21f7042684d0c3a9597",
+    "enquiryNumber": "ENQ-260911-0003",
+    "name": "Mohit Sehrawat",
+    "phone": "9829586189",
+    "treatmentName": "Clear Aligners",
+    "message": "Can I get an appointment this Saturday evening?",
+    "source": {
+      "page": "/treatments/clear-aligners",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "closed",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-11T12:20:47.520Z",
+        "note": "Enquiry created",
+        "_id": "6aa3f21f7e3d5a37dd3a9598"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-11T15:13:42.392Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6aa41aa6f1f3fb23903a9599"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-12T02:39:28.403Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6aa4bb602830c94ac63a959a"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2026-09-18T23:32:55.646Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "No response after 3 calls",
+        "_id": "6aadca27fbb1128b473a959b"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-11T15:13:42.392Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-11T12:20:47.517Z",
+    "updatedAt": "2026-09-18T23:32:55.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab1212a1328d50d5b3a95a1",
+    "enquiryNumber": "ENQ-260921-0001",
+    "name": "Reyansh Arora",
+    "phone": "9003650405",
+    "treatmentName": "Dentures",
+    "message": "Do you accept card payments and is there EMI for aligners?",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-21T12:20:58.249Z",
+        "note": "Enquiry created",
+        "_id": "6ab1212a34cadc11f03a95a2"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-21T23:58:33.583Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6ab1c4a9a39334eca93a95a3"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-22T13:07:38.400Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6ab27d9abe6a34c2c63a95a4"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-09-25T23:08:21.249Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Patient visited the clinic",
+        "_id": "6ab6fee54a878beaf93a95a5"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-09-28T13:21:16.262Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Converted to patient",
+        "_id": "6aba69ccdc33f909313a95a6"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-21T23:58:33.583Z",
+    "convertedToPatient": "6aba5bbc2ccb0b87303a972e",
+    "convertedAt": "2026-09-28T13:21:16.262Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-21T12:20:58.246Z",
+    "updatedAt": "2026-09-28T13:21:16.262Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab141ea0da5dc8fb13a95a7",
+    "enquiryNumber": "ENQ-260921-0002",
+    "name": "Ankit Panchal",
+    "phone": "8755729041",
+    "email": "ankit.panchal@example.com",
+    "treatmentName": "General Enquiry",
+    "source": {
+      "page": "/",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "closed",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-21T14:40:42.641Z",
+        "note": "Enquiry created",
+        "_id": "6ab141ea9d6241941c3a95a8"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-22T04:29:28.872Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6ab2042827f3b3ed1a3a95a9"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-22T12:27:28.628Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6ab274300492d2deb73a95aa"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2026-09-27T18:01:12.919Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "No response after 3 calls",
+        "_id": "6ab959e810fd3bc0383a95ab"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-09-22T04:38:28.872Z",
+        "_id": "6ab20644f978721b753a95ac"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-22T04:29:28.872Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-21T14:40:42.638Z",
+    "updatedAt": "2026-09-27T18:01:12.919Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab24294c85e0c2a2d3a95ad",
+    "enquiryNumber": "ENQ-260922-0001",
+    "name": "Naveen Yadav",
+    "phone": "9372855743",
+    "treatmentName": "Braces",
+    "message": "Can I get an appointment this Saturday evening?",
+    "source": {
+      "page": "/treatments/braces",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-22T08:55:48.566Z",
+        "note": "Enquiry created",
+        "_id": "6ab24294fdda6596073a95ae"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-22T18:38:22.439Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Called, explained treatment and cost",
+        "_id": "6ab2cb1ef1d3e0bc393a95af"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-09-24T23:06:19.992Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Already getting treated elsewhere",
+        "_id": "6ab5acebc6a0b200053a95b0"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Interested in the family membership plan",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-09-22T18:44:22.439Z",
+        "_id": "6ab2cc86a180ab57a83a95b1"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-22T18:38:22.439Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-22T08:55:48.563Z",
+    "updatedAt": "2026-09-24T23:06:19.992Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab37b75e7958763f13a95b2",
+    "enquiryNumber": "ENQ-260923-0001",
+    "name": "Seema Verma",
+    "phone": "9889295161",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-23T07:10:45.875Z",
+        "note": "Enquiry created",
+        "_id": "6ab37b75e09078dc023a95b3"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-23T22:50:35.513Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6ab457bbf5711139043a95b4"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-25T05:08:24.123Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6ab601c86537a768c93a95b5"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-09-26T12:53:40.061Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Patient visited the clinic",
+        "_id": "6ab7c05435160f4a943a95b6"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-09-26T12:53:40.061Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Converted to patient",
+        "_id": "6ab7c054b91f0405463a95b7"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-23T22:50:35.513Z",
+    "convertedToPatient": "6ab5fe0132b07f20da3a972d",
+    "convertedAt": "2026-09-26T12:53:40.061Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-23T07:10:45.872Z",
+    "updatedAt": "2026-09-26T12:53:40.061Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab4ccd0574bbcfaae3a95b8",
+    "enquiryNumber": "ENQ-260924-0001",
+    "name": "Hemant Chauhan",
+    "phone": "9590320937",
+    "email": "hemant.chauhan@example.com",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "I want teeth whitening before my sister's wedding next month.",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "not_interested",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-24T07:10:08.045Z",
+        "note": "Enquiry created",
+        "_id": "6ab4ccd0a5224c33a43a95b9"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-24T16:57:36.352Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called, explained treatment and cost",
+        "_id": "6ab55680ab521b725a3a95ba"
+      },
+      {
+        "status": "not_interested",
+        "changedAt": "2026-09-27T09:55:15.696Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Already getting treated elsewhere",
+        "_id": "6ab8e8038b11e590ab3a95bb"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Shared clinic location on WhatsApp",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-09-24T16:58:36.352Z",
+        "_id": "6ab556bcf2f446ee4e3a95bc"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-24T16:57:36.352Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-24T07:10:08.042Z",
+    "updatedAt": "2026-09-27T09:55:15.696Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab88342befa4d3d003a95bd",
+    "enquiryNumber": "ENQ-260927-0001",
+    "name": "Rohan Bhardwaj",
+    "phone": "9029910216",
+    "email": "rohan.bhardwaj@example.com",
+    "treatmentName": "Treatment Cost Enquiry",
+    "message": "What is the cost of a single implant? I have a missing lower molar.",
+    "source": {
+      "page": "/contact",
+      "referrer": "Contact Page",
+      "device": "unknown"
+    },
+    "status": "appointment_scheduled",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-27T02:45:22.181Z",
+        "note": "Enquiry created",
+        "_id": "6ab88342fa0039be583a95be"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-27T04:44:17.386Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6ab89f21883474591c3a95bf"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-27T14:41:43.011Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6ab92b27f4c04dc47f3a95c0"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [],
+    "nextFollowUp": "2026-11-01T07:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-27T04:44:17.386Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-27T02:45:22.178Z",
+    "updatedAt": "2026-09-27T14:41:43.011Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba13030157dad97a3a95c1",
+    "enquiryNumber": "ENQ-260928-0001",
+    "name": "Nitin Goyal",
+    "phone": "8145139864",
+    "email": "nitin.goyal@example.com",
+    "treatmentName": "General Enquiry",
+    "message": "What is the cost of a single implant? I have a missing lower molar.",
+    "source": {
+      "page": "/",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-28T07:10:59.401Z",
+        "note": "Enquiry created",
+        "_id": "6aba1303ac5de25ab73a95c2"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-28T14:08:37.970Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6aba74e5615afa9ba23a95c3"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-29T11:28:30.933Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6abba0defb0e3435ab3a95c4"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-10-01T23:46:14.908Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Patient visited the clinic",
+        "_id": "6abef0c6da8deecb783a95c5"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [
+      {
+        "text": "Interested in the family membership plan",
+        "addedBy": "69cf47ab423e51957c3a91ca",
+        "addedAt": "2026-09-28T14:25:37.970Z",
+        "_id": "6aba78e15dd81a17af3a95c6"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-28T14:08:37.970Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-28T07:10:59.398Z",
+    "updatedAt": "2026-10-01T23:46:14.908Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abbcde3b8c8bbf5763a95c7",
+    "enquiryNumber": "ENQ-260929-0001",
+    "name": "Shalini Panchal",
+    "phone": "9677863633",
+    "email": "shalini.panchal@example.com",
+    "treatmentName": "Smile Makeover",
+    "message": "My son is 12 and his teeth are crooked. Do you do braces for kids?",
+    "source": {
+      "page": "/treatments/smile-makeover",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-29T14:40:35.213Z",
+        "note": "Enquiry created",
+        "_id": "6abbcde38b1f44bee13a95c8"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-09-30T00:23:13.280Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Called, explained treatment and cost",
+        "_id": "6abc56716ac93280543a95c9"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-09-30T21:06:38.120Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Appointment booked",
+        "_id": "6abd79de02889d27463a95ca"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-10-02T08:06:23.489Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Patient visited the clinic",
+        "_id": "6abf65ff1219ddc38a3a95cb"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-10-08T15:34:37.930Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Converted to patient",
+        "_id": "6ac7b80da438aea6863a95cc"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Comparing quotes from two clinics",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-09-30T00:51:13.280Z",
+        "_id": "6abc5d0142bd968b203a95cd"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-09-30T00:23:13.280Z",
+    "convertedToPatient": "6ac79bed95531ec7f83a9734",
+    "convertedAt": "2026-10-08T15:34:37.930Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-29T14:40:35.210Z",
+    "updatedAt": "2026-10-08T15:34:37.930Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abd1f5385d162ef0e3a95ce",
+    "enquiryNumber": "ENQ-260930-0001",
+    "name": "Surender Sehrawat",
+    "phone": "8793706053",
+    "email": "surender.sehrawat@example.com",
+    "treatmentName": "Wisdom Teeth",
+    "message": "Need a second opinion on an implant quote I received.",
+    "source": {
+      "page": "/treatments/wisdom-teeth",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-09-30T14:40:19.716Z",
+        "note": "Enquiry created",
+        "_id": "6abd1f53b3ae3473313a95cf"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-01T08:06:23.318Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6abe147f993708b9e63a95d0"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-01T14:02:12.656Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6abe67e4d9c4391e263a95d1"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-10-03T15:28:02.393Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Patient visited the clinic",
+        "_id": "6ac11f020e84a2a3083a95d2"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-10-03T15:28:02.393Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Converted to patient",
+        "_id": "6ac11f024c66a418163a95d3"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-10-01T08:20:23.318Z",
+        "_id": "6abe17c7685381b8123a95d4"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-01T08:06:23.318Z",
+    "convertedToPatient": "6abdc0ec08d9d33ab13a9732",
+    "convertedAt": "2026-10-03T15:28:02.393Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-09-30T14:40:19.713Z",
+    "updatedAt": "2026-10-03T15:28:02.393Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe99f249192413683a95d5",
+    "enquiryNumber": "ENQ-261001-0001",
+    "name": "Swati Dhankhar",
+    "phone": "9320995622",
+    "email": "swati.dhankhar@example.com",
+    "treatmentName": "Clear Aligners",
+    "source": {
+      "page": "/treatments/clear-aligners",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-01T17:35:46.545Z",
+        "note": "Enquiry created",
+        "_id": "6abe99f216be5f74f33a95d6"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-01T21:52:50.712Z",
+        "changedBy": "69ce06395c660594f03a91c8",
+        "note": "Spoke to patient, will visit this week",
+        "_id": "6abed63285f95447ed3a95d7"
+      }
+    ],
+    "assignedTo": "69ce06395c660594f03a91c8",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69ce06395c660594f03a91c8",
+        "addedAt": "2026-10-01T22:15:50.712Z",
+        "_id": "6abedb96778dfc88a83a95d8"
+      }
+    ],
+    "nextFollowUp": "2026-10-30T12:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-01T21:52:50.712Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-01T17:35:46.542Z",
+    "updatedAt": "2026-10-01T23:35:46.542Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac13cded800d2a25f3a95d9",
+    "enquiryNumber": "ENQ-261003-0001",
+    "name": "Karan Verma",
+    "phone": "8710610236",
+    "email": "karan.verma@example.com",
+    "treatmentName": "Dental Implant",
+    "source": {
+      "page": "/treatments/dental-implant",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "closed",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-03T17:35:26.761Z",
+        "note": "Enquiry created",
+        "_id": "6ac13cdef9ca1635823a95da"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-03T20:31:36.498Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6ac1662858d83ef9423a95db"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-04T22:54:11.709Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Appointment booked",
+        "_id": "6ac2d9131e124caca03a95dc"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2026-10-13T07:51:12.720Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Treatment done, closing lead",
+        "_id": "6acde2f07e228838513a95dd"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-10-03T20:48:36.498Z",
+        "_id": "6ac16a24aee4956e3d3a95de"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-03T20:31:36.498Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-03T17:35:26.758Z",
+    "updatedAt": "2026-10-13T07:51:12.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3b6d43fda1ae4b83a95df",
+    "enquiryNumber": "ENQ-261005-0001",
+    "name": "Neha Narwal",
+    "phone": "8185018667",
+    "email": "neha.narwal@example.com",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-05T14:40:20.674Z",
+        "note": "Enquiry created",
+        "_id": "6ac3b6d4755b6138613a95e0"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-05T23:08:26.466Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6ac42dea73e7ababb63a95e1"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-10-05T23:21:26.466Z",
+        "_id": "6ac430f6b468b100533a95e2"
+      }
+    ],
+    "nextFollowUp": "2026-11-01T12:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-05T23:08:26.466Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-05T14:40:20.671Z",
+    "updatedAt": "2026-10-05T23:21:26.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac5087b1198bd1f613a95e3",
+    "enquiryNumber": "ENQ-261006-0001",
+    "name": "Sunil Nandal",
+    "phone": "8876132674",
+    "treatmentName": "Clear Aligners",
+    "message": "Is the family plan valid for my parents also?",
+    "source": {
+      "page": "/treatments/clear-aligners",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-06T14:40:59.221Z",
+        "note": "Enquiry created",
+        "_id": "6ac5087bca8c5c403f3a95e4"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-06T21:46:30.221Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6ac56c368e640706c13a95e5"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-07T09:35:47.083Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6ac61273dd2ba2d9293a95e6"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-10-10T09:25:27.439Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Patient visited the clinic",
+        "_id": "6aca0487beb2341d9d3a95e7"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-10-12T06:09:11.250Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Converted to patient",
+        "_id": "6acc79876f9d7d7a9e3a95e8"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-06T21:46:30.221Z",
+    "convertedToPatient": "6acc414700b8352fbd3a9736",
+    "convertedAt": "2026-10-12T06:09:11.250Z",
+    "isUrgent": true,
+    "isSpam": false,
+    "createdAt": "2026-10-06T14:40:59.218Z",
+    "updatedAt": "2026-10-12T06:09:11.250Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac5316351c9ee64403a95e9",
+    "enquiryNumber": "ENQ-261006-0002",
+    "name": "Sonia Chauhan",
+    "phone": "9610005834",
+    "email": "",
+    "treatmentName": "General Enquiry",
+    "source": {
+      "page": "/",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "appointment_scheduled",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-06T17:35:31.670Z",
+        "note": "Enquiry created",
+        "_id": "6ac53163c09a8ca98d3a95ea"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-07T02:55:02.422Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6ac5b48687a005c4423a95eb"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-08T00:18:38.408Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Appointment booked",
+        "_id": "6ac6e15ee44fabc2073a95ec"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [],
+    "nextFollowUp": "2026-10-28T05:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-07T02:55:02.422Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-06T17:35:31.667Z",
+    "updatedAt": "2026-10-08T00:18:38.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac638f3fd706f48ed3a95ed",
+    "enquiryNumber": "ENQ-261007-0001",
+    "name": "Hemant Kundu",
+    "phone": "9883227067",
+    "treatmentName": "Root Canal Treatment (RCT)",
+    "source": {
+      "page": "/treatments/root-canal-treatment-rct",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "appointment_scheduled",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-07T12:20:03.671Z",
+        "note": "Enquiry created",
+        "_id": "6ac638f30b630a666b3a95ee"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-07T15:54:10.562Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6ac66b2245ea3f36723a95ef"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-07T20:28:29.801Z",
+        "changedBy": "69cf47ab423e51957c3a91ca",
+        "note": "Appointment booked",
+        "_id": "6ac6ab6d19d51f5ac43a95f0"
+      }
+    ],
+    "assignedTo": "69cf47ab423e51957c3a91ca",
+    "notes": [
+      {
+        "text": "Patient prefers a call after 6 PM",
+        "addedBy": "69cf47ab423e51957c3a91ca",
+        "addedAt": "2026-10-07T16:13:10.562Z",
+        "_id": "6ac66f9649fd9052553a95f1"
+      }
+    ],
+    "nextFollowUp": "2026-10-27T10:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-07T15:54:10.562Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-07T12:20:03.668Z",
+    "updatedAt": "2026-10-07T20:28:29.801Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac91da7eb8e7159dd3a95f2",
+    "enquiryNumber": "ENQ-261009-0001",
+    "name": "Jitender Tyagi",
+    "phone": "6225388559",
+    "treatmentName": "Kids Dentistry",
+    "source": {
+      "page": "/treatments/kids-dentistry",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "visited",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-09T17:00:23.656Z",
+        "note": "Enquiry created",
+        "_id": "6ac91da715f4dc01633a95f3"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-10T11:45:29.056Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6aca2559da162cc8b73a95f4"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-11T01:30:37.756Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Appointment booked",
+        "_id": "6acae6bddcc3a43f623a95f5"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-10-14T18:59:37.226Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Patient visited the clinic",
+        "_id": "6acfd1199f75b7daaa3a95f6"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-10T11:45:29.056Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-09T17:00:23.653Z",
+    "updatedAt": "2026-10-14T18:59:37.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc49d223a70eb1b73a95f7",
+    "enquiryNumber": "ENQ-261012-0001",
+    "name": "Rachna Antil",
+    "phone": "8904013212",
+    "email": "rachna.antil@example.com",
+    "treatmentName": "Dental Implant",
+    "source": {
+      "page": "/treatments/dental-implant",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-12T02:45:38.844Z",
+        "note": "Enquiry created",
+        "_id": "6acc49d2cb45ab94ba3a95f8"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-12T10:26:37.233Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Called - asked to call back in the evening",
+        "_id": "6accb5dd8c5d1f6d003a95f9"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-10-12T10:32:37.233Z",
+        "_id": "6accb745bf270a02c13a95fa"
+      }
+    ],
+    "nextFollowUp": "2026-10-28T10:30:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-12T10:26:37.233Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-12T02:45:38.841Z",
+    "updatedAt": "2026-10-12T10:32:37.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acf0695f22c3eb2de3a95fb",
+    "enquiryNumber": "ENQ-261014-0001",
+    "name": "Asha Jakhar",
+    "phone": "9573836663",
+    "email": "",
+    "treatmentName": "General Enquiry",
+    "source": {
+      "page": "/sonipat",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "new",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-14T04:35:33.645Z",
+        "note": "Enquiry created",
+        "_id": "6acf069525d43979de3a95fc"
+      }
+    ],
+    "notes": [],
+    "followUpCount": 0,
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-14T04:35:33.642Z",
+    "updatedAt": "2026-10-14T04:35:33.642Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad26068f103c5c6633a95fd",
+    "enquiryNumber": "ENQ-261016-0001",
+    "name": "Ankit Rohilla",
+    "phone": "7355395443",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "new",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-16T17:35:36.142Z",
+        "note": "Enquiry created",
+        "_id": "6ad2606859840532773a95fe"
+      }
+    ],
+    "notes": [],
+    "followUpCount": 0,
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-16T17:35:36.139Z",
+    "updatedAt": "2026-10-16T17:35:36.139Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad6ef97e8abdd5f8a3a95ff",
+    "enquiryNumber": "ENQ-261020-0001",
+    "name": "Mamta Dalal",
+    "phone": "9456635932",
+    "email": "mamta.dalal@example.com",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "contacted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-20T04:35:35.741Z",
+        "note": "Enquiry created",
+        "_id": "6ad6ef97bfd38f5de33a9600"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-20T05:46:19.050Z",
+        "changedBy": "69ce028fdacdcdbebd3a91c7",
+        "note": "Shared estimate on WhatsApp",
+        "_id": "6ad7002b9c5ebf86253a9601"
+      }
+    ],
+    "assignedTo": "69ce028fdacdcdbebd3a91c7",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69ce028fdacdcdbebd3a91c7",
+        "addedAt": "2026-10-20T06:10:19.050Z",
+        "_id": "6ad705cbd7604e38993a9602"
+      }
+    ],
+    "nextFollowUp": "2026-10-22T07:00:00.000Z",
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-20T05:46:19.050Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-20T04:35:35.738Z",
+    "updatedAt": "2026-10-20T08:35:35.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad99288382da50ec73a9603",
+    "enquiryNumber": "ENQ-261022-0001",
+    "name": "Babita Malik",
+    "phone": "9684805376",
+    "treatmentName": "Dentures",
+    "source": {
+      "page": "/treatments/dentures",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "converted",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-22T04:35:20.370Z",
+        "note": "Enquiry created",
+        "_id": "6ad992889e25d167543a9604"
+      },
+      {
+        "status": "contacted",
+        "changedAt": "2026-10-22T09:51:31.869Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Called, explained treatment and cost",
+        "_id": "6ad9dca3250641110b3a9605"
+      },
+      {
+        "status": "appointment_scheduled",
+        "changedAt": "2026-10-23T16:42:45.456Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Appointment booked",
+        "_id": "6adb8e851e7f62fefb3a9606"
+      },
+      {
+        "status": "visited",
+        "changedAt": "2026-10-26T06:14:00.000Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Patient visited the clinic",
+        "_id": "6adeefa82b73a4e83a3a9607"
+      },
+      {
+        "status": "converted",
+        "changedAt": "2026-10-26T06:40:00.000Z",
+        "changedBy": "69cf439dc35ff0179e3a91c9",
+        "note": "Converted to patient",
+        "_id": "6adef5c00d384770873a9608"
+      }
+    ],
+    "assignedTo": "69cf439dc35ff0179e3a91c9",
+    "notes": [
+      {
+        "text": "Wants Dr. Kavita for consultation",
+        "addedBy": "69cf439dc35ff0179e3a91c9",
+        "addedAt": "2026-10-22T10:11:31.869Z",
+        "_id": "6ad9e1536808200a303a9609"
+      }
+    ],
+    "followUpCount": 1,
+    "lastContactedAt": "2026-10-22T09:51:31.869Z",
+    "convertedToPatient": "6adeeed5355cf700eb3a973a",
+    "convertedAt": "2026-10-26T06:40:00.000Z",
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-22T04:35:20.367Z",
+    "updatedAt": "2026-10-26T06:40:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade14e6f10913913d3a9610",
+    "enquiryNumber": "ENQ-261025-0001",
+    "name": "Seema Sangwan",
+    "phone": "9080837456",
+    "email": "seema.sangwan@example.com",
+    "treatmentName": "Root Canal Treatment (RCT)",
+    "source": {
+      "page": "/treatments/root-canal-treatment-rct",
+      "referrer": "Treatment Page",
+      "device": "unknown"
+    },
+    "status": "new",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-25T14:40:38.466Z",
+        "note": "Enquiry created",
+        "_id": "6ade14e6777fd157e83a9611"
+      }
+    ],
+    "notes": [],
+    "followUpCount": 0,
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-25T14:40:38.463Z",
+    "updatedAt": "2026-10-25T14:40:38.463Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aded63c5cf40172373a960a",
+    "enquiryNumber": "ENQ-261026-0001",
+    "name": "Karan Dahiya",
+    "phone": "8193254405",
+    "email": "karan.dahiya@example.com",
+    "treatmentName": "General Enquiry",
+    "source": {
+      "page": "/",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "new",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-26T04:25:32.815Z",
+        "note": "Enquiry created",
+        "_id": "6aded63cd8d028dcd63a960b"
+      }
+    ],
+    "notes": [],
+    "followUpCount": 0,
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-26T04:25:32.812Z",
+    "updatedAt": "2026-10-26T04:25:32.812Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adee29b9ae5391cc03a960c",
+    "enquiryNumber": "ENQ-261026-0002",
+    "name": "Neha Sehrawat",
+    "phone": "9453426695",
+    "email": "",
+    "treatmentName": "General Enquiry",
+    "source": {
+      "page": "/",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "new",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-26T05:18:19.173Z",
+        "note": "Enquiry created",
+        "_id": "6adee29bc33297f2633a960d"
+      }
+    ],
+    "notes": [],
+    "followUpCount": 0,
+    "isUrgent": false,
+    "isSpam": false,
+    "createdAt": "2026-10-26T05:18:19.170Z",
+    "updatedAt": "2026-10-26T05:18:19.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeea30374bd1399e3a960e",
+    "enquiryNumber": "ENQ-261026-0003",
+    "name": "Asha Jangra",
+    "phone": "8819327874",
+    "email": "asha.jangra@example.com",
+    "treatmentName": "Membership Plans",
+    "source": {
+      "page": "/plans",
+      "referrer": "Popup Form",
+      "device": "unknown"
+    },
+    "status": "new",
+    "statusHistory": [
+      {
+        "status": "new",
+        "changedAt": "2026-10-26T05:50:40.728Z",
+        "note": "Enquiry created",
+        "_id": "6adeea30606d939c053a960f"
+      }
+    ],
+    "notes": [],
+    "followUpCount": 0,
+    "isUrgent": true,
+    "isSpam": false,
+    "createdAt": "2026-10-26T05:50:40.725Z",
+    "updatedAt": "2026-10-26T05:50:40.725Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="420" viewBox="0 0 620 420">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#0b0b0b"/>
+    </radialGradient>
+  </defs>
+  <rect width="620" height="420" fill="url(#glow)"/>
+  <rect x="30" y="50" width="170" height="150" fill="#000" stroke="#444"/>
+  <ellipse cx="115" cy="130" rx="50" ry="38" fill="#bbb" fill-opacity="0.35"/>
+  <text x="36" y="66" fill="#9ad" font-family="monospace" font-size="11">SLICE 1</text>
+  <rect x="220" y="50" width="170" height="150" fill="#000" stroke="#444"/>
+  <ellipse cx="305" cy="130" rx="44" ry="38" fill="#bbb" fill-opacity="0.5"/>
+  <text x="226" y="66" fill="#9ad" font-family="monospace" font-size="11">SLICE 2</text>
+  <rect x="410" y="50" width="170" height="150" fill="#000" stroke="#444"/>
+  <ellipse cx="495" cy="130" rx="38" ry="38" fill="#bbb" fill-opacity="0.6499999999999999"/>
+  <text x="416" y="66" fill="#9ad" font-family="monospace" font-size="11">SLICE 3</text>
+  <rect x="30" y="220" width="170" height="150" fill="#000" stroke="#444"/>
+  <ellipse cx="115" cy="300" rx="50" ry="44" fill="#bbb" fill-opacity="0.35"/>
+  <text x="36" y="236" fill="#9ad" font-family="monospace" font-size="11">SLICE 4</text>
+  <rect x="220" y="220" width="170" height="150" fill="#000" stroke="#444"/>
+  <ellipse cx="305" cy="300" rx="44" ry="44" fill="#bbb" fill-opacity="0.5"/>
+  <text x="226" y="236" fill="#9ad" font-family="monospace" font-size="11">SLICE 5</text>
+  <rect x="410" y="220" width="170" height="150" fill="#000" stroke="#444"/>
+  <ellipse cx="495" cy="300" rx="38" ry="44" fill="#bbb" fill-opacity="0.6499999999999999"/>
+  <text x="416" y="236" fill="#9ad" font-family="monospace" font-size="11">SLICE 6</text>
+  <text x="16" y="28" fill="#9ad" font-family="monospace" font-size="15">CBCT  -  AXIAL SLICES (MANDIBLE)</text>
+  <text x="16" y="406" fill="#777" font-family="monospace" font-size="12">DENTAL CLINIC - DEMO IMAGE - NOT A REAL PATIENT SCAN</text>
+  <text x="310" y="220" fill="#ffffff" fill-opacity="0.08" font-family="sans-serif" font-size="105" font-weight="700" text-anchor="middle">DEMO</text>
+</svg>

@@ -1,0 +1,1063 @@
+[
+  {
+    "_id": "6a02bd54ef2ec535ec3a9484",
+    "reportNumber": "RX-2605-0001",
+    "title": "Prescription - Toothache 36",
+    "category": "prescription",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a02adf752e04f34453a924f",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-05-12T05:40:30.669Z",
+        "_id": "6a02bd541da98f0da43a9485"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-12T05:40:36.669Z",
+    "updatedAt": "2026-05-12T05:40:36.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a02c63c394ccc2cec3a947c",
+    "reportNumber": "OPG-2605-0001",
+    "title": "OPG (Panoramic X-Ray) - Rohan Mehra",
+    "category": "opg",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a02adf752e04f34453a924f",
+    "test": "6a02b9941cd9431a013a947b",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/opg-panoramic.svg",
+        "publicId": "demo/opg-panoramic",
+        "fileName": "OPG_Panoramic.svg",
+        "fileSize": 13147,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/opg-panoramic.svg",
+        "description": "",
+        "uploadedAt": "2026-05-12T06:18:33.669Z",
+        "_id": "6a02c63cda06e95d063a947d"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-12T06:18:36.669Z",
+    "updatedAt": "2026-05-12T06:18:36.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a05cd4b7349da80e73a947f",
+    "reportNumber": "XRY-2605-0001",
+    "title": "IOPA X-Ray (RVG) - Rohan Mehra",
+    "category": "xray",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a02bbca77ac865c703a9253",
+    "test": "6a05c337564de5ef473a947e",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-05-14T13:25:29.512Z",
+        "_id": "6a05cd4b00b3b569803a9480"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-14T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-14T13:25:31.512Z",
+    "updatedAt": "2026-05-14T13:25:31.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c1fe5c641c4ec483a94b7",
+    "reportNumber": "RX-2605-0002",
+    "title": "Post-procedure Prescription",
+    "category": "prescription",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a0c130183ec67d1393a927d",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-05-19T08:31:29.833Z",
+        "_id": "6a0c1fe5abcf1998d73a94b8"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-19T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-19T08:31:33.833Z",
+    "updatedAt": "2026-05-19T08:31:33.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c27a126184655b83a948e",
+    "reportNumber": "XRY-2605-0002",
+    "title": "IOPA X-Ray (RVG) - Vikas Chauhan",
+    "category": "xray",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a0c130183ec67d1393a927d",
+    "test": "6a0c1a456fb4b13a963a948d",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-05-19T09:04:28.833Z",
+        "_id": "6a0c27a1081ac2630a3a948f"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-19T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-19T09:04:33.833Z",
+    "updatedAt": "2026-05-19T09:04:33.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a16ba1e31a759ea953a94bb",
+    "reportNumber": "RX-2605-0003",
+    "title": "Post-procedure Prescription",
+    "category": "prescription",
+    "patient": "6a16ad786ce8004dff3a9711",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a16ae6801cf1c72793a92af",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-05-27T09:32:08.411Z",
+        "_id": "6a16ba1e412bb612703a94bc"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-27T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-27T09:32:14.411Z",
+    "updatedAt": "2026-05-27T09:32:14.411Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a199a0e733e81b9463a9482",
+    "reportNumber": "XRY-2605-0003",
+    "title": "IOPA X-Ray (RVG) - Rohan Mehra",
+    "category": "xray",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a0f0dde467c3079e73a925b",
+    "test": "6a198d2aa760d611993a9481",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-05-29T13:52:11.194Z",
+        "_id": "6a199a0e7e4bcc0a593a9483"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-05-29T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-05-29T13:52:14.194Z",
+    "updatedAt": "2026-05-29T13:52:14.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a21857a0f7f43dcc93a94c7",
+    "reportNumber": "RX-2606-0001",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6a1ab082b07dafd7433a9712",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a1ab0a8c1e9ce8a853a92b4",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-06-04T14:02:30.670Z",
+        "_id": "6a21857aa5729647da3a94c8"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-06-04T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "notes": "Internal: patient allergic to penicillin - prescribed alternative",
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-06-04T14:02:34.670Z",
+    "updatedAt": "2026-06-04T14:02:34.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2b926f6d4f3ebadc3a9491",
+    "reportNumber": "XRY-2606-0001",
+    "title": "IOPA X-Ray (RVG) - Surender Narwal",
+    "category": "xray",
+    "patient": "6a25a49b24609d8df23a9714",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a25a4d52542a768b73a92bc",
+    "test": "6a2b876b5e8a95a3fd3a9490",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-06-12T05:00:25.672Z",
+        "_id": "6a2b926f8b5c8398ca3a9492"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-06-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-06-12T05:00:31.672Z",
+    "updatedAt": "2026-06-12T05:00:31.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a323e78a7bb2abbaa3a94b5",
+    "reportNumber": "RX-2606-0002",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6a25a49b24609d8df23a9714",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a2b8eaf86205034643a92c5",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-06-17T06:28:03.985Z",
+        "_id": "6a323e7805abf37abf3a94b6"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-06-17T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "notes": "Internal: patient allergic to penicillin - prescribed alternative",
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-06-17T06:28:08.985Z",
+    "updatedAt": "2026-06-17T06:28:08.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4379a347c6c1b9943a9494",
+    "reportNumber": "CBT-2606-0001",
+    "title": "CBCT Scan (Single Jaw) - Preeti Bhardwaj",
+    "category": "cbct",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a424495766e7209433a92db",
+    "test": "6a424ceff25724af203a9493",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/cbct-scan.svg",
+        "publicId": "demo/cbct-scan",
+        "fileName": "CBCT_Axial.svg",
+        "fileSize": 2271,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/cbct-scan.svg",
+        "description": "",
+        "uploadedAt": "2026-06-30T08:09:03.898Z",
+        "_id": "6a4379a3b99687a6b53a9495"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-06-29T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-06-30T08:09:07.898Z",
+    "updatedAt": "2026-06-30T08:09:07.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a44c6e41c9c51f66b3a9496",
+    "reportNumber": "CF-2607-0001",
+    "title": "Consent Form - Implant Surgery",
+    "category": "consent_form",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a42577b1f5f3b4f6f3a92e3",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/consent-form.pdf",
+        "publicId": "demo/consent-form",
+        "fileName": "Consent_Form.pdf",
+        "fileSize": 4854,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-07-01T07:50:59.000Z",
+        "_id": "6a44c6e485b0cf079f3a9497"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-07-01T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-07-01T07:51:00.000Z",
+    "updatedAt": "2026-07-01T07:51:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54c722fd7504e2c93a94cb",
+    "reportNumber": "RX-2607-0001",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6a25a49b24609d8df23a9714",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a489542db4199ad5e3a92cb",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-07-13T11:08:17.210Z",
+        "_id": "6a54c72207921339c63a94cc"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-07-13T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "notes": "Internal: patient allergic to penicillin - prescribed alternative",
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-07-13T11:08:18.210Z",
+    "updatedAt": "2026-07-13T11:08:18.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5730e70903e2715f3a9499",
+    "reportNumber": "XRY-2607-0001",
+    "title": "Bitewing X-Ray - Neha Bansal",
+    "category": "xray",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a571d49b9a82c328f3a9308",
+    "test": "6a5727c35fbb4418c63a9498",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-07-15T07:04:06.463Z",
+        "_id": "6a5730e7290e049b7b3a949a"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-07-15T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-07-15T07:04:07.463Z",
+    "updatedAt": "2026-07-15T07:04:07.463Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a828d6054ce8134603a94c9",
+    "reportNumber": "RX-2608-0001",
+    "title": "Post-procedure Prescription",
+    "category": "prescription",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a82800042124f3f5d3a935e",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-08-17T04:26:05.829Z",
+        "_id": "6a828d60e0755ca2763a94ca"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-08-17T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-08-17T04:26:08.829Z",
+    "updatedAt": "2026-08-17T04:26:08.829Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8c2b159ed493d2913a94ae",
+    "reportNumber": "OPG-2608-0001",
+    "title": "OPG (Panoramic X-Ray) - Vikas Chauhan",
+    "category": "opg",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a899fcc96778670da3a9452",
+    "test": "6a8c1909d62fd18e7b3a94ad",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/opg-panoramic.svg",
+        "publicId": "demo/opg-panoramic",
+        "fileName": "OPG_Panoramic.svg",
+        "fileSize": 13147,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/opg-panoramic.svg",
+        "description": "",
+        "uploadedAt": "2026-08-24T11:29:24.307Z",
+        "_id": "6a8c2b156fdebe1f7a3a94af"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-08-24T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-08-24T11:29:25.307Z",
+    "updatedAt": "2026-08-24T11:29:25.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8ec4243d395da4843a94b0",
+    "reportNumber": "TP-2608-0001",
+    "title": "Orthodontic Treatment Plan",
+    "category": "treatment_plan",
+    "patient": "6a0c121145251c2f723a970e",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "appointment": "6a8c1ea953ddaaf41e3a9453",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/treatment-plan.pdf",
+        "publicId": "demo/treatment-plan",
+        "fileName": "Treatment_Plan.pdf",
+        "fileSize": 5766,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-08-26T10:46:59.000Z",
+        "_id": "6a8ec4246b4aed6cb53a94b1"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-08-26T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-08-26T10:47:00.000Z",
+    "updatedAt": "2026-08-26T10:47:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91ac38a833f004ad3a949c",
+    "reportNumber": "OPG-2608-0002",
+    "title": "OPG (Panoramic X-Ray) - Nitin Rana",
+    "category": "opg",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6a9194d358f56c53e93a936d",
+    "test": "6a91a0802c4ff9a6103a949b",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/opg-panoramic.svg",
+        "publicId": "demo/opg-panoramic",
+        "fileName": "OPG_Panoramic.svg",
+        "fileSize": 13147,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/opg-panoramic.svg",
+        "description": "",
+        "uploadedAt": "2026-08-28T15:41:41.985Z",
+        "_id": "6a91ac38f9a5b2458b3a949d"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-08-28T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-08-28T15:41:44.985Z",
+    "updatedAt": "2026-08-28T15:41:44.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa53f670a911a5f103a949f",
+    "reportNumber": "XRY-2609-0001",
+    "title": "Bitewing X-Ray - Poonam Sharma",
+    "category": "xray",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa52a6ab83bdafbd83a938a",
+    "test": "6aa536bbfaaf1035d43a949e",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-09-12T12:02:41.031Z",
+        "_id": "6aa53f67bb09b437283a94a0"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-09-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-09-12T12:02:47.031Z",
+    "updatedAt": "2026-09-12T12:02:47.031Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab3b21cda4933f5e93a94bd",
+    "reportNumber": "RX-2609-0001",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ab0d29df7f36ca7203a9363",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-09-23T11:03:53.938Z",
+        "_id": "6ab3b21c7482e253fa3a94be"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-09-23T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-09-23T11:03:56.938Z",
+    "updatedAt": "2026-09-23T11:03:56.938Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab3b7651c9b65bd733a94bf",
+    "reportNumber": "RX-2609-0002",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6aa8d3277a9d5a4d473a9393",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-09-23T11:26:27.811Z",
+        "_id": "6ab3b76512f0bae6123a94c0"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-09-23T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-09-23T11:26:29.811Z",
+    "updatedAt": "2026-09-23T11:26:29.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abfbfe68da8e08c863a94a2",
+    "reportNumber": "XRY-2610-0001",
+    "title": "IOPA X-Ray (RVG) - Surender Sehrawat",
+    "category": "xray",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6abdc12a1a15207f4b3a93cf",
+    "test": "6abfb46a1d345fcb9e3a94a1",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-10-02T14:29:51.216Z",
+        "_id": "6abfbfe67b5e9178f53a94a3"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-02T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-02T14:29:58.216Z",
+    "updatedAt": "2026-10-02T14:29:58.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3a836b0c4de959a3a9487",
+    "reportNumber": "OPG-2610-0001",
+    "title": "OPG (Panoramic X-Ray) - Rohan Mehra",
+    "category": "opg",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ac0a5cf0cabeb96a63a926b",
+    "test": "6ac39bca023efff9213a9486",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/opg-panoramic.svg",
+        "publicId": "demo/opg-panoramic",
+        "fileName": "OPG_Panoramic.svg",
+        "fileSize": 13147,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/opg-panoramic.svg",
+        "description": "",
+        "uploadedAt": "2026-10-05T13:37:51.791Z",
+        "_id": "6ac3a8363e5596db543a9488"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-10-05T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-05T13:37:58.791Z",
+    "updatedAt": "2026-10-05T13:37:58.791Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc9f54055e14912e3a94a5",
+    "reportNumber": "XRY-2610-0002",
+    "title": "IOPA X-Ray (RVG) - Yogesh Jangra",
+    "category": "xray",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6acc8756fbb92f831a3a93f4",
+    "test": "6acc932422522b85743a94a4",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-10-12T08:50:24.230Z",
+        "_id": "6acc9f546ff33730713a94a6"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-12T08:50:28.230Z",
+    "updatedAt": "2026-10-12T08:50:28.230Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accd0fb21e62345b43a9489",
+    "reportNumber": "TP-2610-0001",
+    "title": "Clear Aligner Treatment Plan",
+    "category": "treatment_plan",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ac3a1f67b239e660d3a926c",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/treatment-plan.pdf",
+        "publicId": "demo/treatment-plan",
+        "fileName": "Treatment_Plan.pdf",
+        "fileSize": 5766,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-10-12T12:22:13.024Z",
+        "_id": "6accd0fb6f3a72a1753a948a"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-10-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [
+      "aligners",
+      "orthodontic"
+    ],
+    "isActive": true,
+    "createdAt": "2026-10-12T12:22:19.024Z",
+    "updatedAt": "2026-10-12T12:22:19.024Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accd173f3b6c323b13a948b",
+    "reportNumber": "CF-2610-0001",
+    "title": "Consent Form - Clear Aligner Therapy",
+    "category": "consent_form",
+    "patient": "6a02ad6911b51303083a970c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ac3a1f67b239e660d3a926c",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/consent-form.pdf",
+        "publicId": "demo/consent-form",
+        "fileName": "Consent_Form.pdf",
+        "fileSize": 4854,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-10-12T12:24:11.024Z",
+        "_id": "6accd173b8559e5a5b3a948c"
+      }
+    ],
+    "uploadedBy": "69cca5912aa8103b393a91c6",
+    "reportDate": "2026-10-12T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-12T12:24:19.024Z",
+    "updatedAt": "2026-10-12T12:24:19.024Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad23bfc1936ec64503a94c3",
+    "reportNumber": "RX-2610-0001",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6acc414700b8352fbd3a9736",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6acc418e001e26ba443a9402",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-10-16T15:00:07.782Z",
+        "_id": "6ad23bfc43e609c0513a94c4"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-16T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-16T15:00:12.782Z",
+    "updatedAt": "2026-10-16T15:00:12.782Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5bddad1fde5796c3a94ab",
+    "reportNumber": "XRY-2610-0003",
+    "title": "IOPA X-Ray (RVG) - Priya Panchal",
+    "category": "xray",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad313ca85ae62d86a3a9433",
+    "test": "6ad5ae9ec0dfeef2963a94aa",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/xray-iopa.svg",
+        "publicId": "demo/xray-iopa",
+        "fileName": "IOPA_RVG.svg",
+        "fileSize": 1701,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/xray-iopa.svg",
+        "description": "",
+        "uploadedAt": "2026-10-19T06:51:04.390Z",
+        "_id": "6ad5bdda84c76df7c33a94ac"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-19T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-19T06:51:06.390Z",
+    "updatedAt": "2026-10-19T06:51:06.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5cd7b46c7c688f33a94c5",
+    "reportNumber": "RX-2610-0002",
+    "title": "Prescription",
+    "category": "prescription",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad5b3124f4e821df53a9438",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-10-19T07:57:42.614Z",
+        "_id": "6ad5cd7b54d741179b3a94c6"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-19T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-19T07:57:47.614Z",
+    "updatedAt": "2026-10-19T07:57:47.614Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad62e6f3333af9f4f3a94c1",
+    "reportNumber": "RX-2610-0003",
+    "title": "Post-procedure Prescription",
+    "category": "prescription",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6accbfc65b5628cc013a93dd",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-10-19T14:51:26.713Z",
+        "_id": "6ad62e6f736540f8e73a94c2"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-19T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-19T14:51:27.713Z",
+    "updatedAt": "2026-10-19T14:51:27.713Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9e5f240330fa5d93a94a8",
+    "reportNumber": "OPG-2610-0002",
+    "title": "OPG (Panoramic X-Ray) - Savita Verma",
+    "category": "opg",
+    "patient": "6ad9d1a9986052ef993a9737",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6ad9d25d2c931afb313a9411",
+    "test": "6ad9de724108f8f2893a94a7",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/opg-panoramic.svg",
+        "publicId": "demo/opg-panoramic",
+        "fileName": "OPG_Panoramic.svg",
+        "fileSize": 13147,
+        "fileType": "image/svg+xml",
+        "thumbnailUrl": "/demo/opg-panoramic.svg",
+        "description": "",
+        "uploadedAt": "2026-10-22T10:31:11.309Z",
+        "_id": "6ad9e5f2aa296ec40d3a94a9"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-22T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-22T10:31:14.309Z",
+    "updatedAt": "2026-10-22T10:31:14.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aded8a6a3ed2cdcd63a94b9",
+    "reportNumber": "RX-2610-0004",
+    "title": "Post-procedure Prescription",
+    "category": "prescription",
+    "patient": "6adecc0192e5a76ffa3a9739",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "appointment": "6adeccb584d43bf28a3a942c",
+    "file": {
+      "fileType": "application/pdf"
+    },
+    "files": [
+      {
+        "url": "/demo/prescription.pdf",
+        "publicId": "demo/prescription",
+        "fileName": "Prescription.pdf",
+        "fileSize": 4994,
+        "fileType": "application/pdf",
+        "description": "",
+        "uploadedAt": "2026-10-26T04:35:46.153Z",
+        "_id": "6aded8a6a12213ae843a94ba"
+      }
+    ],
+    "uploadedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reportDate": "2026-10-26T00:00:00.000Z",
+    "isVisibleToPatient": true,
+    "notes": "Internal: patient allergic to penicillin - prescribed alternative",
+    "tags": [],
+    "isActive": true,
+    "createdAt": "2026-10-26T04:35:50.153Z",
+    "updatedAt": "2026-10-26T04:35:50.153Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,1792 @@
+[
+  {
+    "_id": "69f41dd3d2bed64e653a970d",
+    "phone": "9437976082",
+    "email": "priya.kundu@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Priya Kundu",
+    "gender": "female",
+    "address": {
+      "street": "H.No. 356, Ashok Vihar",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "isActive": true,
+    "createdAt": "2026-05-01T03:28:19.206Z",
+    "updatedAt": "2026-05-01T03:28:19.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a02ad6911b51303083a970c",
+    "phone": "9876543210",
+    "email": "patient@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Rohan Mehra",
+    "gender": "male",
+    "dateOfBirth": "1991-03-14T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 1123, Sector 14",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "B+",
+    "allergies": [
+      "Penicillin"
+    ],
+    "medicalHistory": [
+      "Mild hypertension"
+    ],
+    "emergencyContact": {
+      "name": "Simran Mehra",
+      "phone": "9812765430",
+      "relation": "Spouse"
+    },
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-06-02T12:10:17.337Z",
+      "expiryDate": "2027-06-02T12:10:17.337Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "upi",
+      "assignedBy": "69cf439dc35ff0179e3a91c9",
+      "notes": "Joined after RCT consultation"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "notes": "Prefers evening appointments. Demo account for the patient portal.",
+    "createdAt": "2026-05-12T04:32:41.956Z",
+    "updatedAt": "2026-06-02T12:10:17.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c121145251c2f723a970e",
+    "phone": "8959996174",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Vikas Chauhan",
+    "gender": "male",
+    "address": {
+      "street": "H.No. 710, Devru Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-05-19T08:39:33.833Z",
+      "expiryDate": "2027-05-19T08:39:33.833Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "bank_transfer",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-05-19T07:32:33.522Z",
+    "updatedAt": "2026-05-19T08:39:33.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a125dcb16f85974b83a970f",
+    "phone": "8122778779",
+    "email": "manoj.saini@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Manoj Saini",
+    "gender": "male",
+    "age": 35,
+    "address": {
+      "street": "House 423, Old Bus Stand Road",
+      "city": "Gohana",
+      "state": "Haryana",
+      "pincode": "131301"
+    },
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [
+      "Asthma"
+    ],
+    "emergencyContact": {
+      "name": "Yogesh Saini",
+      "phone": "9627687309",
+      "relation": "Son"
+    },
+    "membership": {
+      "plan": "69cf66c6364fca2b823a9237",
+      "planName": "Cosmodentofacial Family Dental Plan",
+      "discountPercent": 20,
+      "startDate": "2026-05-25T11:26:33.634Z",
+      "expiryDate": "2027-05-25T11:26:33.634Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 4999,
+      "paymentMethod": "upi",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-05-24T02:09:15.746Z",
+    "updatedAt": "2026-05-25T11:26:33.634Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a143ac5ce846a2bee3a9710",
+    "phone": "8107097589",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Kuldeep Antil",
+    "gender": "male",
+    "address": {
+      "street": "H.No. 1176, Sector 15",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [
+      "Asthma"
+    ],
+    "emergencyContact": {
+      "name": "Kuldeep Antil",
+      "phone": "9630014509",
+      "relation": "Son"
+    },
+    "membership": {
+      "plan": "69cf66c6364fca2b823a9237",
+      "planName": "Cosmodentofacial Family Dental Plan",
+      "discountPercent": 20,
+      "startDate": "2026-05-26T13:47:26.940Z",
+      "expiryDate": "2027-05-26T13:47:26.940Z",
+      "status": "cancelled",
+      "statusHistory": [
+        {
+          "action": "cancelled",
+          "reason": "Duplicate membership - family already covered under spouse's plan",
+          "performedBy": "69cc9ff01f6bb4ae063a91c5",
+          "performedAt": "2026-10-20T06:35:29.811Z"
+        }
+      ],
+      "amountPaid": 4999,
+      "paymentMethod": "upi",
+      "assignedBy": "69ce06395c660594f03a91c8"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": true,
+    "createdAt": "2026-05-25T12:04:21.594Z",
+    "updatedAt": "2026-10-20T06:35:29.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a16ad786ce8004dff3a9711",
+    "phone": "8003006779",
+    "email": "preeti.kundu@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Preeti Kundu",
+    "gender": "female",
+    "dateOfBirth": "1973-04-25T00:00:00.000Z",
+    "address": {
+      "street": "House 290, Sector 15",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [
+      "Type 2 diabetes"
+    ],
+    "emergencyContact": {
+      "name": "Satish Kundu",
+      "phone": "7379325820",
+      "relation": "Brother"
+    },
+    "membership": {
+      "plan": "69cf68d2ca3e4d6a433a9239",
+      "planName": "Women's Smile Care Plan",
+      "discountPercent": 20,
+      "startDate": "2026-09-08T11:45:29.043Z",
+      "expiryDate": "2027-09-08T11:45:29.043Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2499,
+      "paymentMethod": "upi",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7",
+      "notes": "Renewed after expiry"
+    },
+    "membershipHistory": [
+      {
+        "plan": "69cf67a69ec778a6033a9238",
+        "planName": "Individuals Plan",
+        "discountPercent": 15,
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "expiryDate": "2026-07-01T00:00:00.000Z",
+        "status": "expired",
+        "statusHistory": [],
+        "assignedBy": "69ce028fdacdcdbebd3a91c7",
+        "notes": "Migrated from paper membership register"
+      }
+    ],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-05-27T08:38:16.182Z",
+    "updatedAt": "2026-09-08T11:45:29.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1ab082b07dafd7433a9712",
+    "phone": "8830182310",
+    "email": "manoj.antil@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Manoj Antil",
+    "gender": "male",
+    "dateOfBirth": "1999-02-03T00:00:00.000Z",
+    "address": {
+      "street": "House 75, Sector 7",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "A-",
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-06-04T14:15:34.670Z",
+      "expiryDate": "2027-06-04T14:15:34.670Z",
+      "status": "paused",
+      "pausedAt": "2026-10-14T10:50:22.950Z",
+      "statusHistory": [
+        {
+          "action": "paused",
+          "reason": "Patient travelling abroad for 3 months",
+          "performedBy": "69ce028fdacdcdbebd3a91c7",
+          "performedAt": "2026-10-14T10:50:22.950Z"
+        }
+      ],
+      "amountPaid": 2000,
+      "paymentMethod": "cash",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": true,
+    "createdAt": "2026-05-30T09:40:18.362Z",
+    "updatedAt": "2026-10-14T10:50:22.950Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a25a49b24609d8df23a9714",
+    "phone": "9941943774",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Surender Narwal",
+    "gender": "male",
+    "age": 64,
+    "address": {
+      "street": "House 183, Ashok Vihar",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "A+",
+    "allergies": [],
+    "medicalHistory": [
+      "Type 2 diabetes"
+    ],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-06-12T04:35:31.672Z",
+      "expiryDate": "2027-06-12T04:35:31.672Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "upi",
+      "assignedBy": "69cf4d92578ae0b2603a91cc"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-06-07T17:04:27.205Z",
+    "updatedAt": "2026-06-12T04:35:31.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2795e8ffdf4f573d3a9713",
+    "phone": "9419206533",
+    "email": "meenu.yadav@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Meenu Yadav",
+    "gender": "female",
+    "dateOfBirth": "1986-10-23T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 1178, Jain Colony, Gohana Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "A+",
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69ce028fdacdcdbebd3a91c7",
+    "isActive": true,
+    "createdAt": "2026-06-09T04:26:16.909Z",
+    "updatedAt": "2026-06-09T04:26:16.909Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2a525da3831803343a9715",
+    "phone": "9445990829",
+    "email": "tarun.sharma@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Tarun Sharma",
+    "gender": "male",
+    "dateOfBirth": "1996-07-04T00:00:00.000Z",
+    "address": {
+      "street": "House 231, Shastri Colony",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69ce06395c660594f03a91c8",
+    "isActive": true,
+    "createdAt": "2026-06-11T06:14:53.875Z",
+    "updatedAt": "2026-06-11T06:14:53.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a34ca81484f8bb95d3a9716",
+    "phone": "8027241704",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Swati Lather",
+    "gender": "female",
+    "dateOfBirth": "1986-12-20T00:00:00.000Z",
+    "address": {
+      "street": "House 47, Main Bazaar",
+      "city": "Ganaur",
+      "state": "Haryana",
+      "pincode": "131101"
+    },
+    "bloodGroup": "B+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf4d92578ae0b2603a91cc",
+    "isActive": false,
+    "createdAt": "2026-06-19T04:50:09.085Z",
+    "updatedAt": "2026-10-07T06:45:00.000Z",
+    "__v": 0,
+    "notes": "Requested to deactivate account"
+  },
+  {
+    "_id": "6a3f5655eeab07062a3a9719",
+    "phone": "8036409406",
+    "email": "renu.panchal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Renu Panchal",
+    "gender": "female",
+    "age": 39,
+    "address": {
+      "street": "House 140, Murthal",
+      "city": "Murthal",
+      "state": "Haryana",
+      "pincode": "131027"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Naveen Panchal",
+      "phone": "9845796664",
+      "relation": "Brother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cc9ff01f6bb4ae063a91c5",
+    "isActive": true,
+    "createdAt": "2026-06-27T04:49:25.945Z",
+    "updatedAt": "2026-06-27T04:49:25.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a42445f6a2a9c05e93a9717",
+    "phone": "7379002402",
+    "email": "preeti.bhardwaj@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Preeti Bhardwaj",
+    "gender": "female",
+    "dateOfBirth": "1992-07-07T00:00:00.000Z",
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf652c9ed6bb73f33a9236",
+      "planName": "Implant Post Care",
+      "discountPercent": 30,
+      "startDate": "2026-06-29T11:08:07.898Z",
+      "expiryDate": "2027-06-29T11:08:07.898Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 4500,
+      "paymentMethod": "upi",
+      "assignedBy": "69cca5912aa8103b393a91c6"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": true,
+    "createdAt": "2026-06-29T10:09:35.011Z",
+    "updatedAt": "2026-06-29T11:08:07.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4336ef1225f691ba3a971a",
+    "phone": "8804383403",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Tarun Dahiya",
+    "gender": "male",
+    "address": {
+      "street": "H.No. 436, Devru Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "B+",
+    "allergies": [],
+    "medicalHistory": [
+      "Hypertension"
+    ],
+    "emergencyContact": {
+      "name": "Amit Dahiya",
+      "phone": "9007848289",
+      "relation": "Brother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "isActive": true,
+    "createdAt": "2026-06-30T03:24:31.661Z",
+    "updatedAt": "2026-06-30T03:24:31.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a436b41d6e2ecd87e3a9718",
+    "phone": "9812245300",
+    "email": "renu.gahlawat@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Renu Gahlawat",
+    "gender": "female",
+    "address": {
+      "street": "House 209, Sector 23",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O+",
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [
+      "Asthma"
+    ],
+    "membership": {
+      "plan": "69cf66c6364fca2b823a9237",
+      "planName": "Cosmodentofacial Family Dental Plan",
+      "discountPercent": 20,
+      "startDate": "2026-06-30T08:15:05.346Z",
+      "expiryDate": "2027-06-30T08:15:05.346Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 4999,
+      "paymentMethod": "cash",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": true,
+    "createdAt": "2026-06-30T07:07:45.066Z",
+    "updatedAt": "2026-06-30T08:15:05.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a571cd199dc08e1dc3a971b",
+    "phone": "9544920056",
+    "email": "neha.bansal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Neha Bansal",
+    "gender": "female",
+    "age": 70,
+    "address": {
+      "street": "H.No. 1687, Shastri Colony",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2025-10-02T00:00:00.000Z",
+      "expiryDate": "2026-10-02T00:00:00.000Z",
+      "status": "active",
+      "statusHistory": [],
+      "assignedBy": "69ce028fdacdcdbebd3a91c7",
+      "notes": "Migrated from paper membership register"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-07-15T05:38:25.414Z",
+    "updatedAt": "2026-07-15T06:53:07.463Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a697afad41f0db81c3a971c",
+    "phone": "6360853400",
+    "email": "amit.hooda2@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Amit Hooda",
+    "gender": "male",
+    "age": 29,
+    "address": {
+      "street": "H.No. 597, Bahalgarh Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131021"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Vikas Hooda",
+      "phone": "7884100469",
+      "relation": "Brother"
+    },
+    "membership": {
+      "plan": "69cf66c6364fca2b823a9237",
+      "planName": "Cosmodentofacial Family Dental Plan",
+      "discountPercent": 20,
+      "startDate": "2026-07-29T04:01:58.587Z",
+      "expiryDate": "2027-07-29T04:01:58.587Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 4999,
+      "paymentMethod": "upi",
+      "assignedBy": "69cf439dc35ff0179e3a91c9"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-07-29T04:00:58.587Z",
+    "updatedAt": "2026-07-29T04:01:58.587Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6d99ad131e2238df3a971d",
+    "phone": "6297270778",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Harish Malik",
+    "gender": "male",
+    "dateOfBirth": "1980-09-17T00:00:00.000Z",
+    "address": {
+      "street": "House 250, Devru Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "AB+",
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "isActive": true,
+    "createdAt": "2026-08-01T07:01:01.930Z",
+    "updatedAt": "2026-08-01T07:01:01.930Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a71b3178aa1542a713a971e",
+    "phone": "7076819489",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Karan Sharma",
+    "gender": "male",
+    "age": 17,
+    "address": {
+      "street": "H.No. 845, Kalupur Chungi",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "A+",
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Sandeep Sharma",
+      "phone": "6256999542",
+      "relation": "Brother"
+    },
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-08-04T09:41:31.943Z",
+      "expiryDate": "2027-08-04T09:41:31.943Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "bank_transfer",
+      "assignedBy": "69cf439dc35ff0179e3a91c9"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-08-04T09:38:31.943Z",
+    "updatedAt": "2026-08-04T09:41:31.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a731a8623153d62ac3a971f",
+    "phone": "9937281928",
+    "email": "sonia.jakhar@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Sonia Jakhar",
+    "gender": "female",
+    "age": 25,
+    "bloodGroup": "O+",
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Pardeep Jakhar",
+      "phone": "8795905744",
+      "relation": "Father"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": true,
+    "createdAt": "2026-08-05T11:12:06.178Z",
+    "updatedAt": "2026-08-05T11:12:06.178Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7d771036b59c0cce3a9720",
+    "phone": "9810318068",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Naveen Goyal",
+    "gender": "male",
+    "age": 26,
+    "address": {
+      "street": "H.No. 1251, Subhash Chowk",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [
+      "Asthma"
+    ],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-08-13T07:49:36.614Z",
+    "updatedAt": "2026-08-13T07:49:36.614Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7f36d2d58ebf468f3a9721",
+    "phone": "8192980794",
+    "email": "ankit.malik@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Ankit Malik",
+    "gender": "male",
+    "address": {
+      "street": "House 159, Model Town",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Amit Malik",
+      "phone": "9347923459",
+      "relation": "Brother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "isActive": true,
+    "createdAt": "2026-08-14T15:40:02.835Z",
+    "updatedAt": "2026-08-14T15:40:02.835Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a81551c5f01ee56c63a9723",
+    "phone": "9981111576",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Kuldeep Goyal",
+    "gender": "male",
+    "dateOfBirth": "1987-07-02T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 1237, Sector 14",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": false,
+    "createdAt": "2026-08-16T06:13:48.394Z",
+    "updatedAt": "2026-10-19T06:45:00.000Z",
+    "__v": 0,
+    "notes": "Moved out of Sonipat"
+  },
+  {
+    "_id": "6a827fc2fe6cbcead63a9722",
+    "phone": "9635173453",
+    "email": "priya.panchal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Priya Panchal",
+    "gender": "female",
+    "dateOfBirth": "1987-06-16T00:00:00.000Z",
+    "address": {
+      "street": "House 88, Old Bus Stand Road",
+      "city": "Gohana",
+      "state": "Haryana",
+      "pincode": "131301"
+    },
+    "bloodGroup": "O+",
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69ce028fdacdcdbebd3a91c7",
+    "isActive": true,
+    "createdAt": "2026-08-17T03:28:02.193Z",
+    "updatedAt": "2026-08-17T03:28:02.193Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91941f98d32b58ee3a9724",
+    "phone": "7855876527",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Nitin Rana",
+    "gender": "male",
+    "dateOfBirth": "1981-10-22T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 1028, Old Bus Stand Road",
+      "city": "Gohana",
+      "state": "Haryana",
+      "pincode": "131301"
+    },
+    "allergies": [
+      "Latex"
+    ],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Kiran Rana",
+      "phone": "7376965382",
+      "relation": "Spouse"
+    },
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-08-28T15:13:44.985Z",
+      "expiryDate": "2027-08-28T15:13:44.985Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "upi",
+      "assignedBy": "69cf439dc35ff0179e3a91c9"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-08-28T13:58:55.152Z",
+    "updatedAt": "2026-08-28T15:13:44.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a99625a549c9f3fb53a9725",
+    "phone": "9330338803",
+    "email": "kiran.aggarwal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Kiran Aggarwal",
+    "gender": "female",
+    "address": {
+      "street": "House 163, Subhash Chowk",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "A+",
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Harish Aggarwal",
+      "phone": "9976237217",
+      "relation": "Spouse"
+    },
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2025-09-12T00:00:00.000Z",
+      "expiryDate": "2026-09-12T00:00:00.000Z",
+      "status": "active",
+      "statusHistory": [],
+      "assignedBy": "69ce06395c660594f03a91c8",
+      "notes": "Migrated from paper membership register"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cca5912aa8103b393a91c6",
+    "isActive": true,
+    "createdAt": "2026-09-03T12:04:42.810Z",
+    "updatedAt": "2026-09-07T12:13:58.678Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa2a2bb76edb04f9d3a9726",
+    "phone": "8180461357",
+    "email": "yogesh.gahlawat@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Yogesh Gahlawat",
+    "gender": "male",
+    "age": 33,
+    "address": {
+      "street": "H.No. 52, Mahlana Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "B+",
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Kiran Gahlawat",
+      "phone": "8089212888",
+      "relation": "Mother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-09-10T12:29:47.176Z",
+    "updatedAt": "2026-09-10T12:29:47.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa52a3e9b61d219943a9727",
+    "phone": "9605013917",
+    "email": "poonam.sharma@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Poonam Sharma",
+    "gender": "female",
+    "dateOfBirth": "1977-09-23T00:00:00.000Z",
+    "address": {
+      "street": "House 228, Main Bazaar",
+      "city": "Ganaur",
+      "state": "Haryana",
+      "pincode": "131101"
+    },
+    "allergies": [],
+    "medicalHistory": [
+      "Type 2 diabetes"
+    ],
+    "emergencyContact": {
+      "name": "Surender Sharma",
+      "phone": "9495629794",
+      "relation": "Spouse"
+    },
+    "membership": {
+      "plan": "69cf66c6364fca2b823a9237",
+      "planName": "Cosmodentofacial Family Dental Plan",
+      "discountPercent": 20,
+      "startDate": "2025-11-12T00:00:00.000Z",
+      "expiryDate": "2026-11-12T00:00:00.000Z",
+      "status": "active",
+      "statusHistory": [],
+      "assignedBy": "69ce028fdacdcdbebd3a91c7",
+      "notes": "Migrated from paper membership register"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": true,
+    "createdAt": "2026-09-12T10:32:30.548Z",
+    "updatedAt": "2026-09-12T11:39:47.031Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa55502f77d4568363a9728",
+    "phone": "9341297626",
+    "email": "babita.bhardwaj@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Babita Bhardwaj",
+    "gender": "female",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": true,
+    "createdAt": "2026-09-12T13:34:58.046Z",
+    "updatedAt": "2026-09-12T13:34:58.046Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa77025e37d51b4173a9729",
+    "phone": "8050774947",
+    "email": "amit.verma@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Amit Verma",
+    "gender": "male",
+    "address": {
+      "street": "H.No. 1782, Rai Industrial Area",
+      "city": "Rai",
+      "state": "Haryana",
+      "pincode": "131029"
+    },
+    "bloodGroup": "AB+",
+    "allergies": [],
+    "medicalHistory": [
+      "Type 2 diabetes"
+    ],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-09-14T05:14:59.996Z",
+      "expiryDate": "2027-09-14T05:14:59.996Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "upi",
+      "assignedBy": "69cc9ff01f6bb4ae063a91c5"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-09-14T03:55:17.932Z",
+    "updatedAt": "2026-09-14T05:14:59.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aad06dd613b38095e3a972a",
+    "phone": "9776665470",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Lokesh Kundu",
+    "gender": "male",
+    "dateOfBirth": "1997-01-16T00:00:00.000Z",
+    "address": {
+      "street": "House 152, Kamaspur",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Sachin Kundu",
+      "phone": "9851477876",
+      "relation": "Brother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": true,
+    "createdAt": "2026-09-18T09:39:41.447Z",
+    "updatedAt": "2026-09-18T09:39:41.447Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aae7a49185164d7e33a972c",
+    "phone": "8936593102",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Ankit Yadav",
+    "gender": "male",
+    "dateOfBirth": "2005-02-05T00:00:00.000Z",
+    "address": {
+      "street": "House 415, Sector 23",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O-",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cf439dc35ff0179e3a91c9",
+    "isActive": true,
+    "createdAt": "2026-09-19T12:04:25.469Z",
+    "updatedAt": "2026-09-19T12:04:25.469Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab36684471f0eb1ed3a972b",
+    "phone": "7873175993",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Pardeep Malik",
+    "gender": "male",
+    "dateOfBirth": "1962-04-28T00:00:00.000Z",
+    "bloodGroup": "AB+",
+    "allergies": [],
+    "medicalHistory": [
+      "Type 2 diabetes",
+      "On blood thinners (aspirin)",
+      "Asthma"
+    ],
+    "emergencyContact": {
+      "name": "Pawan Malik",
+      "phone": "8053678299",
+      "relation": "Brother"
+    },
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-09-23T05:43:24.474Z",
+      "expiryDate": "2027-09-23T05:43:24.474Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "cash",
+      "assignedBy": "69ce06395c660594f03a91c8"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "isActive": true,
+    "createdAt": "2026-09-23T05:41:24.474Z",
+    "updatedAt": "2026-09-23T05:43:24.474Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab5440aceb6cd58793a972f",
+    "phone": "9614672309",
+    "email": "priya.narwal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Priya Narwal",
+    "gender": "female",
+    "dateOfBirth": "1984-12-26T00:00:00.000Z",
+    "address": {
+      "street": "House 347, Sampla Road",
+      "city": "Kharkhoda",
+      "state": "Haryana",
+      "pincode": "131402"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Pawan Narwal",
+      "phone": "8843921535",
+      "relation": "Father"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-09-24T15:38:50.193Z",
+    "updatedAt": "2026-09-24T15:38:50.193Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab5fe0132b07f20da3a972d",
+    "phone": "9889295161",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Seema Verma",
+    "gender": "female",
+    "dateOfBirth": "1966-10-22T00:00:00.000Z",
+    "address": {
+      "street": "House 212, Jain Colony, Gohana Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "B+",
+    "allergies": [],
+    "medicalHistory": [
+      "Hypothyroidism"
+    ],
+    "emergencyContact": {
+      "name": "Tarun Verma",
+      "phone": "7351587604",
+      "relation": "Brother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": false,
+    "createdAt": "2026-09-25T04:52:17.362Z",
+    "updatedAt": "2026-10-07T06:45:00.000Z",
+    "__v": 0,
+    "notes": "Duplicate record - merged with family member's file"
+  },
+  {
+    "_id": "6ab8e457551cc8892e3a9731",
+    "phone": "9629676141",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Pawan Arora",
+    "gender": "male",
+    "dateOfBirth": "1972-01-11T00:00:00.000Z",
+    "address": {
+      "street": "House 305, Ashok Vihar",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [
+      "Lignocaine (mild)"
+    ],
+    "medicalHistory": [
+      "Type 2 diabetes"
+    ],
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": true,
+    "createdAt": "2026-09-27T09:39:35.461Z",
+    "updatedAt": "2026-09-27T09:39:35.461Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba09795b2e6cffaa3a9730",
+    "phone": "9670907346",
+    "email": "bhupender.verma@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Bhupender Verma",
+    "gender": "male",
+    "dateOfBirth": "1980-08-26T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 650, Mahlana Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [
+      "Hypothyroidism"
+    ],
+    "emergencyContact": {
+      "name": "Naveen Verma",
+      "phone": "9988950618",
+      "relation": "Father"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69ce06395c660594f03a91c8",
+    "isActive": true,
+    "createdAt": "2026-09-28T06:30:17.735Z",
+    "updatedAt": "2026-09-28T06:30:17.735Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba5bbc2ccb0b87303a972e",
+    "phone": "9003650405",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Reyansh Arora",
+    "gender": "male",
+    "dateOfBirth": "2016-10-06T00:00:00.000Z",
+    "address": {
+      "street": "House 280, Model Town",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "B+",
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Tarun Arora",
+      "phone": "8195616987",
+      "relation": "Father"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-09-28T12:21:16.262Z",
+    "updatedAt": "2026-09-28T12:21:16.262Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abdc0ec08d9d33ab13a9732",
+    "phone": "8793706053",
+    "email": "surender.sehrawat@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Surender Sehrawat",
+    "gender": "male",
+    "dateOfBirth": "2004-12-01T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 880, Main Bazaar",
+      "city": "Ganaur",
+      "state": "Haryana",
+      "pincode": "131101"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-01T02:09:48.285Z",
+    "updatedAt": "2026-10-01T02:09:48.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac4b933b83da90d733a9733",
+    "phone": "7336448928",
+    "email": "shalini.narwal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Shalini Narwal",
+    "gender": "female",
+    "age": 32,
+    "address": {
+      "street": "House 202, Murthal",
+      "city": "Murthal",
+      "state": "Haryana",
+      "pincode": "131027"
+    },
+    "bloodGroup": "B+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf66c6364fca2b823a9237",
+      "planName": "Cosmodentofacial Family Dental Plan",
+      "discountPercent": 20,
+      "startDate": "2026-10-06T09:05:43.531Z",
+      "expiryDate": "2027-10-06T09:05:43.531Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 4999,
+      "paymentMethod": "bank_transfer",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-06T09:02:43.531Z",
+    "updatedAt": "2026-10-06T09:05:43.531Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac79bed95531ec7f83a9734",
+    "phone": "9677863633",
+    "email": "shalini.panchal@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Shalini Panchal",
+    "gender": "female",
+    "dateOfBirth": "1956-08-24T00:00:00.000Z",
+    "address": {
+      "street": "House 37, Jain Colony, Gohana Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2025-08-20T00:00:00.000Z",
+      "expiryDate": "2026-08-20T00:00:00.000Z",
+      "status": "active",
+      "statusHistory": [],
+      "assignedBy": "69ce06395c660594f03a91c8",
+      "notes": "Migrated from paper membership register"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": true,
+    "createdAt": "2026-10-08T13:34:37.930Z",
+    "updatedAt": "2026-10-09T05:43:42.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc414700b8352fbd3a9736",
+    "phone": "8876132674",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Sunil Nandal",
+    "gender": "male",
+    "age": 27,
+    "address": {
+      "street": "H.No. 790, Kalupur Chungi",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [
+      "Penicillin"
+    ],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Renu Nandal",
+      "phone": "9681848059",
+      "relation": "Mother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-12T02:09:11.250Z",
+    "updatedAt": "2026-10-12T02:09:11.250Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc85ee52c573e6b53a9735",
+    "phone": "7837883438",
+    "email": "yogesh.jangra@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Yogesh Jangra",
+    "gender": "male",
+    "dateOfBirth": "1998-07-20T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 1255, Old Bus Stand Road",
+      "city": "Gohana",
+      "state": "Haryana",
+      "pincode": "131301"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-10-12T07:06:06.738Z",
+      "expiryDate": "2027-10-12T07:06:06.738Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "upi",
+      "assignedBy": "69cf439dc35ff0179e3a91c9"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-12T07:02:06.738Z",
+    "updatedAt": "2026-10-12T07:06:06.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5f1ffc03a7052003a9738",
+    "phone": "7390552390",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Myra Bansal",
+    "gender": "female",
+    "dateOfBirth": "2014-11-25T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 155, Kalupur Chungi",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Anjali Bansal",
+      "phone": "6369997493",
+      "relation": "Mother"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-19T10:33:35.233Z",
+    "updatedAt": "2026-10-19T10:33:35.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad99d184ea8535e733a973b",
+    "phone": "6368565734",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Ravinder Jakhar",
+    "gender": "male",
+    "age": 22,
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-22T05:20:24.719Z",
+    "updatedAt": "2026-10-22T05:20:24.719Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9d1a9986052ef993a9737",
+    "phone": "8178193320",
+    "email": "savita.verma@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Savita Verma",
+    "gender": "female",
+    "age": 18,
+    "address": {
+      "street": "H.No. 373, Sector 12",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membership": {
+      "plan": "69cf67a69ec778a6033a9238",
+      "planName": "Individuals Plan",
+      "discountPercent": 15,
+      "startDate": "2026-10-22T09:03:41.397Z",
+      "expiryDate": "2027-10-22T09:03:41.397Z",
+      "status": "active",
+      "statusHistory": [],
+      "amountPaid": 2000,
+      "paymentMethod": "bank_transfer",
+      "assignedBy": "69ce028fdacdcdbebd3a91c7"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-22T09:04:41.397Z",
+    "updatedAt": "2026-10-22T09:04:41.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adaee58dab6bee6cd3a973d",
+    "phone": "9895540032",
+    "email": "renu.punia@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Renu Punia",
+    "gender": "female",
+    "dateOfBirth": "1998-12-28T00:00:00.000Z",
+    "address": {
+      "street": "House 230, Murthal",
+      "city": "Murthal",
+      "state": "Haryana",
+      "pincode": "131027"
+    },
+    "allergies": [
+      "Penicillin"
+    ],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Vinod Punia",
+      "phone": "8966181418",
+      "relation": "Son"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "isActive": true,
+    "createdAt": "2026-10-23T05:19:20.629Z",
+    "updatedAt": "2026-10-23T05:19:20.629Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adc4bb2a617791bb43a973c",
+    "phone": "9411723305",
+    "email": "anil.punia@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Anil Punia",
+    "gender": "male",
+    "dateOfBirth": "2003-07-20T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 1292, Devru Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "allergies": [],
+    "medicalHistory": [],
+    "emergencyContact": {
+      "name": "Asha Punia",
+      "phone": "7890374597",
+      "relation": "Daughter"
+    },
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "registeredBy": "69cc9ff01f6bb4ae063a91c5",
+    "isActive": true,
+    "createdAt": "2026-10-24T06:09:54.084Z",
+    "updatedAt": "2026-10-24T06:09:54.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adecc0192e5a76ffa3a9739",
+    "phone": "8115422008",
+    "email": "jitender.sharma@example.com",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Jitender Sharma",
+    "gender": "male",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69cca8a9d55700278d3a91cd",
+    "isActive": true,
+    "createdAt": "2026-10-26T03:41:53.108Z",
+    "updatedAt": "2026-10-26T03:41:53.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeeed5355cf700eb3a973a",
+    "phone": "9684805376",
+    "password": "$2b$10$shGJneVlBAa1OUhFsPL9yOPnJV/0DVRRbeG/nRDyXtGG2LYvLyyhC",
+    "loginOtp": {
+      "attempts": 0,
+      "sendCount": 0
+    },
+    "name": "Babita Malik",
+    "gender": "female",
+    "dateOfBirth": "1988-02-17T00:00:00.000Z",
+    "address": {
+      "street": "H.No. 611, Sector 7",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "bloodGroup": "O+",
+    "allergies": [],
+    "medicalHistory": [],
+    "membershipHistory": [],
+    "preferredClinic": "69ccaa73dc55f1e40b3a91ce",
+    "registeredBy": "69cf47ab423e51957c3a91ca",
+    "isActive": true,
+    "createdAt": "2026-10-26T06:10:29.583Z",
+    "updatedAt": "2026-10-26T06:10:29.583Z",
+    "__v": 0
+  }
+]

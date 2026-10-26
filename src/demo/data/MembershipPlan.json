@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "69cf652c9ed6bb73f33a9236",
+    "name": "Implant Post Care",
+    "code": "IMP-PC",
+    "type": "individual",
+    "tier": "platinum",
+    "description": "Comprehensive one-year post-operative dental implant care plan.",
+    "terms": "Membership is valid for 12 months from the date of activation and is non-transferable. Discounts apply to treatment charges only and cannot be combined with other offers. Lab charges, implants and orthodontic appliances are billed as per actuals. Fees once paid are non-refundable.",
+    "price": 4500,
+    "durationMonths": 12,
+    "discountPercentage": 30,
+    "maxMembers": 1,
+    "benefits": [
+      {
+        "type": "free_service",
+        "description": "Free consultation and X-ray",
+        "freeService": {
+          "name": "Consultation & X-ray",
+          "quantity": 1
+        }
+      }
+    ],
+    "features": [
+      "OPD for one year",
+      "Oral Prophylaxis (twice a year)",
+      "Two oral health kits in a year",
+      "RVG for one year",
+      "Post Operative Dental Implant Care"
+    ],
+    "isActive": true,
+    "discontinued": false,
+    "displayOrder": 1,
+    "createdAt": "2026-04-03T06:58:52.366Z",
+    "updatedAt": "2026-04-03T06:58:52.366Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf66c6364fca2b823a9237",
+    "name": "Cosmodentofacial Family Dental Plan",
+    "code": "CDF-FAM",
+    "type": "family",
+    "tier": "gold",
+    "description": "Complete family dental care with check-ups, cleaning and discounted cosmetic treatments",
+    "terms": "Membership is valid for 12 months from the date of activation and is non-transferable. Discounts apply to treatment charges only and cannot be combined with other offers. Lab charges, implants and orthodontic appliances are billed as per actuals. Fees once paid are non-refundable.",
+    "price": 4999,
+    "durationMonths": 12,
+    "discountPercentage": 20,
+    "maxMembers": 4,
+    "benefits": [
+      {
+        "type": "discount",
+        "description": "20% off on all treatments",
+        "discountPercentage": 20
+      },
+      {
+        "type": "free_service",
+        "description": "Free consultation and X-ray for family",
+        "freeService": {
+          "name": "Family Consultation",
+          "quantity": 4
+        }
+      },
+      {
+        "type": "priority_booking",
+        "description": "Priority appointment booking"
+      }
+    ],
+    "features": [
+      "Complete family dental check-up and cleaning",
+      "Discounted rates on cosmetic and orthodontic treatments",
+      "₹500 off per clinic visit",
+      "30% off on surgery",
+      "Free consultation and X-ray for the entire family"
+    ],
+    "isActive": true,
+    "discontinued": false,
+    "displayOrder": 2,
+    "createdAt": "2026-04-03T07:05:42.420Z",
+    "updatedAt": "2026-04-03T07:05:42.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf67a69ec778a6033a9238",
+    "name": "Individuals Plan",
+    "code": "IND-PLN",
+    "type": "individual",
+    "tier": "silver",
+    "description": "Comprehensive individual dental care package",
+    "terms": "Membership is valid for 12 months from the date of activation and is non-transferable. Discounts apply to treatment charges only and cannot be combined with other offers. Lab charges, implants and orthodontic appliances are billed as per actuals. Fees once paid are non-refundable.",
+    "price": 2000,
+    "durationMonths": 12,
+    "discountPercentage": 15,
+    "maxMembers": 1,
+    "benefits": [
+      {
+        "type": "discount",
+        "description": "15% off on all treatments",
+        "discountPercentage": 15
+      },
+      {
+        "type": "free_service",
+        "description": "Free consultation and intraoral X-ray",
+        "freeService": {
+          "name": "Consultation & X-ray",
+          "quantity": 1
+        }
+      }
+    ],
+    "features": [
+      "Comprehensive individual dental care package",
+      "₹500 off per clinic visit",
+      "30% off on surgery",
+      "Free consultation and intraoral X-ray"
+    ],
+    "isActive": true,
+    "discontinued": false,
+    "displayOrder": 3,
+    "createdAt": "2026-04-03T07:09:26.751Z",
+    "updatedAt": "2026-04-03T07:09:26.751Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf68d2ca3e4d6a433a9239",
+    "name": "Women's Smile Care Plan",
+    "code": "WSC-PLN",
+    "type": "individual",
+    "tier": "gold",
+    "description": "A year of preventive and cosmetic dental care designed for women, including pregnancy-safe check-ups.",
+    "terms": "Membership is valid for 12 months from the date of activation and is non-transferable. Discounts apply to treatment charges only and cannot be combined with other offers. Lab charges, implants and orthodontic appliances are billed as per actuals. Fees once paid are non-refundable.",
+    "price": 2499,
+    "durationMonths": 12,
+    "discountPercentage": 20,
+    "maxMembers": 1,
+    "benefits": [
+      {
+        "type": "discount",
+        "description": "20% off on all treatments",
+        "discountPercentage": 20
+      },
+      {
+        "type": "free_service",
+        "description": "Two scaling & polishing sessions",
+        "freeService": {
+          "name": "Scaling & Polishing",
+          "quantity": 2
+        }
+      },
+      {
+        "type": "priority_booking",
+        "description": "Priority evening slots"
+      }
+    ],
+    "features": [
+      "Unlimited OPD consultations for one year",
+      "Two scaling & polishing sessions",
+      "20% off on all treatments",
+      "Pregnancy-safe dental check-ups",
+      "Free intraoral X-ray"
+    ],
+    "isActive": true,
+    "discontinued": false,
+    "displayOrder": 4,
+    "createdAt": "2026-04-03T07:14:26.512Z",
+    "updatedAt": "2026-06-20T07:35:16.512Z",
+    "__v": 0
+  }
+]

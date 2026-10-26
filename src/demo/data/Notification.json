@@ -1,0 +1,3363 @@
+[
+  {
+    "_id": "69fc28a1e496fd67e93a9612",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 29 May 2026 at 18:00 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "69f41dd3d2bed64e653a970d",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-05-07T06:52:33.962Z",
+    "isProcessed": false,
+    "createdBy": "69ce06395c660594f03a91c8",
+    "createdAt": "2026-05-07T05:52:33.962Z",
+    "updatedAt": "2026-05-07T06:52:33.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c21c687ae27e8f13a9613",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 19/5/2026 to 19/5/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a0c121145251c2f723a970e",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-05-19T08:39:34.735Z",
+    "createdAt": "2026-05-19T08:39:34.133Z",
+    "updatedAt": "2026-05-19T08:39:34.735Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a125ee3cfe8ea1c453a9614",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-260524-0743 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a125dcb16f85974b83a970f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-05-24T02:13:55.424Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-05-24T09:13:55.146Z",
+    "appointment": "6a125e1945945e46c43a9294",
+    "isProcessed": true,
+    "processedAt": "2026-05-24T02:13:55.464Z",
+    "createdAt": "2026-05-24T02:13:55.146Z",
+    "updatedAt": "2026-05-24T09:13:55.146Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1431e910c0202c303a9615",
+    "title": "Membership Plan Activated",
+    "message": "Your Cosmodentofacial Family Dental Plan membership has been activated. Valid from 25/5/2026 to 25/5/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a125dcb16f85974b83a970f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-05-25T11:26:34.461Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-05-25T20:26:33.934Z",
+    "isProcessed": true,
+    "processedAt": "2026-05-25T11:26:34.501Z",
+    "createdAt": "2026-05-25T11:26:33.934Z",
+    "updatedAt": "2026-05-25T20:26:33.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a14511bd30a8a10083a9616",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 09 Jun 2026 at 16:30 — Whitening touch-up review. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a125dcb16f85974b83a970f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-05-26T13:39:39.069Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-05-25T13:39:39.069Z",
+    "updatedAt": "2026-05-26T13:39:39.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a15a46f4c040b815a3a9617",
+    "title": "Membership Plan Activated",
+    "message": "Your Cosmodentofacial Family Dental Plan membership has been activated. Valid from 26/5/2026 to 26/5/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a143ac5ce846a2bee3a9710",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-05-27T11:47:27.240Z",
+    "isProcessed": true,
+    "processedAt": "2026-05-26T13:47:27.924Z",
+    "createdAt": "2026-05-26T13:47:27.240Z",
+    "updatedAt": "2026-05-27T11:47:27.240Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a16bcee1714c29d243a9618",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 1/7/2025 to 1/7/2026. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a16ad786ce8004dff3a9711",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-05-27T09:44:15.303Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-05-28T09:44:14.711Z",
+    "isProcessed": true,
+    "processedAt": "2026-05-27T09:44:15.343Z",
+    "createdAt": "2026-05-27T09:44:14.711Z",
+    "updatedAt": "2026-05-28T09:44:14.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1ec829291254829a3a9619",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 2/6/2026 to 2/6/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-06-02T12:10:17.964Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-03T15:10:17.637Z",
+    "isProcessed": true,
+    "processedAt": "2026-06-02T12:10:18.004Z",
+    "createdAt": "2026-06-02T12:10:17.637Z",
+    "updatedAt": "2026-06-03T15:10:17.637Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2188862bc12d3d413a961a",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 4/6/2026 to 4/6/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a1ab082b07dafd7433a9712",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-06-04T14:15:35.598Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-05T09:15:34.970Z",
+    "isProcessed": true,
+    "processedAt": "2026-06-04T14:15:35.638Z",
+    "createdAt": "2026-06-04T14:15:34.970Z",
+    "updatedAt": "2026-06-05T09:15:34.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a22a65dea470eb9fd3a966f",
+    "title": "Your crown is ready",
+    "message": "Hi Rohan, your PFM crown for tooth 36 has arrived from the lab. Your cementation visit is confirmed for 10 June at 7:00 PM.",
+    "type": "treatment_update",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": true,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-05T14:00:51.237Z",
+    "appointment": "6a1991265290966d253a925c",
+    "scheduledFor": null,
+    "isProcessed": true,
+    "processedAt": "2026-06-05T10:35:10.031Z",
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-06-05T10:35:09.715Z",
+    "updatedAt": "2026-06-05T14:00:51.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a25a551c4831dd8b13a961b",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-260607-2237 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a25a49b24609d8df23a9714",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-09T05:07:29.605Z",
+    "appointment": "6a25a4d52542a768b73a92bc",
+    "isProcessed": true,
+    "processedAt": "2026-06-07T17:07:30.013Z",
+    "createdAt": "2026-06-07T17:07:29.605Z",
+    "updatedAt": "2026-06-09T05:07:29.605Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2975c55b1e56a4c73a961c",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 10 Jul 2026 at 18:00 — Post-RCT review of 36. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-11T21:33:41.602Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-06-10T14:33:41.602Z",
+    "updatedAt": "2026-06-11T21:33:41.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2b8c9364f313e4b33a961d",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 12/6/2026 to 12/6/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a25a49b24609d8df23a9714",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-13T18:35:31.972Z",
+    "isProcessed": true,
+    "processedAt": "2026-06-12T04:35:32.202Z",
+    "createdAt": "2026-06-12T04:35:31.972Z",
+    "updatedAt": "2026-06-13T18:35:31.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2c1025189d58a9fc3a961e",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 27 Jul 2026 at 17:00 — Review after root canal treatment. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a0c121145251c2f723a970e",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-12T16:56:53.353Z",
+    "isProcessed": false,
+    "createdBy": "69cf4d92578ae0b2603a91cc",
+    "createdAt": "2026-06-12T13:56:53.353Z",
+    "updatedAt": "2026-06-12T16:56:53.353Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3059f08ca98212123a961f",
+    "title": "Appointment Cancelled",
+    "message": "Your appointment #UM-260611-1145 has been cancelled. Reason: Out of station",
+    "type": "appointment_cancellation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a2a525da3831803343a9715",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-06-15T20:00:48.940Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-16T22:00:48.241Z",
+    "appointment": "6a2a52957c14a1a1293a92ce",
+    "isProcessed": true,
+    "processedAt": "2026-06-15T20:00:48.980Z",
+    "createdAt": "2026-06-15T20:00:48.241Z",
+    "updatedAt": "2026-06-16T22:00:48.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39551e8cb14761483a9620",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 26 Oct 2026 at 12:00 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a34ca81484f8bb95d3a9716",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-23T05:30:38.146Z",
+    "isProcessed": false,
+    "createdBy": "69cf4d92578ae0b2603a91cc",
+    "createdAt": "2026-06-22T15:30:38.146Z",
+    "updatedAt": "2026-06-23T05:30:38.146Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4252181703e5c25c3a9621",
+    "title": "Membership Plan Activated",
+    "message": "Your Implant Post Care membership has been activated. Valid from 29/6/2026 to 29/6/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a42445f6a2a9c05e93a9717",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-06-29T11:08:08.498Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-29T17:08:08.198Z",
+    "isProcessed": true,
+    "processedAt": "2026-06-29T11:08:08.538Z",
+    "createdAt": "2026-06-29T11:08:08.198Z",
+    "updatedAt": "2026-06-29T17:08:08.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a43378009546d74ba3a9622",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #UM-260630-0856 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a4336ef1225f691ba3a971a",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "appointment": "6a43372058d1a2121a3a9303",
+    "isProcessed": true,
+    "processedAt": "2026-06-30T03:26:56.663Z",
+    "createdAt": "2026-06-30T03:26:56.061Z",
+    "updatedAt": "2026-06-30T03:26:56.663Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a437b091758accc5d3a9623",
+    "title": "Membership Plan Activated",
+    "message": "Your Cosmodentofacial Family Dental Plan membership has been activated. Valid from 30/6/2026 to 30/6/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a436b41d6e2ecd87e3a9718",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-06-30T08:15:06.440Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-06-30T16:15:05.646Z",
+    "isProcessed": true,
+    "processedAt": "2026-06-30T08:15:06.480Z",
+    "createdAt": "2026-06-30T08:15:05.646Z",
+    "updatedAt": "2026-06-30T16:15:05.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a47cebab0d19672533a9624",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 21 Dec 2026 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a436b41d6e2ecd87e3a9718",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-07-04T14:01:14.605Z",
+    "isProcessed": false,
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-07-03T15:01:14.605Z",
+    "updatedAt": "2026-07-04T14:01:14.605Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54c97ac05d5bc8ac3a9625",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 10 Aug 2026 at 17:00 — Review after root canal treatment. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a25a49b24609d8df23a9714",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-07-14T20:18:18.410Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-07-13T11:18:18.410Z",
+    "updatedAt": "2026-07-14T20:18:18.410Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54d9390b1eb96e4c3a9626",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 17 Aug 2026 at 10:00 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a125dcb16f85974b83a970f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-07-15T00:25:29.564Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-07-13T12:25:29.564Z",
+    "updatedAt": "2026-07-15T00:25:29.564Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54e5b4b3bd3866753a9627",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 29 Jul 2026 at 11:30 — Implant osseointegration review. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a42445f6a2a9c05e93a9717",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-07-14T01:18:44.055Z",
+    "isProcessed": false,
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "createdAt": "2026-07-13T13:18:44.055Z",
+    "updatedAt": "2026-07-14T01:18:44.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a572e53276879aa663a9628",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 2/10/2025 to 2/10/2026. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a571cd199dc08e1dc3a971b",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-07-15T06:53:08.100Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-07-16T06:53:07.763Z",
+    "isProcessed": true,
+    "processedAt": "2026-07-15T06:53:08.140Z",
+    "createdAt": "2026-07-15T06:53:07.763Z",
+    "updatedAt": "2026-07-16T06:53:07.763Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a697b36e2c9ef6e543a9629",
+    "title": "Membership Plan Activated",
+    "message": "Your Cosmodentofacial Family Dental Plan membership has been activated. Valid from 29/7/2026 to 29/7/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a697afad41f0db81c3a971c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-07-29T04:01:58.960Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-07-29T19:01:58.887Z",
+    "isProcessed": true,
+    "processedAt": "2026-07-29T04:01:59.000Z",
+    "createdAt": "2026-07-29T04:01:58.887Z",
+    "updatedAt": "2026-07-29T19:01:58.887Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a71b3cc25fb3c3eb63a962a",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 4/8/2026 to 4/8/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a71b3178aa1542a713a971e",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-05T15:41:32.243Z",
+    "isProcessed": true,
+    "processedAt": "2026-08-04T09:41:32.798Z",
+    "createdAt": "2026-08-04T09:41:32.243Z",
+    "updatedAt": "2026-08-05T15:41:32.243Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7b401b109fa0d16c3a962b",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 12 Sept 2026 at 18:00 — Review after root canal treatment. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a571cd199dc08e1dc3a971b",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-12T12:30:35.269Z",
+    "isProcessed": false,
+    "createdBy": "69cf4d92578ae0b2603a91cc",
+    "createdAt": "2026-08-11T15:30:35.269Z",
+    "updatedAt": "2026-08-12T12:30:35.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7d78369a9a5349683a962c",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-260813-1324 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a7d771036b59c0cce3a9720",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-14T00:54:30.014Z",
+    "appointment": "6a7d77519a9175e5a43a933e",
+    "isProcessed": true,
+    "processedAt": "2026-08-13T07:54:30.652Z",
+    "createdAt": "2026-08-13T07:54:30.014Z",
+    "updatedAt": "2026-08-14T00:54:30.014Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7f375fe283f04e323a962d",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #UM-260814-2112 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a7f36d2d58ebf468f3a9721",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-08-14T15:42:23.373Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-16T07:42:23.235Z",
+    "appointment": "6a7f36ea38a763b2733a9354",
+    "isProcessed": true,
+    "processedAt": "2026-08-14T15:42:23.413Z",
+    "createdAt": "2026-08-14T15:42:23.235Z",
+    "updatedAt": "2026-08-16T07:42:23.235Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8013e5b030c875f13a962e",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 28 Sept 2026 at 18:00 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a7d771036b59c0cce3a9720",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-16T10:23:17.988Z",
+    "isProcessed": false,
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-08-15T07:23:17.988Z",
+    "updatedAt": "2026-08-16T10:23:17.988Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a82f962c872de2bb13a962f",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 01 Oct 2026 at 10:00 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a7f36d2d58ebf468f3a9721",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-17T22:06:58.629Z",
+    "isProcessed": false,
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "createdAt": "2026-08-17T12:06:58.629Z",
+    "updatedAt": "2026-08-17T22:06:58.629Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8c5fbcc7a340ef2d3a9630",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 26 Jan 2027 at 11:30 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a697afad41f0db81c3a971c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-25T02:14:04.718Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-08-24T15:14:04.718Z",
+    "updatedAt": "2026-08-25T02:14:04.718Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91a5a9eeaa5982043a9631",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 28/8/2026 to 28/8/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a91941f98d32b58ee3a9724",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-08-29T10:13:45.285Z",
+    "isProcessed": true,
+    "processedAt": "2026-08-28T15:13:45.810Z",
+    "createdAt": "2026-08-28T15:13:45.285Z",
+    "updatedAt": "2026-08-29T10:13:45.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9c089e091cb7e34f3a9632",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 30 Sept 2026 — Post-extraction check. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a91941f98d32b58ee3a9724",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-06T17:18:38.436Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-09-05T12:18:38.436Z",
+    "updatedAt": "2026-09-06T17:18:38.436Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9eaa862886dc54b13a9633",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 12/9/2025 to 12/9/2026. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a99625a549c9f3fb53a9725",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-07T12:13:59.412Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-08T16:13:58.978Z",
+    "isProcessed": true,
+    "processedAt": "2026-09-07T12:13:59.452Z",
+    "createdAt": "2026-09-07T12:13:58.978Z",
+    "updatedAt": "2026-09-08T16:13:58.978Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9ff55997b1b11da03a9634",
+    "title": "Membership Plan Activated",
+    "message": "Your Women's Smile Care Plan membership has been activated. Valid from 8/9/2026 to 8/9/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a16ad786ce8004dff3a9711",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-08T11:45:29.991Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-09T15:45:29.343Z",
+    "isProcessed": true,
+    "processedAt": "2026-09-08T11:45:30.031Z",
+    "createdAt": "2026-09-08T11:45:29.343Z",
+    "updatedAt": "2026-09-09T15:45:29.343Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa13e109ab14f5a653a9635",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 03 Mar 2027 at 12:00 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a436b41d6e2ecd87e3a9718",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-10T04:08:00.611Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-09-09T11:08:00.611Z",
+    "updatedAt": "2026-09-10T04:08:00.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa53a036ba298747b3a9636",
+    "title": "Membership Plan Activated",
+    "message": "Your Cosmodentofacial Family Dental Plan membership has been activated. Valid from 12/11/2025 to 12/11/2026. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa52a3e9b61d219943a9727",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-12T11:39:48.127Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-12T20:39:47.331Z",
+    "isProcessed": true,
+    "processedAt": "2026-09-12T11:39:48.167Z",
+    "createdAt": "2026-09-12T11:39:47.331Z",
+    "updatedAt": "2026-09-12T20:39:47.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa782d42bd64130113a9637",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 14/9/2026 to 14/9/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa77025e37d51b4173a9729",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-14T05:15:00.564Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-15T01:15:00.296Z",
+    "isProcessed": true,
+    "processedAt": "2026-09-14T05:15:00.604Z",
+    "createdAt": "2026-09-14T05:15:00.296Z",
+    "updatedAt": "2026-09-15T01:15:00.296Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa7868afedd2b6ad13a9638",
+    "title": "Appointment Cancelled",
+    "message": "Your appointment #US-260912-1905 has been cancelled. Reason: Clash with office timings",
+    "type": "appointment_cancellation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa55502f77d4568363a9728",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-14T05:30:51.353Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-15T10:30:50.530Z",
+    "appointment": "6aa5552130a092de8d3a9396",
+    "isProcessed": true,
+    "processedAt": "2026-09-14T05:30:51.393Z",
+    "createdAt": "2026-09-14T05:30:50.530Z",
+    "updatedAt": "2026-09-15T10:30:50.530Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa7d74b3c7667fd1e3a9639",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 02 Mar 2027 at 18:00 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa2a2bb76edb04f9d3a9726",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-15T18:15:23.697Z",
+    "isProcessed": false,
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-09-14T11:15:23.697Z",
+    "updatedAt": "2026-09-15T18:15:23.697Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aabeeb7dc7aed62923a963a",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 27 Oct 2026 at 18:00 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa77025e37d51b4173a9729",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-18T00:44:23.377Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-09-17T13:44:23.377Z",
+    "updatedAt": "2026-09-18T00:44:23.377Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab0d34b6143a0f0be3a963b",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-260921-1218 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a827fc2fe6cbcead63a9722",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-21T06:48:43.431Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-22T18:48:43.032Z",
+    "appointment": "6ab0d29df7f36ca7203a9363",
+    "isProcessed": true,
+    "processedAt": "2026-09-21T06:48:43.471Z",
+    "createdAt": "2026-09-21T06:48:43.032Z",
+    "updatedAt": "2026-09-22T18:48:43.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab366fc388aa205513a963c",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 23/9/2026 to 23/9/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ab36684471f0eb1ed3a972b",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-23T07:43:24.774Z",
+    "isProcessed": true,
+    "processedAt": "2026-09-23T05:43:25.164Z",
+    "createdAt": "2026-09-23T05:43:24.774Z",
+    "updatedAt": "2026-09-23T07:43:24.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab544faf98c7030813a963d",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-260924-2112 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ab5440aceb6cd58793a972f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-09-24T15:42:50.977Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "appointment": "6ab5446262a36fe2403a93bd",
+    "isProcessed": true,
+    "processedAt": "2026-09-24T15:42:51.017Z",
+    "createdAt": "2026-09-24T15:42:50.593Z",
+    "updatedAt": "2026-09-24T15:42:51.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab883429e167404663a963e",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Rohan Bhardwaj (9029910216) for Treatment Cost Enquiry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-28T12:45:22.452Z",
+    "isProcessed": false,
+    "createdAt": "2026-09-27T02:45:22.452Z",
+    "updatedAt": "2026-09-28T12:45:22.452Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba130373d1eacd873a963f",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Nitin Goyal (8145139864) for General Enquiry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-29T11:10:59.562Z",
+    "isProcessed": false,
+    "createdAt": "2026-09-28T07:10:59.562Z",
+    "updatedAt": "2026-09-29T11:10:59.562Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abb43e876f7552fa13a9640",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 12 Oct 2026 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aba09795b2e6cffaa3a9730",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-30T01:51:52.358Z",
+    "isProcessed": false,
+    "createdBy": "69ce06395c660594f03a91c8",
+    "createdAt": "2026-09-29T04:51:52.358Z",
+    "updatedAt": "2026-09-30T01:51:52.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abb43e85bb7f127313a9641",
+    "title": "Follow-up reminder created",
+    "message": "Follow-up for Bhupender Verma scheduled on 12 Oct 2026 — Check filling and sensitivity.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69ce06395c660594f03a91c8",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-29T14:51:52.358Z",
+    "isProcessed": false,
+    "createdBy": "69ce06395c660594f03a91c8",
+    "createdAt": "2026-09-29T04:51:52.365Z",
+    "updatedAt": "2026-09-29T14:51:52.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abbcde3afafef3c823a9642",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Shalini Panchal (9677863633) for Smile Makeover",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-09-30T06:40:35.543Z",
+    "isProcessed": false,
+    "createdAt": "2026-09-29T14:40:35.543Z",
+    "updatedAt": "2026-09-30T06:40:35.543Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abd1f5420c2f6ad573a9643",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Surender Sehrawat (8793706053) for Wisdom Teeth",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-01T04:40:20.014Z",
+    "isProcessed": false,
+    "createdAt": "2026-09-30T14:40:20.014Z",
+    "updatedAt": "2026-10-01T04:40:20.014Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abdc1baafae6a386a3a9644",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-261001-0743 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6abdc0ec08d9d33ab13a9732",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-01T02:13:15.004Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-02T05:13:14.685Z",
+    "appointment": "6abdc12a1a15207f4b3a93cf",
+    "isProcessed": true,
+    "processedAt": "2026-10-01T02:13:15.044Z",
+    "createdAt": "2026-10-01T02:13:14.685Z",
+    "updatedAt": "2026-10-02T05:13:14.685Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe7572d27985f0513a9645",
+    "title": "Appointment Cancelled",
+    "message": "Your appointment #UM-260927-1510 has been cancelled. Reason: Patient unwell, will call back",
+    "type": "appointment_cancellation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ab8e457551cc8892e3a9731",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-02T07:00:02.099Z",
+    "appointment": "6ab8e491737d9fb0f83a93cc",
+    "isProcessed": true,
+    "processedAt": "2026-10-01T15:00:02.464Z",
+    "createdAt": "2026-10-01T15:00:02.099Z",
+    "updatedAt": "2026-10-02T07:00:02.099Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe791b59b435c6483a9646",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 29 Mar 2027 at 10:00 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a71b3178aa1542a713a971e",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-03T03:15:39.190Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-01T15:15:39.190Z",
+    "updatedAt": "2026-10-03T03:15:39.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe791b6a6ed7b7af3a9647",
+    "title": "Follow-up reminder created",
+    "message": "Follow-up for Karan Sharma scheduled on 29 Mar 2027 at 10:00 — 6-month scaling recall.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-01T23:15:39.190Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-01T15:15:39.197Z",
+    "updatedAt": "2026-10-01T23:15:39.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe99f20b60393ea73a9648",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Swati Dhankhar (9320995622) for Clear Aligners",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": false,
+    "createdAt": "2026-10-01T17:35:46.959Z",
+    "updatedAt": "2026-10-01T17:35:46.959Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abfaad273e6f6d3bf3a9649",
+    "title": "Appointment Cancelled",
+    "message": "Your appointment #US-260930-1210 has been cancelled. Reason: Patient requested cancellation - fee refunded",
+    "type": "appointment_cancellation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a731a8623153d62ac3a971f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-02T13:00:02.646Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "appointment": "6abcaeea3ef79254353a9474",
+    "isProcessed": true,
+    "processedAt": "2026-10-02T13:00:02.686Z",
+    "createdAt": "2026-10-02T13:00:02.213Z",
+    "updatedAt": "2026-10-02T13:00:02.686Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac13cde72ee4ff6873a964a",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Karan Verma (8710610236) for Dental Implant",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-04T16:35:26.990Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-03T17:35:26.990Z",
+    "updatedAt": "2026-10-04T16:35:26.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3a8e57f136f813f3a9670",
+    "title": "OPG report uploaded",
+    "message": "Your OPG X-ray report from 05 Oct 2026 is now available in the Reports section of your patient portal.",
+    "type": "test_result",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-05T13:40:53.909Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-06T02:45:03.428Z",
+    "scheduledFor": null,
+    "isProcessed": true,
+    "processedAt": "2026-10-05T13:40:53.949Z",
+    "createdBy": "69cca5912aa8103b393a91c6",
+    "createdAt": "2026-10-05T13:40:53.116Z",
+    "updatedAt": "2026-10-06T02:45:03.428Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3b6d4714d6757493a964b",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Neha Narwal (8185018667) for Dentures",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-06T22:40:20.995Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-05T14:40:20.995Z",
+    "updatedAt": "2026-10-06T22:40:20.995Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac4b9e732a4643f443a964c",
+    "title": "Membership Plan Activated",
+    "message": "Your Cosmodentofacial Family Dental Plan membership has been activated. Valid from 6/10/2026 to 6/10/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ac4b933b83da90d733a9733",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-06T09:05:44.238Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-07T06:05:43.831Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-06T09:05:44.278Z",
+    "createdAt": "2026-10-06T09:05:43.831Z",
+    "updatedAt": "2026-10-07T06:05:43.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac5087b7c1e552c493a964d",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Sunil Nandal (8876132674) for Clear Aligners",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-07T03:40:59.541Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-06T14:40:59.541Z",
+    "updatedAt": "2026-10-07T03:40:59.541Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac531638cfb929e4c3a964e",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Sonia Chauhan (9610005834) for General Enquiry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-07T08:35:31.981Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-06T17:35:31.981Z",
+    "updatedAt": "2026-10-07T08:35:31.981Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac638f495de1f66df3a964f",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Hemant Kundu (9883227067) for Root Canal Treatment (RCT)",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-07T21:20:04.238Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-07T12:20:04.238Z",
+    "updatedAt": "2026-10-07T21:20:04.238Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac87f0f27c8f88dd43a9650",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 20/8/2025 to 20/8/2026. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ac79bed95531ec7f83a9734",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-09T05:43:43.892Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-10T19:43:43.268Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-09T05:43:43.932Z",
+    "createdAt": "2026-10-09T05:43:43.268Z",
+    "updatedAt": "2026-10-10T19:43:43.268Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac91da8cb1fe201333a9651",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Jitender Tyagi (6225388559) for Kids Dentistry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-11T08:00:24.221Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-09T17:00:24.221Z",
+    "updatedAt": "2026-10-11T08:00:24.221Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc427c42ff0279cf3a9652",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-261012-0744 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6acc414700b8352fbd3a9736",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-12T06:14:20.650Z",
+    "appointment": "6acc418e001e26ba443a9402",
+    "isProcessed": true,
+    "processedAt": "2026-10-12T02:14:21.403Z",
+    "createdAt": "2026-10-12T02:14:20.650Z",
+    "updatedAt": "2026-10-12T06:14:20.650Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc49d30f90f6853d3a9653",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Rachna Antil (8904013212) for Dental Implant",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-13T06:45:39.302Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-12T02:45:39.302Z",
+    "updatedAt": "2026-10-13T06:45:39.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc86df3dd3d9e6713a9654",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 12/10/2026 to 12/10/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6acc85ee52c573e6b53a9735",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-12T07:06:07.749Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-13T15:06:07.038Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-12T07:06:07.789Z",
+    "createdAt": "2026-10-12T07:06:07.038Z",
+    "updatedAt": "2026-10-13T15:06:07.038Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc8cffe7ae90e6333a9655",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 11 Nov 2026 at 17:00 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ac79bed95531ec7f83a9734",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-13T15:32:15.381Z",
+    "isProcessed": false,
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "createdAt": "2026-10-12T07:32:15.381Z",
+    "updatedAt": "2026-10-13T15:32:15.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc8cffa25375f3f23a9656",
+    "title": "Follow-up reminder created",
+    "message": "Follow-up for Shalini Panchal scheduled on 11 Nov 2026 at 17:00 — Check filling and sensitivity.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cf47ab423e51957c3a91ca",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-13T21:32:15.381Z",
+    "isProcessed": false,
+    "createdBy": "69cf47ab423e51957c3a91ca",
+    "createdAt": "2026-10-12T07:32:15.388Z",
+    "updatedAt": "2026-10-13T21:32:15.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accd1eb37e4fb78643a9657",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 23 Nov 2026 at 17:30 — Aligner tray change & progress check. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-12T22:26:19.224Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-10-12T12:26:19.224Z",
+    "updatedAt": "2026-10-12T22:26:19.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accd1eba70aaae0813a9658",
+    "title": "Follow-up reminder created",
+    "message": "Follow-up for Rohan Mehra scheduled on 23 Nov 2026 at 17:30 — Aligner tray change & progress check.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cf439dc35ff0179e3a91c9",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-12T17:26:19.224Z",
+    "isProcessed": false,
+    "createdBy": "69cf439dc35ff0179e3a91c9",
+    "createdAt": "2026-10-12T12:26:19.231Z",
+    "updatedAt": "2026-10-12T17:26:19.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acddd54836a0f8fcb3a9659",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 24 Nov 2026 — Check filling and sensitivity. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a7d771036b59c0cce3a9720",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-13T15:27:16.728Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-13T07:27:16.728Z",
+    "updatedAt": "2026-10-13T15:27:16.728Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acddd541ce05812d83a965a",
+    "title": "Follow-up reminder created",
+    "message": "Follow-up for Naveen Goyal scheduled on 24 Nov 2026 — Check filling and sensitivity.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-14T08:27:16.728Z",
+    "isProcessed": false,
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-13T07:27:16.735Z",
+    "updatedAt": "2026-10-14T08:27:16.728Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acf0696deffc0e46f3a965b",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Asha Jakhar (9573836663) for General Enquiry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-14T08:35:34.237Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-14T04:35:34.237Z",
+    "updatedAt": "2026-10-14T08:35:34.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fd9f2cb140423a9671",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.128Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.733Z",
+    "updatedAt": "2026-10-15T05:30:38.128Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fd410541cd2b3a9672",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "69f41dd3d2bed64e653a970d",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-16T11:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:37.875Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.770Z",
+    "updatedAt": "2026-10-16T11:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fde4b93b231a3a9673",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a99625a549c9f3fb53a9725",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-15T13:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.434Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.807Z",
+    "updatedAt": "2026-10-15T13:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fde75e5631fc3a9674",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a125dcb16f85974b83a970f",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-16T03:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.179Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.844Z",
+    "updatedAt": "2026-10-16T03:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fd2f961d0d353a9675",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a7d771036b59c0cce3a9720",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-16T12:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.251Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.881Z",
+    "updatedAt": "2026-10-16T12:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fd1cda506ec73a9676",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a143ac5ce846a2bee3a9710",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-16T01:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.160Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.918Z",
+    "updatedAt": "2026-10-16T01:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fd94df6b8fca3a9677",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a91941f98d32b58ee3a9724",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-15T06:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.795Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.955Z",
+    "updatedAt": "2026-10-15T06:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fd4b16ae4d343a9678",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6aad06dd613b38095e3a972a",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-16T10:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.453Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:37.992Z",
+    "updatedAt": "2026-10-16T10:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fe740c3d8ae83a9679",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a697afad41f0db81c3a971c",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-16T15:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.561Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:38.029Z",
+    "updatedAt": "2026-10-16T15:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad064fefd4d47cd983a967a",
+    "title": "Diwali Smile Offer",
+    "message": "Celebrate Diwali with a brighter smile! Get 20% off on teeth whitening and a free check-up for your family till 10 November. Book from your patient portal.",
+    "type": "promotional",
+    "priority": "low",
+    "recipientType": "patient",
+    "recipient": "6a436b41d6e2ecd87e3a9718",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-15T23:30:37.733Z",
+    "isProcessed": true,
+    "processedAt": "2026-10-15T05:30:38.512Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-15T05:30:38.066Z",
+    "updatedAt": "2026-10-15T23:30:37.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad26068cbd5ae1e2c3a965c",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Ankit Rohilla (7355395443) for Dentures",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-17T11:35:36.444Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-16T17:35:36.444Z",
+    "updatedAt": "2026-10-17T11:35:36.444Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad59009591c4ddc383a967b",
+    "title": "Clinic timings for Dussehra",
+    "message": "Both clinics will close at 2:00 PM on Tuesday, 20 October for Dussehra. Please reschedule evening appointments.",
+    "type": "general",
+    "priority": "high",
+    "recipientType": "user",
+    "recipient": "69cf439dc35ff0179e3a91c9",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-19T04:10:55.003Z",
+    "scheduledFor": null,
+    "isProcessed": true,
+    "processedAt": "2026-10-19T03:35:38.380Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-19T03:35:37.771Z",
+    "updatedAt": "2026-10-19T04:10:55.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad590592d225e258d3a967c",
+    "title": "Clinic timings for Dussehra",
+    "message": "Both clinics will close at 2:00 PM on Tuesday, 20 October for Dussehra. Please reschedule evening appointments.",
+    "type": "general",
+    "priority": "high",
+    "recipientType": "user",
+    "recipient": "69cf47ab423e51957c3a91ca",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-19T04:32:35.216Z",
+    "scheduledFor": null,
+    "isProcessed": true,
+    "processedAt": "2026-10-19T03:36:57.890Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-19T03:36:57.762Z",
+    "updatedAt": "2026-10-19T04:32:35.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5f25a5ff8bd6a153a965d",
+    "title": "Follow-up scheduled",
+    "message": "A follow-up visit has been scheduled for 26 Mar 2027 at 11:30 — 6-month scaling recall. No payment is required to be reminded — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6acc414700b8352fbd3a9736",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-19T12:35:06.831Z",
+    "isProcessed": false,
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-10-19T10:35:06.831Z",
+    "updatedAt": "2026-10-19T12:35:06.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5f25a5471c0a4b33a965e",
+    "title": "Follow-up reminder created",
+    "message": "Follow-up for Sunil Nandal scheduled on 26 Mar 2027 at 11:30 — 6-month scaling recall.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69ce028fdacdcdbebd3a91c7",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-20T23:35:06.831Z",
+    "isProcessed": false,
+    "createdBy": "69ce028fdacdcdbebd3a91c7",
+    "createdAt": "2026-10-19T10:35:06.838Z",
+    "updatedAt": "2026-10-20T23:35:06.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5f2ecead92def663a965f",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-261019-1607 has been confirmed. Token: 3",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ad5f1ffc03a7052003a9738",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-19T15:37:32.633Z",
+    "appointment": "6ad5f256009465d6de3a9416",
+    "isProcessed": true,
+    "processedAt": "2026-10-19T10:37:32.916Z",
+    "createdAt": "2026-10-19T10:37:32.633Z",
+    "updatedAt": "2026-10-19T15:37:32.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad6ef97d6251897413a9660",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Mamta Dalal (9456635932) for Dentures",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-20T15:35:35.951Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-20T04:35:35.951Z",
+    "updatedAt": "2026-10-20T15:35:35.951Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad992888ef0a4e83f3a9661",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Babita Malik (9684805376) for Dentures",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-23T10:35:20.888Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-22T04:35:20.888Z",
+    "updatedAt": "2026-10-23T10:35:20.888Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad99e052d98b844893a9662",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #US-261022-1054 has been confirmed. Token: 1",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ad99d184ea8535e733a973b",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-23T16:24:21.119Z",
+    "appointment": "6ad99d3841110c05613a9461",
+    "isProcessed": true,
+    "processedAt": "2026-10-22T05:24:21.701Z",
+    "createdAt": "2026-10-22T05:24:21.119Z",
+    "updatedAt": "2026-10-23T16:24:21.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9d16d657e6752713a9663",
+    "title": "Membership Plan Activated",
+    "message": "Your Individuals Plan membership has been activated. Valid from 22/10/2026 to 22/10/2027. Enjoy your benefits!",
+    "type": "membership_renewal",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6ad9d1a9986052ef993a9737",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-22T09:03:42.413Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-10-22T09:03:42.453Z",
+    "createdAt": "2026-10-22T09:03:41.697Z",
+    "updatedAt": "2026-10-22T09:03:42.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ada357f7e0c67c3b43a969f",
+    "title": "Treatment Booked",
+    "message": "Your treatment \"Teeth Whitening\" is booked. Please pay ₹7000 at the clinic.",
+    "type": "payment_received",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a3f5655eeab07062a3a9719",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": false,
+    "createdAt": "2026-10-22T16:10:39.415Z",
+    "updatedAt": "2026-10-22T16:10:39.415Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adaef938d78c057f13a9664",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #UM-261023-1054 has been confirmed. Token: 2",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6adaee58dab6bee6cd3a973d",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-23T05:24:35.843Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "appointment": "6adaeea2fd95df8b1b3a946f",
+    "isProcessed": true,
+    "processedAt": "2026-10-23T05:24:35.883Z",
+    "createdAt": "2026-10-23T05:24:35.029Z",
+    "updatedAt": "2026-10-23T05:24:35.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb06033ef98bf50c3a969d",
+    "title": "Payment Reminder",
+    "message": "You have a pending payment of ₹425 for invoice INV-2610-0004. Please make the payment at your earliest convenience.",
+    "type": "payment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a02ad6911b51303083a970c",
+    "recipientModel": "Patient",
+    "sendSms": true,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "invoice": "6ac3a16a7b464f2b513a967d",
+    "isProcessed": false,
+    "createdAt": "2026-10-23T07:00:19.058Z",
+    "updatedAt": "2026-10-23T07:00:19.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb72efa32dc090453a96a3",
+    "title": "Treatment Booked",
+    "message": "Your treatment \"Dental Filling\" is booked. Please pay ₹1200 at the clinic.",
+    "type": "payment_received",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a99625a549c9f3fb53a9725",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-23T23:45:02.975Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-23T14:45:03.275Z",
+    "updatedAt": "2026-10-23T23:45:02.975Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb86e3dfa463b6fe3a96a1",
+    "title": "Treatment Booked",
+    "message": "Your treatment \"Scaling & Polishing\" is booked. Please pay ₹1275 at the clinic.",
+    "type": "payment_received",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa77025e37d51b4173a9729",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": false,
+    "createdAt": "2026-10-23T16:10:11.966Z",
+    "updatedAt": "2026-10-23T16:10:11.966Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb895cfbd22505643a9665",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment #UM-261023-2150 has been confirmed. Token: 3",
+    "type": "appointment_confirmation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a2a525da3831803343a9715",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-23T16:20:44.650Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "appointment": "6adb88a69d3ffdd5de3a9441",
+    "isProcessed": true,
+    "processedAt": "2026-10-23T16:20:44.690Z",
+    "createdAt": "2026-10-23T16:20:44.231Z",
+    "updatedAt": "2026-10-23T16:20:44.690Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade14e6eefcbbd9ed3a9666",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Seema Sangwan (9080837456) for Root Canal Treatment (RCT)",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-26T06:40:00.000Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-25T14:40:38.829Z",
+    "updatedAt": "2026-10-26T06:40:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adebba76906a8bdc83a9667",
+    "title": "Follow-up visit reminder",
+    "message": "This is a reminder for your upcoming follow-up visit on 27 Oct 2026 at 18:00 — 6-month scaling recall. No payment is needed for this reminder — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6aa77025e37d51b4173a9729",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-26T02:32:07.579Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-10-26T02:32:07.619Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-26T02:32:07.537Z",
+    "updatedAt": "2026-10-26T02:32:07.619Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adebba76b6483b97d3a9668",
+    "title": "Follow-up due reminder",
+    "message": "Follow-up for Amit Verma is due on 27 Oct 2026 at 18:00 — 6-month scaling recall.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-26T02:32:08.323Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-10-26T02:32:08.363Z",
+    "createdBy": "69cc9ff01f6bb4ae063a91c5",
+    "createdAt": "2026-10-26T02:32:07.567Z",
+    "updatedAt": "2026-10-26T02:32:08.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adebba70ba808744f3a9669",
+    "title": "Follow-up visit reminder",
+    "message": "This is a reminder for your upcoming follow-up visit on 26 Oct 2026 at 12:00 — 6-month scaling recall. No payment is needed for this reminder — fees apply only when you visit.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6a34ca81484f8bb95d3a9716",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-10-26T02:32:08.733Z",
+    "createdBy": "69cf4d92578ae0b2603a91cc",
+    "createdAt": "2026-10-26T02:32:07.847Z",
+    "updatedAt": "2026-10-26T02:32:08.733Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adebba75a21c01fa13a966a",
+    "title": "Follow-up due reminder",
+    "message": "Follow-up for Swati Lather is due on 26 Oct 2026 at 12:00 — 6-month scaling recall.",
+    "type": "appointment_reminder",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cf4d92578ae0b2603a91cc",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": true,
+      "sentAt": "2026-10-26T02:32:08.012Z"
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": true,
+    "processedAt": "2026-10-26T02:32:08.052Z",
+    "createdBy": "69cf4d92578ae0b2603a91cc",
+    "createdAt": "2026-10-26T02:32:07.877Z",
+    "updatedAt": "2026-10-26T02:32:08.052Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aded63d65361bc8e83a966b",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Karan Dahiya (8193254405) for General Enquiry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": false,
+    "isProcessed": false,
+    "createdAt": "2026-10-26T04:25:33.161Z",
+    "updatedAt": "2026-10-26T04:25:33.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adee29b89691faeee3a966c",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Neha Sehrawat (9453426695) for General Enquiry",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-26T06:40:00.000Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-26T05:18:19.707Z",
+    "updatedAt": "2026-10-26T06:40:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adee697b5ef9309a13a966d",
+    "title": "Appointment Cancelled",
+    "message": "Your appointment #US-261023-1240 has been cancelled. Reason: Patient called to cancel - out of town",
+    "type": "appointment_cancellation",
+    "priority": "normal",
+    "recipientType": "patient",
+    "recipient": "6acc414700b8352fbd3a9736",
+    "recipientModel": "Patient",
+    "sendSms": false,
+    "sendEmail": true,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-26T06:40:00.000Z",
+    "appointment": "6adb08512ee30d75dc3a944f",
+    "isProcessed": true,
+    "processedAt": "2026-10-26T05:35:20.187Z",
+    "createdAt": "2026-10-26T05:35:19.705Z",
+    "updatedAt": "2026-10-26T06:40:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeea31681cb724373a966e",
+    "title": "New Enquiry Received",
+    "message": "New enquiry from Asha Jangra (8819327874) for Membership Plans",
+    "type": "general",
+    "priority": "normal",
+    "recipientType": "user",
+    "recipient": "69cc9ff01f6bb4ae063a91c5",
+    "recipientModel": "User",
+    "sendSms": false,
+    "sendEmail": false,
+    "sendWhatsapp": false,
+    "showInApp": true,
+    "smsStatus": {
+      "sent": false
+    },
+    "emailStatus": {
+      "sent": false
+    },
+    "whatsappStatus": {
+      "sent": false
+    },
+    "isRead": true,
+    "readAt": "2026-10-26T06:40:00.000Z",
+    "isProcessed": false,
+    "createdAt": "2026-10-26T05:50:41.271Z",
+    "updatedAt": "2026-10-26T06:40:00.000Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,3526 @@
+[
+  {
+    "_id": "69f41e873db4d606e33a9275",
+    "paymentNumber": "PAY-0105-4452",
+    "patient": "69f41dd3d2bed64e653a970d",
+    "invoice": "69f41e87eccbc1d2363a9273",
+    "appointment": "69f41e878c9df13daf3a9272",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 500,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69ce06395c660594f03a91c8",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-01T03:31:19.278Z",
+    "updatedAt": "2026-05-01T03:31:19.278Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f434021b32cc39f33a927a",
+    "paymentNumber": "PAY-0105-9254",
+    "patient": "69f41dd3d2bed64e653a970d",
+    "invoice": "69f4340285e2432a763a9277",
+    "appointment": "69f43402e649be3f2e3a9276",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 1000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69ce06395c660594f03a91c8",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Dental Filling",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-01T05:02:58.368Z",
+    "updatedAt": "2026-05-01T05:02:58.368Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fc23b5f9c6e80c9d3a927b",
+    "paymentNumber": "PAY-0705-9298",
+    "patient": "69f41dd3d2bed64e653a970d",
+    "appointment": "69f43402e649be3f2e3a9276",
+    "amount": 900,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-05-07T05:31:33.762Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "69f4340285e2432a763a9277",
+        "invoiceNumber": "INV-2605-0002",
+        "appliedAmount": 900,
+        "previousAmountPaid": 1000,
+        "_id": "69fc23b5e7de6369e03a927c"
+      }
+    ],
+    "recordedBy": "69ce06395c660594f03a91c8",
+    "reversed": false,
+    "createdAt": "2026-05-07T05:31:33.762Z",
+    "updatedAt": "2026-05-07T05:31:33.762Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a02adf8f427fbdf513a9252",
+    "paymentNumber": "PAY-1205-4641",
+    "patient": "6a02ad6911b51303083a970c",
+    "invoice": "6a02adf82c34bf8ea93a9250",
+    "appointment": "6a02adf752e04f34453a924f",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-12T04:35:04.127Z",
+    "updatedAt": "2026-05-12T04:35:04.127Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a02bbca6f62317d263a9257",
+    "paymentNumber": "PAY-1205-9843",
+    "patient": "6a02ad6911b51303083a970c",
+    "invoice": "6a02bbca131c0557a93a9254",
+    "appointment": "6a02bbca77ac865c703a9253",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 3000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Root Canal Treatment (RCT)",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-12T05:34:02.252Z",
+    "updatedAt": "2026-05-12T05:34:02.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c1301965213b70b3a9280",
+    "paymentNumber": "PAY-1905-7991",
+    "patient": "6a0c121145251c2f723a970e",
+    "invoice": "6a0c130186db0a7a833a927e",
+    "appointment": "6a0c130183ec67d1393a927d",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69ce028fdacdcdbebd3a91c7",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-19T07:36:33.667Z",
+    "updatedAt": "2026-05-19T07:36:33.667Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c21c55eed2247903a9283",
+    "paymentNumber": "PAY-1905-4237",
+    "patient": "6a0c121145251c2f723a970e",
+    "amount": 2000,
+    "paymentMode": "netbanking",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a0c21c593525f11f33a9281",
+        "invoiceNumber": "INV-2605-0006",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6a0c21c5747f841de43a9284"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-05-19T08:39:33.929Z",
+    "updatedAt": "2026-05-19T08:39:33.929Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c241d359e6bf09c3a9289",
+    "paymentNumber": "PAY-1905-7521",
+    "patient": "6a0c121145251c2f723a970e",
+    "invoice": "6a0c241df598f293193a9286",
+    "appointment": "6a0c241d49f0b353133a9285",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 3000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Root Canal Treatment (RCT)",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-19T08:49:33.921Z",
+    "updatedAt": "2026-05-19T08:49:33.921Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0c76e9660af20d133a928a",
+    "paymentNumber": "PAY-1905-3930",
+    "patient": "6a0c121145251c2f723a970e",
+    "appointment": "6a0c241d49f0b353133a9285",
+    "amount": 3000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-05-19T14:42:49.393Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a0c241df598f293193a9286",
+        "invoiceNumber": "INV-2605-0007",
+        "appliedAmount": 3000,
+        "previousAmountPaid": 3000,
+        "_id": "6a0c76e91d875e38a33a928b"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-05-19T14:42:49.393Z",
+    "updatedAt": "2026-05-19T14:42:49.393Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0f0cb2ed2231d3f53a9259",
+    "paymentNumber": "PAY-2105-1275",
+    "patient": "6a02ad6911b51303083a970c",
+    "appointment": "6a05cba77f743168653a9258",
+    "amount": 3000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-05-21T13:46:26.646Z",
+    "referenceNumber": "529036888317",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 2 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a02bbca131c0557a93a9254",
+        "invoiceNumber": "INV-2605-0004",
+        "appliedAmount": 3000,
+        "previousAmountPaid": 3000,
+        "_id": "6a0f0cb2088c976a3d3a925a"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-05-21T13:46:26.646Z",
+    "updatedAt": "2026-05-21T13:46:26.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a125e14e0e81ab5073a9298",
+    "paymentNumber": "PAY-2405-6155",
+    "patient": "6a125dcb16f85974b83a970f",
+    "appointment": "6a125e1945945e46c43a9294",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-05-24T02:13:45.746Z",
+    "razorpayOrderId": "order_vGOX4GZw4xZhZu",
+    "razorpayPaymentId": "pay_KbfsnceK9MBRCS",
+    "razorpaySignature": "7ae5cec1929ebf88bb152583e5b4d134e2c1a264fbd58c89c482fd7b2975133e",
+    "razorpayDetails": {
+      "receipt": "init_1779588627746"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a125ee229c08915093a9295",
+        "invoiceNumber": "INV-2605-0008",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a125ee3ee48bc23c63a9297"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-05-24T02:10:28.746Z",
+    "updatedAt": "2026-05-24T02:13:55.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1431e96cd06d6bfd3a929b",
+    "paymentNumber": "PAY-2505-9785",
+    "patient": "6a125dcb16f85974b83a970f",
+    "amount": 4999,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a1431e9a3b0492ed13a9299",
+        "invoiceNumber": "INV-2605-0009",
+        "appliedAmount": 4999,
+        "previousAmountPaid": 0,
+        "_id": "6a1431e9126ce5b6ad3a929c"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-05-25T11:26:33.774Z",
+    "updatedAt": "2026-05-25T11:26:33.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a14356d41f908c4b93a92a0",
+    "paymentNumber": "PAY-2505-4838",
+    "patient": "6a125dcb16f85974b83a970f",
+    "invoice": "6a14356d66f92c9bfd3a929e",
+    "appointment": "6a14356d0e847681113a929d",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Teeth Whitening",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-25T11:41:33.810Z",
+    "updatedAt": "2026-05-25T11:41:33.810Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a143b1f18f0a6a4f33a92ae",
+    "paymentNumber": "PAY-2505-4748",
+    "patient": "6a143ac5ce846a2bee3a9710",
+    "invoice": "6a143b1f15316e6c503a92ac",
+    "appointment": "6a143b1ff85694acf03a92ab",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cca5912aa8103b393a91c6",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-05-25T12:05:51.723Z",
+    "updatedAt": "2026-05-25T12:05:51.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a144e867b441a26933a92a1",
+    "paymentNumber": "PAY-2505-3635",
+    "patient": "6a125dcb16f85974b83a970f",
+    "appointment": "6a14356d0e847681113a929d",
+    "amount": 3440,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-05-25T13:28:38.869Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a14356d66f92c9bfd3a929e",
+        "invoiceNumber": "INV-2605-0010",
+        "appliedAmount": 3440,
+        "previousAmountPaid": 1500,
+        "_id": "6a144e86f07582ded93a92a2"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-05-25T13:28:38.869Z",
+    "updatedAt": "2026-05-25T13:28:38.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a15a46ff11dbd0d253a9429",
+    "paymentNumber": "PAY-2605-3138",
+    "patient": "6a143ac5ce846a2bee3a9710",
+    "amount": 4999,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a15a46fc2c505ba4b3a9427",
+        "invoiceNumber": "INV-2605-0012",
+        "appliedAmount": 4999,
+        "previousAmountPaid": 0,
+        "_id": "6a15a46fd4c3758f9d3a942a"
+      }
+    ],
+    "recordedBy": "69ce06395c660594f03a91c8",
+    "reversed": false,
+    "createdAt": "2026-05-26T13:47:27.077Z",
+    "updatedAt": "2026-05-26T13:47:27.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a16bad26f8606e89b3a92b2",
+    "paymentNumber": "PAY-2705-9327",
+    "patient": "6a16ad786ce8004dff3a9711",
+    "appointment": "6a16ae6801cf1c72793a92af",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-05-27T09:35:14.411Z",
+    "referenceNumber": "667529017524",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a16ae68c0ce78a19c3a92b0",
+        "invoiceNumber": "INV-2605-0013",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a16bad24eb08a92dc3a92b3"
+      }
+    ],
+    "recordedBy": "69cf4d92578ae0b2603a91cc",
+    "reversed": false,
+    "createdAt": "2026-05-27T09:35:14.411Z",
+    "updatedAt": "2026-05-27T09:35:14.411Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1849d135293b2bca3a928d",
+    "paymentNumber": "PAY-2805-9309",
+    "patient": "6a0c121145251c2f723a970e",
+    "appointment": "6a0c7635079075c5b13a928c",
+    "amount": 3000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-05-28T13:57:37.732Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a0c241df598f293193a9286",
+        "invoiceNumber": "INV-2605-0007",
+        "appliedAmount": 3000,
+        "previousAmountPaid": 6000,
+        "_id": "6a1849d191d7136a803a928e"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-05-28T13:57:37.732Z",
+    "updatedAt": "2026-05-28T13:57:37.732Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1ec829362a1ee9893a9262",
+    "paymentNumber": "PAY-0206-9113",
+    "patient": "6a02ad6911b51303083a970c",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a1ec82934fac371613a9260",
+        "invoiceNumber": "INV-2606-0001",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6a1ec829b38f1b54093a9263"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-06-02T12:10:17.451Z",
+    "updatedAt": "2026-06-02T12:10:17.451Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a218502544bbbc1163a92b7",
+    "paymentNumber": "PAY-0406-5180",
+    "patient": "6a1ab082b07dafd7433a9712",
+    "appointment": "6a1ab0a8c1e9ce8a853a92b4",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-06-04T14:00:34.670Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a1ab0a8f5c2c46c3c3a92b5",
+        "invoiceNumber": "INV-2605-0014",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a218502d401a5b1dd3a92b8"
+      }
+    ],
+    "recordedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reversed": false,
+    "createdAt": "2026-06-04T14:00:34.670Z",
+    "updatedAt": "2026-06-04T14:00:34.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a218886a50ac1cd8c3a9424",
+    "paymentNumber": "PAY-0406-4261",
+    "patient": "6a1ab082b07dafd7433a9712",
+    "amount": 2000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a218886e4bf12772c3a9422",
+        "invoiceNumber": "INV-2606-0002",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6a2188869406ef0c353a9425"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-06-04T14:15:34.814Z",
+    "updatedAt": "2026-06-04T14:15:34.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a218bbfd1bf0fadf53a9290",
+    "paymentNumber": "PAY-0406-2473",
+    "patient": "6a0c121145251c2f723a970e",
+    "appointment": "6a184afdf58c49a06e3a928f",
+    "amount": 775,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-06-04T14:29:19.982Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 3 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a0c241df598f293193a9286",
+        "invoiceNumber": "INV-2605-0007",
+        "appliedAmount": 775,
+        "previousAmountPaid": 9000,
+        "_id": "6a218bbfd3a7b7fe593a9291"
+      }
+    ],
+    "recordedBy": "69cf4d92578ae0b2603a91cc",
+    "reversed": false,
+    "createdAt": "2026-06-04T14:29:19.982Z",
+    "updatedAt": "2026-06-04T14:29:19.982Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a25a4d1ee62fb5f133a92c0",
+    "paymentNumber": "PAY-0706-4617",
+    "patient": "6a25a49b24609d8df23a9714",
+    "appointment": "6a25a4d52542a768b73a92bc",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-06-07T17:07:20.205Z",
+    "razorpayOrderId": "order_hosNlJ2WLi1Be4",
+    "razorpayPaymentId": "pay_yeJZeJMPEcFJaA",
+    "razorpaySignature": "dbb8dea491c71222240451916d0eea061776338d9589d96c3ab799e4bd9b06e9",
+    "razorpayDetails": {
+      "receipt": "init_1780851919205"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a25a5512ce0bfe0233a92bd",
+        "invoiceNumber": "INV-2606-0003",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a25a55109c8e918973a92bf"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-06-07T17:05:21.205Z",
+    "updatedAt": "2026-06-07T17:07:29.465Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a29724181abba9a813a925d",
+    "paymentNumber": "PAY-1006-2426",
+    "patient": "6a02ad6911b51303083a970c",
+    "appointment": "6a1991265290966d253a925c",
+    "amount": 6000,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-06-10T14:18:41.402Z",
+    "referenceNumber": "APPR698259",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a02bbca131c0557a93a9254",
+        "invoiceNumber": "INV-2605-0004",
+        "appliedAmount": 6000,
+        "previousAmountPaid": 6000,
+        "_id": "6a2972415f7000d3833a925e"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-06-10T14:18:41.402Z",
+    "updatedAt": "2026-06-10T14:18:41.402Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a2b8c933f9945e85c3a92c3",
+    "paymentNumber": "PAY-1206-6007",
+    "patient": "6a25a49b24609d8df23a9714",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a2b8c93bbf386ffd53a92c1",
+        "invoiceNumber": "INV-2606-0006",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6a2b8c93d03968b4673a92c4"
+      }
+    ],
+    "recordedBy": "69cf4d92578ae0b2603a91cc",
+    "reversed": false,
+    "createdAt": "2026-06-12T04:35:31.781Z",
+    "updatedAt": "2026-06-12T04:35:31.781Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a392c4ee0c3880a303a92d4",
+    "paymentNumber": "PAY-2206-1252",
+    "patient": "6a34ca81484f8bb95d3a9716",
+    "appointment": "6a34ca9500c1e2ee453a92d1",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-06-22T12:36:30.749Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a34ca9531283591e23a92d2",
+        "invoiceNumber": "INV-2606-0008",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a392c4e12952ef0d33a92d5"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-06-22T12:36:30.749Z",
+    "updatedAt": "2026-06-22T12:36:30.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3930c20b8df63a2f3a92d9",
+    "paymentNumber": "PAY-2206-6492",
+    "patient": "6a34ca81484f8bb95d3a9716",
+    "invoice": "6a3930c23e1edbbee43a92d7",
+    "appointment": "6a3930c2c387d0e5ae3a92d6",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1500,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Gum Disease Treatment",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-06-22T12:55:30.883Z",
+    "updatedAt": "2026-06-22T12:55:30.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4244951599cc65533a92de",
+    "paymentNumber": "PAY-2906-1649",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "invoice": "6a424495820ea5f6623a92dc",
+    "appointment": "6a424495766e7209433a92db",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69ce06395c660594f03a91c8",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-06-29T10:10:29.209Z",
+    "updatedAt": "2026-06-29T10:10:29.209Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a425218bb223629eb3a92e1",
+    "paymentNumber": "PAY-2906-7448",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "amount": 4500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a42521892ba8d38ba3a92df",
+        "invoiceNumber": "INV-2606-0012",
+        "appliedAmount": 4500,
+        "previousAmountPaid": 0,
+        "_id": "6a4252183ba87833953a92e2"
+      }
+    ],
+    "recordedBy": "69cca5912aa8103b393a91c6",
+    "reversed": false,
+    "createdAt": "2026-06-29T11:08:08.081Z",
+    "updatedAt": "2026-06-29T11:08:08.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a43371d465ce8ff2d3a9307",
+    "paymentNumber": "PAY-3006-9207",
+    "patient": "6a4336ef1225f691ba3a971a",
+    "appointment": "6a43372058d1a2121a3a9303",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-06-30T03:26:45.661Z",
+    "razorpayOrderId": "order_iE673EAdQwvRQA",
+    "razorpayPaymentId": "pay_b70ScjyvRLYrzC",
+    "razorpaySignature": "6e9d08567d96eb290ccce30ca26b36abeced68c186b13a8d7171eaf8b8e9c7d2",
+    "razorpayDetails": {
+      "receipt": "init_1782789917661"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a43377fd1de315f693a9304",
+        "invoiceNumber": "INV-2606-0014",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a43377f147057a2f53a9306"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-06-30T03:25:17.661Z",
+    "updatedAt": "2026-06-30T03:26:55.921Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a436b90bd39d3af1d3a92ef",
+    "paymentNumber": "PAY-3006-9729",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "invoice": "6a436b90e2460d556c3a92ed",
+    "appointment": "6a436b9028bb4ec9d43a92ec",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-06-30T07:09:04.171Z",
+    "updatedAt": "2026-06-30T07:09:04.171Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a437b0999c81994b03a92f2",
+    "paymentNumber": "PAY-3006-2643",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "amount": 4999,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a437b0939c48ea99b3a92f0",
+        "invoiceNumber": "INV-2606-0016",
+        "appliedAmount": 4999,
+        "previousAmountPaid": 0,
+        "_id": "6a437b09b3ed1dc53d3a92f3"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-06-30T08:15:05.472Z",
+    "updatedAt": "2026-06-30T08:15:05.472Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a44cf3af8f73ea3913a92e7",
+    "paymentNumber": "PAY-0107-2789",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "appointment": "6a42577b1f5f3b4f6f3a92e3",
+    "amount": 7500,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-01T08:26:34.970Z",
+    "referenceNumber": "APPR833076",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 1 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a42577b591b860c913a92e4",
+        "invoiceNumber": "INV-2606-0013",
+        "appliedAmount": 7500,
+        "previousAmountPaid": 0,
+        "_id": "6a44cf3a1a27ae5cf03a92e8"
+      }
+    ],
+    "recordedBy": "69cf47ab423e51957c3a91ca",
+    "reversed": false,
+    "createdAt": "2026-07-01T08:26:34.970Z",
+    "updatedAt": "2026-07-01T08:26:34.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a47cd8e023cfd9af53a92f7",
+    "paymentNumber": "PAY-0307-5241",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "appointment": "6a437cad09ae6a53403a92f4",
+    "amount": 1368,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-03T14:56:14.405Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a437cadaeb82334203a92f5",
+        "invoiceNumber": "INV-2606-0017",
+        "appliedAmount": 1368,
+        "previousAmountPaid": 0,
+        "_id": "6a47cd8e9ec089d1463a92f8"
+      }
+    ],
+    "recordedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reversed": false,
+    "createdAt": "2026-07-03T14:56:14.405Z",
+    "updatedAt": "2026-07-03T14:56:14.405Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54c6aade590f713f3a92cc",
+    "paymentNumber": "PAY-1307-9593",
+    "patient": "6a25a49b24609d8df23a9714",
+    "appointment": "6a489542db4199ad5e3a92cb",
+    "amount": 10200,
+    "paymentMode": "upi",
+    "status": "refunded",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-13T11:06:18.210Z",
+    "refund": {
+      "amount": 6000,
+      "refundedAt": "2026-07-23T08:15:45.845Z",
+      "refundedBy": "69cc9ff01f6bb4ae063a91c5",
+      "reason": "Unused orthodontic sessions refunded on discontinuation",
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a2b8eaf6a0d8386763a92c6",
+        "invoiceNumber": "INV-2606-0007",
+        "appliedAmount": 10200,
+        "previousAmountPaid": 0,
+        "_id": "6a54c6aa07bfe6dbd83a92cd"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-07-13T11:06:18.210Z",
+    "updatedAt": "2026-07-23T08:15:45.845Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54d5b588850c03463a92a9",
+    "paymentNumber": "PAY-1307-4549",
+    "patient": "6a125dcb16f85974b83a970f",
+    "appointment": "6a4e301baf0979f08a3a92a5",
+    "amount": 900,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-13T12:10:29.364Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a4e301bcb4e8ad3f73a92a6",
+        "invoiceNumber": "INV-2607-0001",
+        "appliedAmount": 900,
+        "previousAmountPaid": 0,
+        "_id": "6a54d5b58d92f5fcf13a92aa"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-07-13T12:10:29.364Z",
+    "updatedAt": "2026-07-13T12:10:29.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a54e40f769a884c7b3a92ea",
+    "paymentNumber": "PAY-1307-5740",
+    "patient": "6a42445f6a2a9c05e93a9717",
+    "appointment": "6a44d0662ebf47b3883a92e9",
+    "amount": 7500,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-13T13:11:43.855Z",
+    "referenceNumber": "APPR904115",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a42577b591b860c913a92e4",
+        "invoiceNumber": "INV-2606-0013",
+        "appliedAmount": 7500,
+        "previousAmountPaid": 7500,
+        "_id": "6a54e40fdd87aec82d3a92eb"
+      }
+    ],
+    "recordedBy": "69cca5912aa8103b393a91c6",
+    "reversed": false,
+    "createdAt": "2026-07-13T13:11:43.855Z",
+    "updatedAt": "2026-07-13T13:11:43.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a572d63ef23af824e3a930b",
+    "paymentNumber": "PAY-1507-5740",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "appointment": "6a571d49b9a82c328f3a9308",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-15T06:49:07.463Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a571d49e2bb92e1ab3a9309",
+        "invoiceNumber": "INV-2607-0002",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a572d63efbb7603b13a930c"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-07-15T06:49:07.463Z",
+    "updatedAt": "2026-07-15T06:49:07.463Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a572ff78526ed87cc3a9311",
+    "paymentNumber": "PAY-1507-6588",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "invoice": "6a572ff735ddbf2d633a930e",
+    "appointment": "6a572ff7251ac5b4be3a930d",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 3000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Root Canal Treatment (RCT)",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-07-15T07:00:07.602Z",
+    "updatedAt": "2026-07-15T07:00:07.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a675c80bb537dac503a9313",
+    "paymentNumber": "PAY-2707-6336",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "appointment": "6a59cf5336d02da9f43a9312",
+    "amount": 2500,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-07-27T13:26:24.784Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 2 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a572ff735ddbf2d633a930e",
+        "invoiceNumber": "INV-2607-0003",
+        "appliedAmount": 2500,
+        "previousAmountPaid": 3000,
+        "_id": "6a675c80a1e88d00943a9314"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-07-27T13:26:24.784Z",
+    "updatedAt": "2026-07-27T13:26:24.784Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a697b368c6455c5383a931d",
+    "paymentNumber": "PAY-2907-6080",
+    "patient": "6a697afad41f0db81c3a971c",
+    "amount": 4999,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a697b36178e0f852c3a931b",
+        "invoiceNumber": "INV-2607-0004",
+        "appliedAmount": 4999,
+        "previousAmountPaid": 0,
+        "_id": "6a697b361f359e0c833a931e"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-07-29T04:01:58.705Z",
+    "updatedAt": "2026-07-29T04:01:58.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6d9a62cbd6240d673a9329",
+    "paymentNumber": "PAY-0108-6290",
+    "patient": "6a6d99ad131e2238df3a971d",
+    "invoice": "6a6d9a6236d1e450e23a9327",
+    "appointment": "6a6d9a6141a81a85f83a9326",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf47ab423e51957c3a91ca",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-08-01T07:04:02.064Z",
+    "updatedAt": "2026-08-01T07:04:02.064Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a71b3ccef0326feef3a932f",
+    "paymentNumber": "PAY-0408-2694",
+    "patient": "6a71b3178aa1542a713a971e",
+    "amount": 2000,
+    "paymentMode": "netbanking",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a71b3cc0d3c23a6e93a932d",
+        "invoiceNumber": "INV-2608-0003",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6a71b3cce6ec1171b43a9330"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-04T09:41:32.098Z",
+    "updatedAt": "2026-08-04T09:41:32.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7323d4f9cb916acb3a933c",
+    "paymentNumber": "PAY-0508-7467",
+    "patient": "6a731a8623153d62ac3a971f",
+    "appointment": "6a731ad6be513ff0e93a9339",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-05T11:51:48.014Z",
+    "referenceNumber": "462131409812",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a731ad630ff9bbc583a933a",
+        "invoiceNumber": "INV-2608-0005",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a7323d43291f237fb3a933d"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-05T11:51:48.014Z",
+    "updatedAt": "2026-08-05T11:51:48.014Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a73469c36769f75c13a9316",
+    "paymentNumber": "PAY-0508-9145",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "appointment": "6a675d70260dae04c73a9315",
+    "amount": 2500,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-05T14:20:12.273Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a572ff735ddbf2d633a930e",
+        "invoiceNumber": "INV-2607-0003",
+        "appliedAmount": 2500,
+        "previousAmountPaid": 5500,
+        "_id": "6a73469cda95accd013a9317"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-05T14:20:12.273Z",
+    "updatedAt": "2026-08-05T14:20:12.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7b3c5b1f6e937eed3a9319",
+    "paymentNumber": "PAY-1108-1443",
+    "patient": "6a571cd199dc08e1dc3a971b",
+    "appointment": "6a7345e8695ede3d483a9318",
+    "amount": 3500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-11T15:14:35.069Z",
+    "referenceNumber": "648927275370",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a572ff735ddbf2d633a930e",
+        "invoiceNumber": "INV-2607-0003",
+        "appliedAmount": 3500,
+        "previousAmountPaid": 8000,
+        "_id": "6a7b3c5bad4dfec54e3a931a"
+      }
+    ],
+    "recordedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reversed": false,
+    "createdAt": "2026-08-11T15:14:35.069Z",
+    "updatedAt": "2026-08-11T15:14:35.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7d774d8b9d26d5ab3a9342",
+    "paymentNumber": "PAY-1308-8252",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "appointment": "6a7d77519a9175e5a43a933e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-08-13T07:54:20.614Z",
+    "razorpayOrderId": "order_Cwuvr4oiWONKvZ",
+    "razorpayPaymentId": "pay_7lElvadOkFdVk6",
+    "razorpaySignature": "492c8ec6ea4e517ec8269f4f59004d3c8123c02816b6deccf3152a04014392b7",
+    "razorpayDetails": {
+      "receipt": "init_1786607439614"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a7d783588276b226f3a933f",
+        "invoiceNumber": "INV-2608-0006",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a7d783538ad216ba13a9341"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-08-13T07:50:37.614Z",
+    "updatedAt": "2026-08-13T07:54:29.874Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7f2ea9cf21ddfd263a9346",
+    "paymentNumber": "PAY-1408-8122",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "invoice": "6a7f2ea9d81495a49b3a9344",
+    "appointment": "6a7f2ea974ccd409263a9343",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cc9ff01f6bb4ae063a91c5",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Dental Filling",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-08-14T15:05:13.522Z",
+    "updatedAt": "2026-08-14T15:05:13.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7f36e7c0ed90e1ee3a9358",
+    "paymentNumber": "PAY-1408-7198",
+    "patient": "6a7f36d2d58ebf468f3a9721",
+    "appointment": "6a7f36ea38a763b2733a9354",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-08-14T15:42:08.835Z",
+    "razorpayOrderId": "order_XfVh5g2ygK9vV2",
+    "razorpayPaymentId": "pay_VQTK7grKOIzJhc",
+    "razorpaySignature": "7580e5e8b736cf9f3f0f0cac4fffafe1f01d2cdabbffe6861344e5587d3232f0",
+    "razorpayDetails": {
+      "receipt": "init_1786722023835"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a7f375ef4480d7ec03a9355",
+        "invoiceNumber": "INV-2608-0008",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a7f375f7f24d79feb3a9357"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-08-14T15:40:23.835Z",
+    "updatedAt": "2026-08-14T15:42:23.095Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a828e8c61f7e425803a9361",
+    "paymentNumber": "PAY-1708-1784",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "appointment": "6a82800042124f3f5d3a935e",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-17T04:31:08.829Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a828000c81bcc1dcf3a935f",
+        "invoiceNumber": "INV-2608-0010",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a828e8cd2aca0eae43a9362"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-08-17T04:31:08.829Z",
+    "updatedAt": "2026-08-17T04:31:08.829Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a82c4651256e25a2e3a935c",
+    "paymentNumber": "PAY-1708-5708",
+    "patient": "6a7f36d2d58ebf468f3a9721",
+    "invoice": "6a82c46527d0ad23d23a935a",
+    "appointment": "6a82c4657ec0c7d8613a9359",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 1200,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69ce06395c660594f03a91c8",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Dental Filling",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-08-17T08:20:53.229Z",
+    "updatedAt": "2026-08-17T08:20:53.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a843fb5bf3bbfd84d3a936b",
+    "paymentNumber": "PAY-1808-1064",
+    "patient": "6a81551c5f01ee56c63a9723",
+    "appointment": "6a8155669956151ce53a9368",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-18T11:19:17.317Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a815566931e8ecda73a9369",
+        "invoiceNumber": "INV-2608-0009",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a843fb5d7e06519203a936c"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-18T11:19:17.317Z",
+    "updatedAt": "2026-08-18T11:19:17.317Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a845ecd81657fff683a9268",
+    "paymentNumber": "PAY-1808-1312",
+    "patient": "6a02ad6911b51303083a970c",
+    "appointment": "6a84514327c7a351043a9265",
+    "amount": 1275,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-18T13:31:57.586Z",
+    "referenceNumber": "644500707625",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a84514345385caaed3a9266",
+        "invoiceNumber": "INV-2608-0012",
+        "appliedAmount": 1275,
+        "previousAmountPaid": 0,
+        "_id": "6a845ecd77526347a63a9269"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-18T13:31:57.586Z",
+    "updatedAt": "2026-08-18T13:31:57.586Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8c1ea9f370c9dfaa3a9456",
+    "paymentNumber": "PAY-2408-4010",
+    "patient": "6a0c121145251c2f723a970e",
+    "invoice": "6a8c1ea996b94ad1113a9454",
+    "appointment": "6a8c1ea953ddaaf41e3a9453",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 10000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69ce06395c660594f03a91c8",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Braces",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-08-24T10:36:25.510Z",
+    "updatedAt": "2026-08-24T10:36:25.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8c4a3a3fea4b48923a9324",
+    "paymentNumber": "PAY-2408-5039",
+    "patient": "6a697afad41f0db81c3a971c",
+    "invoice": "6a8c4a3a99c3517a213a9322",
+    "appointment": "6a8c4a3ad852fd04753a9321",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1200,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Gum Disease Treatment",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-08-24T13:42:18.175Z",
+    "updatedAt": "2026-08-24T13:42:18.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91a38c0015137e633a9370",
+    "paymentNumber": "PAY-2808-5507",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "appointment": "6a9194d358f56c53e93a936d",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-08-28T15:04:44.985Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a9194d3287c2960203a936e",
+        "invoiceNumber": "INV-2608-0015",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6a91a38c36c12547513a9371"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-28T15:04:44.985Z",
+    "updatedAt": "2026-08-28T15:04:44.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a91a5a95ebd610e173a9374",
+    "paymentNumber": "PAY-2808-9331",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a91a5a98de1b571503a9372",
+        "invoiceNumber": "INV-2608-0016",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6a91a5a96e776a04603a9375"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-08-28T15:13:45.088Z",
+    "updatedAt": "2026-08-28T15:13:45.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9c06fae75a680a0b3a937a",
+    "paymentNumber": "PAY-0509-6019",
+    "patient": "6a91941f98d32b58ee3a9724",
+    "appointment": "6a92cf9667ddfb98563a9379",
+    "amount": 1900,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-05T12:11:38.236Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a91a8f183ac5304e43a9377",
+        "invoiceNumber": "INV-2608-0017",
+        "appliedAmount": 1900,
+        "previousAmountPaid": 0,
+        "_id": "6a9c06fa599ac7a14b3a937b"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-05T12:11:38.236Z",
+    "updatedAt": "2026-09-05T12:11:38.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9e9d70d06be157283a968a",
+    "paymentNumber": "PAY-0709-4878",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "amount": 344,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-07T11:18:08.259Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a9e9cf8fa3c2292db3a9687",
+        "invoiceNumber": "INV-2609-0002",
+        "appliedAmount": 344,
+        "previousAmountPaid": 0,
+        "_id": "6a9e9d7006402214593a968b"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-09-07T11:18:08.259Z",
+    "updatedAt": "2026-09-07T11:18:08.259Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9e9de828b009fb4a3a92fe",
+    "paymentNumber": "PAY-0709-2681",
+    "patient": "6a436b41d6e2ecd87e3a9718",
+    "invoice": "6a9e9de8f92b2e209a3a92fc",
+    "appointment": "6a9e9de871925d84983a92fb",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 960,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Gum Disease Treatment",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-07T11:20:08.356Z",
+    "updatedAt": "2026-09-07T11:20:08.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9ff5590eb4c461553a9420",
+    "paymentNumber": "PAY-0809-6530",
+    "patient": "6a16ad786ce8004dff3a9711",
+    "amount": 2499,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6a9ff5598a3c6da64d3a941e",
+        "invoiceNumber": "INV-2609-0004",
+        "appliedAmount": 2499,
+        "previousAmountPaid": 0,
+        "_id": "6a9ff5597ed1d011a03a9421"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-08T11:45:29.189Z",
+    "updatedAt": "2026-09-08T11:45:29.189Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa2b3d6f1efa83b2b3a9382",
+    "paymentNumber": "PAY-1009-6547",
+    "patient": "6aa2a2bb76edb04f9d3a9726",
+    "appointment": "6aa2a423cb0dfd87903a937f",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-10T13:42:46.973Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aa2a423aa6811f4a63a9380",
+        "invoiceNumber": "INV-2609-0005",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6aa2b3d6bd9f9e11073a9383"
+      }
+    ],
+    "recordedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reversed": false,
+    "createdAt": "2026-09-10T13:42:46.973Z",
+    "updatedAt": "2026-09-10T13:42:46.973Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa52a6aad748bbaf03a938d",
+    "paymentNumber": "PAY-1209-3029",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "invoice": "6aa52a6a41587335dc3a938b",
+    "appointment": "6aa52a6ab83bdafbd83a938a",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-12T10:33:14.670Z",
+    "updatedAt": "2026-09-12T10:33:14.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa53d87fc508dca343a9392",
+    "paymentNumber": "PAY-1209-9618",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "invoice": "6aa53d8766859d0b7b3a938f",
+    "appointment": "6aa53d87103abbbfb83a938e",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 6500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Root Canal Treatment (RCT)",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-12T11:54:47.211Z",
+    "updatedAt": "2026-09-12T11:54:47.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa782d49c7434ca9d3a93a0",
+    "paymentNumber": "PAY-1409-3724",
+    "patient": "6aa77025e37d51b4173a9729",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aa782d4afa9d79c3d3a939e",
+        "invoiceNumber": "INV-2609-0011",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6aa782d44ea366992f3a93a1"
+      }
+    ],
+    "recordedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reversed": false,
+    "createdAt": "2026-09-14T05:15:00.102Z",
+    "updatedAt": "2026-09-14T05:15:00.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa7830f12315adf323a939c",
+    "paymentNumber": "PAY-1409-7694",
+    "patient": "6aa77025e37d51b4173a9729",
+    "appointment": "6aa770d90684d83eba3a9399",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-14T05:15:59.996Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aa770d9d33030b61b3a939a",
+        "invoiceNumber": "INV-2609-0010",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6aa7830f9a2323219d3a939d"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-14T05:15:59.996Z",
+    "updatedAt": "2026-09-14T05:15:59.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa787845fce30dfce3a93a5",
+    "paymentNumber": "PAY-1409-8952",
+    "patient": "6aa77025e37d51b4173a9729",
+    "invoice": "6aa78784d09a7defda3a93a3",
+    "appointment": "6aa78783d26aaf259d3a93a2",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1275,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cc9ff01f6bb4ae063a91c5",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Gum Disease Treatment",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-14T05:35:00.152Z",
+    "updatedAt": "2026-09-14T05:35:00.152Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa7d65b432ec8ea0e3a9387",
+    "paymentNumber": "PAY-1409-4947",
+    "patient": "6aa2a2bb76edb04f9d3a9726",
+    "appointment": "6aa2b9ee5ec1bcbcfe3a9384",
+    "amount": 1425,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-14T11:11:23.497Z",
+    "referenceNumber": "APPR734465",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6aa2b9ef36e53719cd3a9385",
+        "invoiceNumber": "INV-2609-0006",
+        "appliedAmount": 1425,
+        "previousAmountPaid": 0,
+        "_id": "6aa7d65b8634378fb73a9388"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-14T11:11:23.497Z",
+    "updatedAt": "2026-09-14T11:11:23.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab0d29bb660e5ae5c3a9367",
+    "paymentNumber": "PAY-2109-4802",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "appointment": "6ab0d29df7f36ca7203a9363",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-09-21T06:48:30.632Z",
+    "razorpayOrderId": "order_4c6jrGiLtCwtkT",
+    "razorpayPaymentId": "pay_a81N4Ldp7mtEK8",
+    "razorpaySignature": "db3fbbb2e7a71ec8f7d5b7d83efc2942f1365f78e3ba797b8f8d29f6992d73f3",
+    "razorpayDetails": {
+      "receipt": "init_1789973147632"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ab0d34ae5d16eab603a9364",
+        "invoiceNumber": "INV-2609-0015",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ab0d34ab22b9cc0b73a9366"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-09-21T06:45:47.632Z",
+    "updatedAt": "2026-09-21T06:48:42.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab366fcd7ae6fe23a3a93ac",
+    "paymentNumber": "PAY-2309-1139",
+    "patient": "6ab36684471f0eb1ed3a972b",
+    "amount": 2000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ab366fc4807963e333a93aa",
+        "invoiceNumber": "INV-2609-0016",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6ab366fc179a005a163a93ad"
+      }
+    ],
+    "recordedBy": "69ce06395c660594f03a91c8",
+    "reversed": false,
+    "createdAt": "2026-09-23T05:43:24.643Z",
+    "updatedAt": "2026-09-23T05:43:24.643Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab3b819cb34b0e51f3a9394",
+    "paymentNumber": "PAY-2309-5415",
+    "patient": "6aa52a3e9b61d219943a9727",
+    "appointment": "6aa8d3277a9d5a4d473a9393",
+    "amount": 5000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-23T11:29:29.811Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 2 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6aa53d8766859d0b7b3a938f",
+        "invoiceNumber": "INV-2609-0008",
+        "appliedAmount": 5000,
+        "previousAmountPaid": 6500,
+        "_id": "6ab3b81972012bc9673a9395"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-09-23T11:29:29.811Z",
+    "updatedAt": "2026-09-23T11:29:29.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab3e9e777be68feb33a9458",
+    "paymentNumber": "PAY-2309-8271",
+    "patient": "6a0c121145251c2f723a970e",
+    "appointment": "6a8eceb205fe6257823a9457",
+    "amount": 5000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-23T15:01:59.223Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Monthly adjustment payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6a8c1ea996b94ad1113a9454",
+        "invoiceNumber": "INV-2608-0013",
+        "appliedAmount": 5000,
+        "previousAmountPaid": 10000,
+        "_id": "6ab3e9e7bfcb48c6b43a9459"
+      }
+    ],
+    "recordedBy": "69cf47ab423e51957c3a91ca",
+    "reversed": false,
+    "createdAt": "2026-09-23T15:01:59.223Z",
+    "updatedAt": "2026-09-23T15:01:59.223Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab53a09e04c1cd4143a93b2",
+    "paymentNumber": "PAY-2409-9619",
+    "patient": "6aae7a49185164d7e33a972c",
+    "appointment": "6aae7a8745fefb2df03a93af",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-24T14:56:09.338Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aae7a87cb2c2295513a93b0",
+        "invoiceNumber": "INV-2609-0014",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ab53a0964957649843a93b3"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-24T14:56:09.338Z",
+    "updatedAt": "2026-09-24T14:56:09.338Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab5445ce46ccbf6b93a93c1",
+    "paymentNumber": "PAY-2409-4518",
+    "patient": "6ab5440aceb6cd58793a972f",
+    "appointment": "6ab5446262a36fe2403a93bd",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-09-24T15:42:35.193Z",
+    "razorpayOrderId": "order_dkKiKgo22igrB8",
+    "razorpayPaymentId": "pay_qYvd0Gx5jzDcKp",
+    "razorpaySignature": "ae16f3aebb0e5c8ab2845a33314f3b3664d4b507e3437d27e423edfce212f072",
+    "razorpayDetails": {
+      "receipt": "init_1790264414193"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ab544faa181b416373a93be",
+        "invoiceNumber": "INV-2609-0017",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ab544fac272938e843a93c0"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-09-24T15:40:12.193Z",
+    "updatedAt": "2026-09-24T15:42:50.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab5fe154479d79b353a93b7",
+    "paymentNumber": "PAY-2509-2210",
+    "patient": "6ab5fe0132b07f20da3a972d",
+    "invoice": "6ab5fe1592ddf0f7753a93b5",
+    "appointment": "6ab5fe15d9a2b7b1c03a93b4",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf47ab423e51957c3a91ca",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-25T04:52:37.509Z",
+    "updatedAt": "2026-09-25T04:52:37.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba09c0a78cd647ad3a93c5",
+    "paymentNumber": "PAY-2809-5713",
+    "patient": "6aba09795b2e6cffaa3a9730",
+    "invoice": "6aba09c06ab80867923a93c3",
+    "appointment": "6aba09c06ec176921d3a93c2",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf47ab423e51957c3a91ca",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-28T06:31:28.901Z",
+    "updatedAt": "2026-09-28T06:31:28.901Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba1e64298e98e16c3a9681",
+    "paymentNumber": "PAY-2809-4128",
+    "patient": "6aba09795b2e6cffaa3a9730",
+    "amount": 350,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-28T07:59:32.092Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aba1d7455f20b14653a967f",
+        "invoiceNumber": "INV-2609-0021",
+        "appliedAmount": 350,
+        "previousAmountPaid": 0,
+        "_id": "6aba1e64466cc1f03d3a9682"
+      }
+    ],
+    "recordedBy": "69ce06395c660594f03a91c8",
+    "reversed": false,
+    "createdAt": "2026-09-28T07:59:32.092Z",
+    "updatedAt": "2026-09-28T07:59:32.092Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba5bb0bb1f2f54c93a9685",
+    "paymentNumber": "PAY-2809-1672",
+    "patient": "6ab5440aceb6cd58793a972f",
+    "amount": 500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-28T12:21:04.870Z",
+    "referenceNumber": "674037097138",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aba5afc120bdacafe3a9683",
+        "invoiceNumber": "INV-2609-0023",
+        "appliedAmount": 500,
+        "previousAmountPaid": 0,
+        "_id": "6aba5bb01368856a113a9686"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-28T12:21:04.870Z",
+    "updatedAt": "2026-09-28T12:21:04.870Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aba6f875b20465c5c3a93bb",
+    "paymentNumber": "PAY-2809-7080",
+    "patient": "6aba5bbc2ccb0b87303a972e",
+    "appointment": "6aba5ce8623c0d45ca3a93b8",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-28T13:45:43.785Z",
+    "referenceNumber": "664267774252",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aba5ce8398a9dce403a93b9",
+        "invoiceNumber": "INV-2609-0024",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6aba6f87dd5e96dba53a93bc"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-09-28T13:45:43.785Z",
+    "updatedAt": "2026-09-28T13:45:43.785Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abb4280ed2322ca0c3a93ca",
+    "paymentNumber": "PAY-2909-3175",
+    "patient": "6aba09795b2e6cffaa3a9730",
+    "appointment": "6aba21340d1b27b0753a93c6",
+    "amount": 1000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-09-29T04:45:52.158Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6aba2134edd1354f753a93c7",
+        "invoiceNumber": "INV-2609-0022",
+        "appliedAmount": 1000,
+        "previousAmountPaid": 0,
+        "_id": "6abb4280124e41533c3a93cb"
+      }
+    ],
+    "recordedBy": "69cf47ab423e51957c3a91ca",
+    "reversed": false,
+    "createdAt": "2026-09-29T04:45:52.158Z",
+    "updatedAt": "2026-09-29T04:45:52.158Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abcaeeae7f10b6ffa3a9477",
+    "paymentNumber": "PAY-3009-1796",
+    "patient": "6a731a8623153d62ac3a971f",
+    "invoice": "6abcaeea50593cd02b3a9475",
+    "appointment": "6abcaeea3ef79254353a9474",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "refunded",
+    "type": "opd_fee",
+    "receivedBy": "69ce028fdacdcdbebd3a91c7",
+    "refund": {
+      "amount": 300,
+      "refundedAt": "2026-10-02T13:30:02.173Z",
+      "refundedBy": "69cf439dc35ff0179e3a91c9",
+      "reason": "Appointment cancelled by patient",
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-09-30T06:40:42.270Z",
+    "updatedAt": "2026-10-02T13:30:02.173Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abdc12812393792503a93d3",
+    "paymentNumber": "PAY-0110-6137",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "appointment": "6abdc12a1a15207f4b3a93cf",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-10-01T02:13:06.285Z",
+    "razorpayOrderId": "order_jvJejn3Y0VvHFN",
+    "razorpayPaymentId": "pay_9LB9SPT5oMCiiQ",
+    "razorpaySignature": "4d7a8884d3af74c1f1f1a811d706c2cd82da65d91d61fd78bc7e3bf1d77d7c4b",
+    "razorpayDetails": {
+      "receipt": "init_1790820644285"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6abdc1ba627288f9693a93d0",
+        "invoiceNumber": "INV-2610-0001",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6abdc1ba80018efdf63a93d2"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-10-01T02:10:48.285Z",
+    "updatedAt": "2026-10-01T02:13:14.545Z",
+    "__v": 0
+  },
+  {
+    "_id": "6abe75d2dba96278a63a9336",
+    "paymentNumber": "PAY-0110-1159",
+    "patient": "6a71b3178aa1542a713a971e",
+    "appointment": "6abe4e798415d846973a9333",
+    "amount": 1275,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-01T15:01:38.990Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6abe4e79d1855b83be3a9334",
+        "invoiceNumber": "INV-2610-0002",
+        "appliedAmount": 1275,
+        "previousAmountPaid": 0,
+        "_id": "6abe75d291b6bd92fd3a9337"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-01T15:01:38.990Z",
+    "updatedAt": "2026-10-01T15:01:38.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac384567ecd209df43a93d8",
+    "paymentNumber": "PAY-0510-1008",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "appointment": "6abfbf326ce40d62713a93d4",
+    "amount": 5000,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-05T11:04:54.755Z",
+    "referenceNumber": "APPR204305",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 1 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6abfbf3262d28cd02f3a93d5",
+        "invoiceNumber": "INV-2610-0003",
+        "appliedAmount": 5000,
+        "previousAmountPaid": 0,
+        "_id": "6ac3845601843b49933a93d9"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-05T11:04:54.755Z",
+    "updatedAt": "2026-10-05T11:04:54.755Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac3a1f65fbc70908f3a926f",
+    "paymentNumber": "PAY-0510-4195",
+    "patient": "6a02ad6911b51303083a970c",
+    "invoice": "6ac3a1f67981b528f23a926d",
+    "appointment": "6ac3a1f67b239e660d3a926c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 30000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Clear Aligners",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-05T13:11:18.320Z",
+    "updatedAt": "2026-10-05T13:11:18.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac4b9e7f0a039051d3a93e1",
+    "paymentNumber": "PAY-0610-6563",
+    "patient": "6ac4b933b83da90d733a9733",
+    "amount": 4999,
+    "paymentMode": "netbanking",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ac4b9e7c183a7491d3a93df",
+        "invoiceNumber": "INV-2610-0006",
+        "appliedAmount": 4999,
+        "previousAmountPaid": 0,
+        "_id": "6ac4b9e74b49c3a2143a93e2"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-06T09:05:43.674Z",
+    "updatedAt": "2026-10-06T09:05:43.674Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac87c027b98ab14803a93e7",
+    "paymentNumber": "PAY-0910-9177",
+    "patient": "6ac79bed95531ec7f83a9734",
+    "appointment": "6ac79c354768725be73a93e4",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-09T05:30:42.968Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ac79c357b20d502353a93e5",
+        "invoiceNumber": "INV-2610-0009",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ac87c0238fdd43ac93a93e8"
+      }
+    ],
+    "recordedBy": "69cca5912aa8103b393a91c6",
+    "reversed": false,
+    "createdAt": "2026-10-09T05:30:42.968Z",
+    "updatedAt": "2026-10-09T05:30:42.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac881dfff370937d73a93ed",
+    "paymentNumber": "PAY-0910-4174",
+    "patient": "6ac79bed95531ec7f83a9734",
+    "invoice": "6ac881df39d956bd513a93ea",
+    "appointment": "6ac881de24c7936ba13a93e9",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 1000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69ce06395c660594f03a91c8",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Dental Filling",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-09T05:55:43.167Z",
+    "updatedAt": "2026-10-09T05:55:43.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc418957554eb4103a9406",
+    "paymentNumber": "PAY-1210-2199",
+    "patient": "6acc414700b8352fbd3a9736",
+    "appointment": "6acc418e001e26ba443a9402",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-10-12T02:14:15.250Z",
+    "razorpayOrderId": "order_2bRK4ZmZrg3rnV",
+    "razorpayPaymentId": "pay_FzTjqB2PMV6uql",
+    "razorpaySignature": "aa79df398e81a609fabd5885882f5db7e3fff23a7c60893d8ab899aa7567c156",
+    "razorpayDetails": {
+      "receipt": "init_1791771016250"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6acc427ce33c2750283a9403",
+        "invoiceNumber": "INV-2610-0011",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6acc427cae23ce97313a9405"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-10-12T02:10:17.250Z",
+    "updatedAt": "2026-10-12T02:14:20.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc86de0e7aef06a43a93f2",
+    "paymentNumber": "PAY-1210-3121",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6acc86de9f1866f0553a93f0",
+        "invoiceNumber": "INV-2610-0012",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6acc86de334176766a3a93f3"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-12T07:06:06.885Z",
+    "updatedAt": "2026-10-12T07:06:06.885Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc897b642ed1759d3a93ee",
+    "paymentNumber": "PAY-1210-3609",
+    "patient": "6ac79bed95531ec7f83a9734",
+    "appointment": "6ac881de24c7936ba13a93e9",
+    "amount": 900,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-12T07:17:15.181Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ac881df39d956bd513a93ea",
+        "invoiceNumber": "INV-2610-0010",
+        "appliedAmount": 900,
+        "previousAmountPaid": 1000,
+        "_id": "6acc897bd3f8b35cb33a93ef"
+      }
+    ],
+    "recordedBy": "69cf47ab423e51957c3a91ca",
+    "reversed": false,
+    "createdAt": "2026-10-12T07:17:15.181Z",
+    "updatedAt": "2026-10-12T07:17:15.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc966cf7c937441c3a93f7",
+    "paymentNumber": "PAY-1210-9556",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "appointment": "6acc8756fbb92f831a3a93f4",
+    "amount": 425,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-12T08:12:28.230Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6acc8756c7007907473a93f5",
+        "invoiceNumber": "INV-2610-0013",
+        "appliedAmount": 425,
+        "previousAmountPaid": 0,
+        "_id": "6acc966c72b8f0ee813a93f8"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-12T08:12:28.230Z",
+    "updatedAt": "2026-10-12T08:12:28.230Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accbe5eec547bae153a93db",
+    "paymentNumber": "PAY-1210-8710",
+    "patient": "6abdc0ec08d9d33ab13a9732",
+    "appointment": "6ac385fa1526123bf33a93da",
+    "amount": 4500,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-12T11:02:54.018Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6abfbf3262d28cd02f3a93d5",
+        "invoiceNumber": "INV-2610-0003",
+        "appliedAmount": 4500,
+        "previousAmountPaid": 5000,
+        "_id": "6accbe5e5ec0d326fe3a93dc"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-12T11:02:54.018Z",
+    "updatedAt": "2026-10-12T11:02:54.018Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accf02095f90f46cd3a934b",
+    "paymentNumber": "PAY-1210-6496",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "appointment": "6ac792b06213ace3b63a9348",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-12T14:35:12.738Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ac792b053eac97c633a9349",
+        "invoiceNumber": "INV-2610-0007",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6accf0208e4049f30a3a934c"
+      }
+    ],
+    "recordedBy": "69cc9ff01f6bb4ae063a91c5",
+    "reversed": false,
+    "createdAt": "2026-10-12T14:35:12.738Z",
+    "updatedAt": "2026-10-12T14:35:12.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accf368bc3944bf323a9351",
+    "paymentNumber": "PAY-1210-6086",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "invoice": "6accf368990669581f3a934e",
+    "appointment": "6accf368bf1adf4bf13a934d",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1000,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69cc9ff01f6bb4ae063a91c5",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Dental Filling",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-12T14:49:12.883Z",
+    "updatedAt": "2026-10-12T14:49:12.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdd8e030822f79933a9352",
+    "paymentNumber": "PAY-1310-1957",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "appointment": "6accf368bf1adf4bf13a934d",
+    "amount": 1700,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-13T07:08:16.528Z",
+    "referenceNumber": "409969996334",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6accf368990669581f3a934e",
+        "invoiceNumber": "INV-2610-0015",
+        "appliedAmount": 1700,
+        "previousAmountPaid": 1000,
+        "_id": "6acdd8e019cae607ee3a9353"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-13T07:08:16.528Z",
+    "updatedAt": "2026-10-13T07:08:16.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acddac0cf561c63743a968e",
+    "paymentNumber": "PAY-1310-7297",
+    "patient": "6a7d771036b59c0cce3a9720",
+    "amount": 350,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-13T07:16:16.528Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6acdd9d0aa4865c4843a968c",
+        "invoiceNumber": "INV-2610-0016",
+        "appliedAmount": 350,
+        "previousAmountPaid": 0,
+        "_id": "6acddac095ec3795e83a968f"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-13T07:16:16.528Z",
+    "updatedAt": "2026-10-13T07:16:16.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad1f134e48503c8733a93fc",
+    "paymentNumber": "PAY-1610-4297",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "appointment": "6acc997806ce86b1463a93f9",
+    "amount": 1500,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-16T09:41:08.988Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 1 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6acc9978483cee790f3a93fa",
+        "invoiceNumber": "INV-2610-0014",
+        "appliedAmount": 1500,
+        "previousAmountPaid": 0,
+        "_id": "6ad1f13402fb58e7723a93fd"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-16T09:41:08.988Z",
+    "updatedAt": "2026-10-16T09:41:08.988Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5b1e64001b256e13a9436",
+    "paymentNumber": "PAY-1910-3008",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "appointment": "6ad313ca85ae62d86a3a9433",
+    "amount": 300,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-19T06:00:06.390Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad313ca7069f983573a9434",
+        "invoiceNumber": "INV-2610-0019",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ad5b1e69ed1ea91d73a9437"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-19T06:00:06.390Z",
+    "updatedAt": "2026-10-19T06:00:06.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5b31218b5652f2e3a943c",
+    "paymentNumber": "PAY-1910-8420",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "invoice": "6ad5b312a4b85837ad3a9439",
+    "appointment": "6ad5b3124f4e821df53a9438",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69ce028fdacdcdbebd3a91c7",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Root Canal Treatment (RCT)",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-19T06:05:06.572Z",
+    "updatedAt": "2026-10-19T06:05:06.572Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5b4b6fe411486bf3a9692",
+    "paymentNumber": "PAY-1910-8535",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "amount": 500,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-19T06:12:06.390Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad5b38a821f49dd513a9690",
+        "invoiceNumber": "INV-2610-0021",
+        "appliedAmount": 500,
+        "previousAmountPaid": 0,
+        "_id": "6ad5b4b6c4800301383a9693"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-19T06:12:06.390Z",
+    "updatedAt": "2026-10-19T06:12:06.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5ed32398884036e3a940a",
+    "paymentNumber": "PAY-1910-2274",
+    "patient": "6acc414700b8352fbd3a9736",
+    "appointment": "6ad23e9051194638ba3a9407",
+    "amount": 1500,
+    "paymentMode": "card",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-19T10:13:06.631Z",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Balance cleared",
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad23e9099ed154d3f3a9408",
+        "invoiceNumber": "INV-2610-0018",
+        "appliedAmount": 1500,
+        "previousAmountPaid": 0,
+        "_id": "6ad5ed326bdbc39f6f3a940b"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-19T10:13:06.631Z",
+    "updatedAt": "2026-10-19T10:13:06.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad5f2511d0e5a28b83a941a",
+    "paymentNumber": "PAY-1910-6511",
+    "patient": "6ad5f1ffc03a7052003a9738",
+    "appointment": "6ad5f256009465d6de3a9416",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-10-19T10:37:24.233Z",
+    "razorpayOrderId": "order_MCkFRK0RLzcIPM",
+    "razorpayPaymentId": "pay_ML85aTkp4eiikj",
+    "razorpaySignature": "c14f75c6dfd01133c4711f69881f8ecc18750b747334d3ae0e83d077310f8580",
+    "razorpayDetails": {
+      "receipt": "init_1792406099233"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad5f2ec6f8cd319f53a9417",
+        "invoiceNumber": "INV-2610-0022",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ad5f2ecc49ce67f703a9419"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-10-19T10:34:57.233Z",
+    "updatedAt": "2026-10-19T10:37:32.493Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad99d32877c51697c3a9465",
+    "paymentNumber": "PAY-2210-5368",
+    "patient": "6ad99d184ea8535e733a973b",
+    "appointment": "6ad99d3841110c05613a9461",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-10-22T05:24:10.719Z",
+    "razorpayOrderId": "order_zgaKp2frNisAI5",
+    "razorpayPaymentId": "pay_wII4MrxhyFjWlf",
+    "razorpaySignature": "897268760093f943bda90876eb0e9a9a7153e6dc195d837a638fa87698bf76e3",
+    "razorpayDetails": {
+      "receipt": "init_1792646450719"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad99e04c762467ffe3a9462",
+        "invoiceNumber": "INV-2610-0023",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6ad99e04d40e0fa1da3a9464"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-10-22T05:20:50.719Z",
+    "updatedAt": "2026-10-22T05:24:20.979Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9d16d851a90fc603a940f",
+    "paymentNumber": "PAY-2210-7782",
+    "patient": "6ad9d1a9986052ef993a9737",
+    "amount": 2000,
+    "paymentMode": "netbanking",
+    "status": "paid",
+    "type": "membership",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad9d16d87971055d43a940d",
+        "invoiceNumber": "INV-2610-0024",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 0,
+        "_id": "6ad9d16d5c720f46f03a9410"
+      }
+    ],
+    "recordedBy": "69ce028fdacdcdbebd3a91c7",
+    "reversed": false,
+    "createdAt": "2026-10-22T09:03:41.539Z",
+    "updatedAt": "2026-10-22T09:03:41.539Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad9e6a65fc77cda0a3a9415",
+    "paymentNumber": "PAY-2210-5486",
+    "patient": "6ad9d1a9986052ef993a9737",
+    "invoice": "6ad9e6a69661bab3273a9413",
+    "appointment": "6ad9e6a6aa9d91d3f33a9412",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 1000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "treatment",
+    "receivedBy": "69ce028fdacdcdbebd3a91c7",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Treatment payment collected at booking — Wisdom Teeth",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-22T10:34:14.416Z",
+    "updatedAt": "2026-10-22T10:34:14.416Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ada102630077ea1a73a93ff",
+    "paymentNumber": "PAY-2210-3937",
+    "patient": "6acc85ee52c573e6b53a9735",
+    "appointment": "6ad1f1ac4c864050063a93fe",
+    "amount": 2000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-22T13:31:18.254Z",
+    "referenceNumber": "418913364131",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6acc9978483cee790f3a93fa",
+        "invoiceNumber": "INV-2610-0014",
+        "appliedAmount": 2000,
+        "previousAmountPaid": 1500,
+        "_id": "6ada1026c4d923cef83a9400"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-22T13:31:18.254Z",
+    "updatedAt": "2026-10-22T13:31:18.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ada357f4d04e9ce303a969e",
+    "paymentNumber": "PAY-2210-6136",
+    "patient": "6a3f5655eeab07062a3a9719",
+    "treatmentType": "69ce4c5d7ea074781b3a9223",
+    "treatmentName": "Teeth Whitening",
+    "amount": 7000,
+    "paymentMode": "cash",
+    "status": "pending",
+    "type": "treatment",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Pay at clinic — Treatment: Teeth Whitening",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-22T16:10:39.115Z",
+    "updatedAt": "2026-10-22T16:10:39.115Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adaeea0c9a705dcff3a9473",
+    "paymentNumber": "PAY-2310-5060",
+    "patient": "6adaee58dab6bee6cd3a973d",
+    "appointment": "6adaeea2fd95df8b1b3a946f",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-10-23T05:24:19.629Z",
+    "razorpayOrderId": "order_Pnb17hrJhAZ8QQ",
+    "razorpayPaymentId": "pay_EtNx6vw6nj1jMa",
+    "razorpaySignature": "79f7c936be20b5074eefa46734fd724ec4301563b6b931b06ae624d3e1d6e496",
+    "razorpayDetails": {
+      "receipt": "init_1792732832629"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6adaef928e876ff41a3a9470",
+        "invoiceNumber": "INV-2610-0027",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6adaef921e84612ef43a9472"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-10-23T05:20:32.629Z",
+    "updatedAt": "2026-10-23T05:24:34.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb72ee2b8792aa5d3a96a2",
+    "paymentNumber": "PAY-2310-8105",
+    "patient": "6a99625a549c9f3fb53a9725",
+    "treatmentType": "69ce4bbc5023cddb9c3a9221",
+    "treatmentName": "Dental Filling",
+    "amount": 1200,
+    "paymentMode": "cash",
+    "status": "pending",
+    "type": "treatment",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Pay at clinic — Treatment: Dental Filling",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-23T14:45:02.975Z",
+    "updatedAt": "2026-10-23T14:45:02.975Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb86e30526879b693a96a0",
+    "paymentNumber": "PAY-2310-1780",
+    "patient": "6aa77025e37d51b4173a9729",
+    "treatmentType": "69ce4df99a6a270d0a3a9227",
+    "treatmentName": "Scaling & Polishing",
+    "amount": 1275,
+    "paymentMode": "cash",
+    "status": "pending",
+    "type": "treatment",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Pay at clinic — Treatment: Scaling & Polishing (15% member discount on ₹1500)",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-23T16:10:11.666Z",
+    "updatedAt": "2026-10-23T16:10:11.666Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adb88a06951b982e93a9445",
+    "paymentNumber": "PAY-2310-4438",
+    "patient": "6a2a525da3831803343a9715",
+    "appointment": "6adb88a69d3ffdd5de3a9441",
+    "clinic": "69ccaa73dc55f1e40b3a91ce",
+    "amount": 300,
+    "paymentMode": "razorpay",
+    "status": "paid",
+    "type": "advance",
+    "paidAt": "2026-10-23T16:20:35.831Z",
+    "razorpayOrderId": "order_ArDxMD4S6jkeh9",
+    "razorpayPaymentId": "pay_VJH5KmerCALMNL",
+    "razorpaySignature": "bd90124be540bc7a3145aca150e2667daff31764a2c9e09a2bf3e061fbdfaba9",
+    "razorpayDetails": {
+      "receipt": "init_1792772259831"
+    },
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "settledInvoices": [
+      {
+        "invoiceId": "6adb895bc4fa9b00c83a9442",
+        "invoiceNumber": "INV-2610-0029",
+        "appliedAmount": 300,
+        "previousAmountPaid": 0,
+        "_id": "6adb895cc7ae7b6e693a9444"
+      }
+    ],
+    "reversed": false,
+    "createdAt": "2026-10-23T16:17:36.831Z",
+    "updatedAt": "2026-10-23T16:20:44.091Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeccb531f970010e3a942f",
+    "paymentNumber": "PAY-2610-8630",
+    "patient": "6adecc0192e5a76ffa3a9739",
+    "invoice": "6adeccb524f97a3f4f3a942d",
+    "appointment": "6adeccb584d43bf28a3a942c",
+    "clinic": "69cca8a9d55700278d3a91cd",
+    "amount": 300,
+    "paymentMode": "cash",
+    "status": "paid",
+    "type": "opd_fee",
+    "receivedBy": "69cf439dc35ff0179e3a91c9",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "OPD fee collected at admin walk-in booking",
+    "settledInvoices": [],
+    "reversed": false,
+    "createdAt": "2026-10-26T03:44:53.277Z",
+    "updatedAt": "2026-10-26T03:44:53.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adee01f0102ec39123a943e",
+    "paymentNumber": "PAY-2610-8245",
+    "patient": "6a827fc2fe6cbcead63a9722",
+    "appointment": "6ad5cea77581c9efc83a943d",
+    "amount": 3000,
+    "paymentMode": "upi",
+    "status": "paid",
+    "type": "invoice_payment",
+    "paidAt": "2026-10-26T05:07:43.730Z",
+    "referenceNumber": "466835933504",
+    "refund": {
+      "razorpayError": null,
+      "manualMethod": null,
+      "confirmedManuallyAt": null,
+      "confirmedManuallyBy": null,
+      "exceedsCollectedAmount": false
+    },
+    "notes": "Session 2 payment",
+    "settledInvoices": [
+      {
+        "invoiceId": "6ad5b312a4b85837ad3a9439",
+        "invoiceNumber": "INV-2610-0020",
+        "appliedAmount": 3000,
+        "previousAmountPaid": 2000,
+        "_id": "6adee01f351bfd8bf93a943f"
+      }
+    ],
+    "recordedBy": "69cf439dc35ff0179e3a91c9",
+    "reversed": false,
+    "createdAt": "2026-10-26T05:07:43.730Z",
+    "updatedAt": "2026-10-26T05:07:43.730Z",
+    "__v": 0
+  }
+]

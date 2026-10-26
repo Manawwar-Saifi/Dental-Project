@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "69cca8a9d55700278d3a91cd",
+    "name": "Dental Clinic - Sector 15",
+    "code": "US",
+    "address": {
+      "street": "SCO 42, Main Market",
+      "area": "Sector 15",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "phone": "9812300415",
+    "isActive": true,
+    "createdAt": "2026-04-01T05:10:01.720Z",
+    "updatedAt": "2026-04-04T05:10:06.659Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ccaa73dc55f1e40b3a91ce",
+    "name": "Dental Clinic - Murthal Road",
+    "code": "UM",
+    "address": {
+      "street": "First Floor, 118 Murthal Road, Near Gita Bhawan Chowk",
+      "area": "Murthal Road",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "pincode": "131001"
+    },
+    "phone": "9812300427",
+    "isActive": true,
+    "createdAt": "2026-04-01T05:17:39.422Z",
+    "updatedAt": "2026-04-02T05:17:41.357Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "anchorDate": "2026-10-26",
+  "anchorTimeIST": "12:15",
+  "timezone": "Asia/Kolkata",
+  "generatedBy": "scripts/demo-data/generate.mjs",
+  "demoAccounts": {
+    "password": "Demo@123",
+    "staff": [
+      {
+        "role": "admin",
+        "name": "Dr. Arjun Malik",
+        "email": "admin@example.com",
+        "phone": "9812045673",
+        "isActive": true,
+        "_id": "69cc9ff01f6bb4ae063a91c5"
+      },
+      {
+        "role": "admin",
+        "name": "Dr. Kavita Rathee",
+        "email": "kavita.rathee@example.com",
+        "phone": "9896012347",
+        "isActive": true,
+        "_id": "69cca5912aa8103b393a91c6"
+      },
+      {
+        "role": "clinic_manager",
+        "name": "Sandeep Dahiya",
+        "email": "clinic_manager@example.com",
+        "phone": "9729034518",
+        "isActive": true,
+        "_id": "69ce028fdacdcdbebd3a91c7"
+      },
+      {
+        "role": "clinic_manager",
+        "name": "Pooja Kadian",
+        "email": "pooja.kadian@example.com",
+        "phone": "8901234765",
+        "isActive": true,
+        "_id": "69ce06395c660594f03a91c8"
+      },
+      {
+        "role": "user",
+        "name": "Ritu Sangwan",
+        "email": "user@example.com",
+        "phone": "7015823946",
+        "isActive": true,
+        "_id": "69cf439dc35ff0179e3a91c9"
+      },
+      {
+        "role": "user",
+        "name": "Amit Hooda",
+        "email": "amit.hooda@example.com",
+        "phone": "9467301258",
+        "isActive": true,
+        "_id": "69cf47ab423e51957c3a91ca"
+      },
+      {
+        "role": "blog_editor",
+        "name": "Nisha Antil",
+        "email": "blog_editor@example.com",
+        "phone": "8295607134",
+        "isActive": true,
+        "_id": "69d35c7787b5d2bb243a91cb"
+      },
+      {
+        "role": "user",
+        "name": "Deepak Jangra",
+        "email": "deepak.jangra@example.com",
+        "phone": "9354718206",
+        "isActive": false,
+        "_id": "69cf4d92578ae0b2603a91cc"
+      }
+    ],
+    "patient": {
+      "name": "Rohan Mehra",
+      "phone": "9876543210",
+      "email": "patient@example.com",
+      "password": "Demo@123",
+      "otp": "123456",
+      "_id": "6a02ad6911b51303083a970c"
+    }
+  },
+  "counts": {
+    "User": 8,
+    "Clinic": 2,
+    "SystemSettings": 1,
+    "Permission": 72,
+    "TreatmentMaster": 20,
+    "TestMaster": 10,
+    "MembershipPlan": 4,
+    "Lab": 4,
+    "Patient": 50,
+    "Appointment": 130,
+    "Counter": 90,
+    "Invoice": 115,
+    "Payment": 114,
+    "Treatment": 0,
+    "Test": 18,
+    "Report": 32,
+    "LabOrder": 6,
+    "FollowUpReminder": 23,
+    "Enquiry": 60,
+    "Notification": 111,
+    "Blog": 10,
+    "Expense": 59,
+    "ExternalIncome": 20
+  }
+}

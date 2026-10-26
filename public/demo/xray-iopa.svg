@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="320" viewBox="0 0 420 320">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#0b0b0b"/>
+    </radialGradient>
+  </defs>
+  <rect width="420" height="320" fill="url(#glow)"/>
+  <g transform="translate(150 150) rotate(0) scale(1.4)">
+    <path d="M-18,-40 C-30,-40 -32,-20 -28,-4 C-24,12 -20,34 -14,60 C-10,72 -4,70 -3,56 L0,30 L3,56 C4,70 10,72 14,60 C20,34 24,12 28,-4 C32,-20 30,-40 18,-40 C10,-40 6,-34 0,-34 C-6,-34 -10,-40 -18,-40 Z" fill="#d9d9d9" fill-opacity="0.85"/>
+    <path d="M-10,-30 C-12,-10 -8,20 -4,44 M10,-30 C12,-10 8,20 4,44" stroke="#555" stroke-width="3" fill="none"/>
+  </g>
+  <g transform="translate(270 150) rotate(0) scale(1.4)">
+    <path d="M-18,-40 C-30,-40 -32,-20 -28,-4 C-24,12 -20,34 -14,60 C-10,72 -4,70 -3,56 L0,30 L3,56 C4,70 10,72 14,60 C20,34 24,12 28,-4 C32,-20 30,-40 18,-40 C10,-40 6,-34 0,-34 C-6,-34 -10,-40 -18,-40 Z" fill="#d9d9d9" fill-opacity="0.85"/>
+    <path d="M-10,-30 C-12,-10 -8,20 -4,44 M10,-30 C12,-10 8,20 4,44" stroke="#555" stroke-width="3" fill="none"/>
+  </g>
+  <rect x="250" y="80" width="40" height="22" rx="6" fill="#fff" fill-opacity="0.9"/>
+  <text x="16" y="28" fill="#9ad" font-family="monospace" font-size="15">IOPA / RVG  -  TOOTH 36</text>
+  <text x="16" y="306" fill="#777" font-family="monospace" font-size="12">DENTAL CLINIC - DEMO IMAGE - NOT A REAL PATIENT SCAN</text>
+  <text x="210" y="170" fill="#ffffff" fill-opacity="0.08" font-family="sans-serif" font-size="80" font-weight="700" text-anchor="middle">DEMO</text>
+</svg>
